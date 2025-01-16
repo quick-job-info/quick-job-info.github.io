@@ -2,10 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="ico.png">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Info</title>
+    <title>Student Test</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -62,7 +60,7 @@
 <body>
 
 <div class="container">
-    <h1>Mason Test</h1>
+    <h1>Student Test</h1>
     <form id="testForm">
         <!-- Questions will be inserted here dynamically -->
     </form>
@@ -75,12 +73,20 @@
 fetch('questions.json')
     .then(response => response.json())
     .then(questions => {
-        loadQuestions(questions);
+        const numQuestionsToDisplay = 2; // Set how many questions to display
+        const selectedQuestions = selectRandomQuestions(questions, numQuestionsToDisplay);
+        loadQuestions(selectedQuestions);
         document.getElementById('submitBtn').addEventListener('click', function(event) {
             event.preventDefault();
-            validateAnswers(questions);
+            validateAnswers(selectedQuestions);
         });
     });
+
+// Function to select random questions
+function selectRandomQuestions(questions, numToSelect) {
+    const shuffled = questions.sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, numToSelect);
+}
 
 // Function to load questions dynamically
 function loadQuestions(questions) {
