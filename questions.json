@@ -478,7 +478,247 @@
         "All of the above"
     ],
     "correctAnswer": "Properly stage them away from walkway"
-}
+}, {
+        "question": "What structure is created to provide more accommodation within a restricted space?",
+        "options": [
+            "Plinth",
+            "Floor",
+            "Basement",
+            "Superstructure"
+        ],
+        "correctAnswer": "Floor"
+    },
+    {
+        "question": "What type of floor is cheap, hard, and fairly impervious?",
+        "options": [
+            "Muram floor",
+            "Mud floor",
+            "Brick floor",
+            "Flag stone floor"
+        ],
+        "correctAnswer": "Mud floor"
+    },
+    {
+        "question": "Which floor uses cow-dung mixed with earth, and a thin layer of this mix is spread over the compacted layer?",
+        "options": [
+            "Mud floor",
+            "Brick floor",
+            "Muram floor",
+            "Flag stone floor"
+        ],
+        "correctAnswer": "Mud floor"
+    },
+    {
+        "question": "Where are brick floors generally used?",
+        "options": [
+            "Residential building",
+            "Educational building",
+            "Assembly building",
+            "Warehouses"
+        ],
+        "correctAnswer": "Warehouses"
+    },
+    {
+        "question": "Which place is timber flooring most suitable for?",
+        "options": [
+            "Dancing hall",
+            "Dining hall",
+            "Community hall",
+            "Prayer hall"
+        ],
+        "correctAnswer": "Dancing hall"
+    },
+    {
+        "question": "What flooring is suitable for kitchens and toilets?",
+        "options": [
+            "Kota stone",
+            "Terrazzo tiles",
+            "Slate stone",
+            "Brick floor"
+        ],
+        "correctAnswer": "Terrazzo tiles"
+    },
+    {
+        "question": "What type of flooring is suitable for lobby, reception, and main lounge?",
+        "options": [
+            "Ceramic tiles",
+            "Marble floor",
+            "Cement concrete tiles",
+            "Agra red stone"
+        ],
+        "correctAnswer": "Ceramic tiles"
+    },
+    {
+        "question": "Which floor is constructed below ground level?",
+        "options": [
+            "Ground floor",
+            "First floor",
+            "Sub-floor",
+            "Basement floor"
+        ],
+        "correctAnswer": "Basement floor"
+    },
+    {
+        "question": "What is the thickness of the hard base concrete while constructing a marble floor?",
+        "options": [
+            "5 to 10 cm",
+            "10 to 12 cm",
+            "10 to 15 cm",
+            "15 to 20 cm"
+        ],
+        "correctAnswer": "10 to 15 cm"
+    },
+    {
+        "question": "What type of floor is mostly recommended to be used in courtyards, stores, godowns, etc.?",
+        "options": [
+            "Cement concrete floor",
+            "Brick floor",
+            "Tiled floor",
+            "Muram floor"
+        ],
+        "correctAnswer": "Brick floor"
+    },
+    {
+        "question": "Where tamping is done in compaction of concrete structure?",
+        "options": [
+            "Slab",
+            "Foundation cement",
+            "Column footing",
+            "Underground floor"
+        ],
+        "correctAnswer": "Slab"
+    },
+    {
+        "question": "What slab is designed for the ratio of the length and breadth is 2 or more?",
+        "options": [
+            "One way slab",
+            "Two way slab",
+            "Over hanging slab",
+            "Cantilever slab"
+        ],
+        "correctAnswer": "One way slab"
+    },
+    {
+        "question": "What is the dead load?",
+        "options": [
+            "Roof",
+            "Snow",
+            "Wind pressure",
+            "Men and Animals"
+        ],
+        "correctAnswer": "Roof"
+    },
+    {
+        "question": "Which method of site exploration is suitable for a depth of 6 to 8m range?",
+        "options": [
+            "Test pit",
+            "Probing",
+            "Auger boring",
+            "Wash boring"
+        ],
+        "correctAnswer": "Auger boring"
+    },
+    {
+        "question": "Which is the lowest part of building?",
+        "options": [
+            "Superstructure",
+            "Wall",
+            "Foundation",
+            "Roof"
+        ],
+        "correctAnswer": "Foundation"
+    },
+    {
+        "question": "Which part of a structure is in direct contact with the ground?",
+        "options": [
+            "Plinth",
+            "Foundation",
+            "Basement",
+            "Superstructure"
+        ],
+        "correctAnswer": "Foundation"
+    },
+    {
+        "question": "Which windows are provided for the only purpose of admitting light and vision in the room?",
+        "options": [
+            "Gable window",
+            "Bay window",
+            "Fixed window",
+            "Sliding window"
+        ],
+        "correctAnswer": "Fixed window"
+    },
+    {
+        "question": "What thumb rule is used to arrive at the width of a window?",
+        "options": [
+            "1/10 (Width of room + height of room)",
+            "1/8 (Width of room + height of room)",
+            "1/6 (Width of room + height of room)",
+            "1/4 (Width of room + height of room)"
+        ],
+        "correctAnswer": "1/8 (Width of room + height of room)"
+    },
+    {
+        "question": "What type of hinges are used where the shutters are thin?",
+        "options": [
+            "Butt hinge",
+            "Back flap hinge",
+            "Garnet hinge",
+            "Strap hinge"
+        ],
+        "correctAnswer": "Back flap hinge"
+    },
+    {
+        "question": "What holes allow any moisture that penetrates in the wall to flow outside?",
+        "options": [
+            "Top holes",
+            "Bottom holes",
+            "Center holes",
+            "Weep holes"
+        ],
+        "correctAnswer": "Weep holes"
+    },
+    {
+        "question": "Which pattern is suitable for sloping hills in refuse collection?",
+        "options": [
+            "Fan pattern",
+            "Interceptor pattern",
+            "Radial pattern",
+            "Zonal pattern"
+        ],
+        "correctAnswer": "Zonal pattern"
+    },
+    {
+        "question": "Which refuse collection system, having automatic flushing, is provided by water?",
+        "options": [
+            "Separate system of sewerage",
+            "Combined system of sewerage",
+            "Partially combined system of sewerage",
+            "Partially separated system of sewerage"
+        ],
+        "correctAnswer": "Combined system of sewerage"
+    },
+    {
+        "question": "Name the sloped roof that is formed with one slope only.",
+        "options": [
+            "Lean-to-roof",
+            "Couple roof",
+            "Couple-close roof",
+            "Collar roof"
+        ],
+        "correctAnswer": "Lean-to-roof"
+    },
+   
+    {
+        "question": "What is the maximum span of close couple roof?",
+        "options": [
+            "2.4 m",
+            "3.6 m",
+            "4.2 m",
+            "4.8 m"
+        ],
+        "correctAnswer": "4.2 m"
+    }
 
 
 
