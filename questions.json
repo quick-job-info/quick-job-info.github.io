@@ -2587,8 +2587,1805 @@
             "None of the above"
         ],
         "correctAnswer": "Spraying water"
+    },
+    {
+        "question": "Center lines are used to locate or represent the centers of:",
+        "options": [
+            "Arcs",
+            "Circles",
+            "Hidden round features",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Name the types of Drawings:",
+        "options": [
+            "Architectural",
+            "Structural drawings",
+            "Elevation drawing",
+            "All"
+        ],
+        "correctAnswer": "All"
+    },
+    {
+        "question": "List the tools used in Brick Work:",
+        "options": [
+            "Plumb bob",
+            "Hand saw",
+            "Bending lever",
+            "Binding hook"
+        ],
+        "correctAnswer": "Plumb bob"
+    },
+    {
+        "question": "Why are tools checked before working?",
+        "options": [
+            "To avoid breakage during work",
+            "It is mandatory",
+            "Supervisor instruction",
+            "To throw them out"
+        ],
+        "correctAnswer": "To avoid breakage during work"
+    },
+    {
+        "question": "What is Right angle measurement regarding layout?",
+        "options": [
+            "Layout should be in 90°",
+            "Layout should be in 45°",
+            "Layout should be in 180°",
+            "Layout should be in 360°"
+        ],
+        "correctAnswer": "Layout should be in 90°"
+    },
+    {
+        "question": "Why is marking of layout necessary before brick masonry?",
+        "options": [
+            "To know the exact location or orientation of brickwork",
+            "To know the exact location of Queen closer",
+            "To know the exact location of the right angle",
+            "None"
+        ],
+        "correctAnswer": "To know the exact location or orientation of brickwork"
+    },
+    {
+        "question": "List the tools used in Layout:",
+        "options": [
+            "Jointer",
+            "Marking gauge",
+            "Plumb bob",
+            "Mason thread"
+        ],
+        "correctAnswer": "Marking gauge"
+    },
+    {
+        "question": "Before brickwork, surface is wetted for better quality using:",
+        "options": [
+            "Portable water",
+            "Mortar",
+            "Lime mortar",
+            "None of these"
+        ],
+        "correctAnswer": "Portable water"
+    },
+    {
+        "question": "Why is the surface wetted before brickwork?",
+        "options": [
+            "To avoid the surface from soaking mortar water",
+            "To clean the surface",
+            "To apply the mortar",
+            "To gain strength"
+        ],
+        "correctAnswer": "To avoid the surface from soaking mortar water"
+    },
+    {
+        "question": "How do you prepare the surface before laying bricks?",
+        "options": [
+            "Clean all debris",
+            "Clean with wire brush",
+            "Remove loose concrete",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "Level transfer is done with the help of:",
+        "options": [
+            "Water level tube",
+            "Plumb bob",
+            "Spirit level",
+            "Straight edge"
+        ],
+        "correctAnswer": "Water level tube"
+    },
+    {
+        "question": "Why should the level of brickwork be checked on every layer?",
+        "options": [
+            "For proper thickness of brickwork",
+            "For proper level",
+            "For proper vertical alignment",
+            "Better appearance"
+        ],
+        "correctAnswer": "For proper level"
+    },
+    {
+        "question": "What is the size of standard bricks?",
+        "options": [
+            "190x90x90cm",
+            "190x90x90mm",
+            "230x110x70cm",
+            "230x110x70mm"
+        ],
+        "correctAnswer": "190x90x90mm"
+    },
+    {
+        "question": "Name the types of brick:",
+        "options": [
+            "Standard",
+            "Circular",
+            "Fine",
+            "None of these"
+        ],
+        "correctAnswer": "Standard"
+    },
+    {
+        "question": "How should bricks be checked on-site?",
+        "options": [
+            "Check their size, corner, colour, or by falling test",
+            "Check their thickness",
+            "Check their strength",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "What is the mortar ratio in 4” brickwork?",
+        "options": [
+            "1:4",
+            "1:5",
+            "1:6",
+            "1:3"
+        ],
+        "correctAnswer": "1:4"
+    },
+    {
+        "question": "What is Fine sand?",
+        "options": [
+            "The sand passes from the 4.75 mm sieve",
+            "The sand passes from the 600-micron sieve",
+            "The sand passes from the 150 mm sieve",
+            "The sand passes from the 2.36 mm sieve"
+        ],
+        "correctAnswer": "The sand passes from the 600-micron sieve"
+    },
+    {
+        "question": "What quality of sand should be used in brick masonry?",
+        "options": [
+            "Well graded",
+            "Coarse sand",
+            "Fine sand",
+            "None of this"
+        ],
+        "correctAnswer": "Well graded"
+    },
+    {
+        "question": "Why are bricks soaked in water before laying?",
+        "options": [
+            "So they don’t soak the mortar water",
+            "So they get more strength",
+            "So they get more weight",
+            "So they get good appearance"
+        ],
+        "correctAnswer": "So they don’t soak the mortar water"
+    },
+    {
+        "question": "For how much time should bricks be soaked in water?",
+        "options": [
+            "2 hours",
+            "1 hour",
+            "Half hour",
+            "3 hours"
+        ],
+        "correctAnswer": "1 hour"
+    },
+    {
+        "question": "What is the water absorption limit of 1st class bricks?",
+        "options": [
+            "20%",
+            "15%",
+            "25%",
+            "30%"
+        ],
+        "correctAnswer": "20%"
+    },
+    {
+        "question": "In which condition should bricks be cut using a mason trowel?",
+        "options": [
+            "When the brick is soft",
+            "When the brick is hard",
+            "When the brick is large",
+            "None of this"
+        ],
+        "correctAnswer": "When the brick is soft"
+    },
+    {
+        "question": "Name the chisel used for cutting bricks:",
+        "options": [
+            "Bolster chisel",
+            "Firmer chisel",
+            "Mortise chisel",
+            "Normal chisel"
+        ],
+        "correctAnswer": "Bolster chisel"
+    },
+        {
+        "question": "Which closer is used to break the joints in English bond?",
+        "options": [
+            "Queen closer",
+            "King closer",
+            "Door closer",
+            "Half closer"
+        ],
+        "correctAnswer": "Queen closer"
+    },
+    {
+        "question": "How much water should be added in 1 bag cement mortar?",
+        "options": [
+            "20 to 25 litres",
+            "15 to 20 litres",
+            "25 to 30 litres",
+            "30 to 35 litres"
+        ],
+        "correctAnswer": "20 to 25 litres"
+    },
+    {
+        "question": "How many bricks should be used in 1 cubic meter of brick masonry?",
+        "options": [
+            "500 bricks",
+            "450 bricks",
+            "600 bricks",
+            "550 bricks"
+        ],
+        "correctAnswer": "500 bricks"
+    },
+    {
+        "question": "What is the density of cement?",
+        "options": [
+            "1440 kg",
+            "1400 kg",
+            "1450 kg",
+            "1430 kg"
+        ],
+        "correctAnswer": "1440 kg"
+    },
+    {
+        "question": "What is the ratio of mortar in 9-inch brickwork?",
+        "options": [
+            "1:6",
+            "1:5",
+            "1:4",
+            "1:7"
+        ],
+        "correctAnswer": "1:6"
+    },
+    {
+        "question": "What is the thickness of mortar between the two layers?",
+        "options": [
+            "10mm",
+            "12mm",
+            "15mm",
+            "8mm"
+        ],
+        "correctAnswer": "10mm"
+    },
+    {
+        "question": "What is the maximum height that should be constructed in a day?",
+        "options": [
+            "1.5m",
+            "2m",
+            "1m",
+            "2.5m"
+        ],
+        "correctAnswer": "1.5m"
+    }, {
+        "question": "The horizontal alignment of brick masonry is checked by……….?",
+        "options": [
+            "Mason thread",
+            "Straight edge",
+            "Plumb bob",
+            "Spirit level"
+        ],
+        "correctAnswer": "Mason thread"
+    },
+    {
+        "question": "Vertical alignment of brick masonry is checked with the help of ……?",
+        "options": [
+            "Plumb bob",
+            "Mason thread",
+            "Spirit level",
+            "Straight edge"
+        ],
+        "correctAnswer": "Plumb bob"
+    },
+    {
+        "question": "Why curing is very important for brick masonry?",
+        "options": [
+            "To maintain water cement ratio",
+            "To maintain strength",
+            "To maintain cement strength",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "What is the curing period for brick work?",
+        "options": [
+            "7 to 28 days",
+            "10 days",
+            "15 days",
+            "30 days"
+        ],
+        "correctAnswer": "7 to 28 days"
+    },
+    {
+        "question": "In which stage curing is done for brickwork?",
+        "options": [
+            "At every stage where cement is used",
+            "After drying the masonry",
+            "After work is complete",
+            "After 3 days"
+        ],
+        "correctAnswer": "At every stage where cement is used"
+    },
+    {
+        "question": "The ratio of slope in brickwork is………..?",
+        "options": [
+            "1:10",
+            "1:15",
+            "1:20",
+            "1:25"
+        ],
+        "correctAnswer": "1:20"
+    },
+    {
+        "question": "Leveling of brick masonry is done with the help of ……………..tool?",
+        "options": [
+            "On every course with spirit level",
+            "On every course with plumb bob",
+            "On every course with line thread",
+            "All of this"
+        ],
+        "correctAnswer": "All of this"
+    },
+    {
+        "question": "Vertical alignment of brick masonry is checked with the help of ……?",
+        "options": [
+            "Plumb bob",
+            "Spirit level",
+            "Line thread",
+            "Straight edge"
+        ],
+        "correctAnswer": "Plumb bob"
+    },
+    {
+        "question": "Horizontal line is checked with the help of……………..?",
+        "options": [
+            "Mason thread",
+            "Spirit level",
+            "Plumb bob",
+            "None of this"
+        ],
+        "correctAnswer": "Mason thread"
+    },
+    {
+        "question": "Straight edge is used for……………….?",
+        "options": [
+            "Line checking",
+            "Course checking",
+            "Wall length checking",
+            "None of this"
+        ],
+        "correctAnswer": "Line checking"
+    },
+    {
+        "question": "Straight edge is generally made up of……….metal?",
+        "options": [
+            "Aluminium",
+            "Copper",
+            "Steel",
+            "Steel & Aluminium mix"
+        ],
+        "correctAnswer": "Aluminium"
+    },
+    {
+        "question": "Why tri-square is used in brick work?",
+        "options": [
+            "For making/checking 90° angle in corner",
+            "For marking/checking 45° angle in corner",
+            "For marking/checking 180° angle in corner",
+            "For marking/checking 30° angle in corner"
+        ],
+        "correctAnswer": "For making/checking 90° angle in corner"
+    },{
+        "question": "What is 3-4-5 method?",
+        "options": [
+            "Trick to check right angle of brickwork",
+            "Trick to check course level",
+            "Trick to check wall length",
+            "None of this"
+        ],
+        "correctAnswer": "Trick to check right angle of brickwork"
+    },
+    {
+        "question": "Raking of joints is done with help of……………..tool?",
+        "options": [
+            "Straight edge",
+            "Trowel",
+            "Plumb bob",
+            "Pointer"
+        ],
+        "correctAnswer": "Pointer"
+    },
+    {
+        "question": "What is the depth of raking?",
+        "options": [
+            "10mm",
+            "8mm",
+            "15mm",
+            "12mm"
+        ],
+        "correctAnswer": "12mm"
+    },
+    {
+        "question": "Why Raking of joints is done?",
+        "options": [
+            "To make bond with plaster",
+            "To make strength with pointing",
+            "To make strength with cement mortar",
+            "None of this"
+        ],
+        "correctAnswer": "To make bond with plaster"
+    },
+    {
+        "question": "Joints of brick work are cleaned with the help of ………………tool?",
+        "options": [
+            "Pointer",
+            "Blaster chisel",
+            "Brick hammer",
+            "Trowel"
+        ],
+        "correctAnswer": "Pointer"
+    },
+    {
+        "question": "What is the ratio of pointing mortar?",
+        "options": [
+            "1:3",
+            "1:4",
+            "1:5",
+            "1:2"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "Which mortar is used in pointing?",
+        "options": [
+            "Cement slurry",
+            "Cement sand mortar",
+            "Bitumen sand mortar",
+            "Lime sand mortar"
+        ],
+        "correctAnswer": "Cement sand mortar"
+    },
+    {
+        "question": "Pointing is done up to ……………..thickness?",
+        "options": [
+            "12 mm",
+            "10mm",
+            "15mm",
+            "8mm"
+        ],
+        "correctAnswer": "10mm"
+    },
+    {
+        "question": "Which cement is used in pointing mortar?",
+        "options": [
+            "PPC",
+            "OPC",
+            "White cement",
+            "Quick setting cement"
+        ],
+        "correctAnswer": "OPC"
+    },
+    {
+        "question": "List the tools used in pointing?",
+        "options": [
+            "Mortar pan",
+            "Cement",
+            "Pointer",
+            "Fine sand"
+        ],
+        "correctAnswer": "Pointer"
+    },
+    {
+        "question": "The specified curing period of pointing is……………….days?",
+        "options": [
+            "14 days",
+            "20 days",
+            "10 days",
+            "7 days"
+        ],
+        "correctAnswer": "7 days"
+    },
+    {
+        "question": "What is the ratio of mortar in staircase brick work?",
+        "options": [
+            "1:4",
+            "1:5",
+            "1:6",
+            "1:3"
+        ],
+        "correctAnswer": "1:4"
+    },
+    {
+        "question": "Why alignment of staircase brick work is important?",
+        "options": [
+            "To avoid problem during railing fixing",
+            "To avoid problem during steel fixing",
+            "To avoid problem during concreting",
+            "All of above"
+        ],
+        "correctAnswer": "All of above"
+    },
+    {
+        "question": "Which bond is used in staircase brick work?",
+        "options": [
+            "Header",
+            "Stretcher bond",
+            "Flemish bond",
+            "English bond"
+        ],
+        "correctAnswer": "Stretcher bond"
+    },
+    {
+        "question": "Which bond is used in manholes brick work?",
+        "options": [
+            "Stretcher",
+            "Header",
+            "Flemish bond",
+            "English bond"
+        ],
+        "correctAnswer": "English bond"
+    },
+    {
+        "question": "The ratio of slope in manhole drain is?",
+        "options": [
+            "1:5",
+            "1:6",
+            "1:4",
+            "1:3"
+        ],
+        "correctAnswer": "1:3"
+    },
+      {
+        "question": "Why benching is provided in manholes?",
+        "options": [
+            "For proper setout of pipes",
+            "For strength",
+            "For proper slope",
+            "None of this"
+        ],
+        "correctAnswer": "For proper setout of pipes"
+    },
+    {
+        "question": "What is the ratio of mortar for paver block fixing?",
+        "options": [
+            "1:4",
+            "1:6",
+            "1:5",
+            "1:3"
+        ],
+        "correctAnswer": "1:4"
+    },
+    {
+        "question": "What materials are used for making paver blocks?",
+        "options": [
+            "Sand, cement, dust, chips",
+            "Sand, fine aggregate, cement",
+            "Sand, cement, fine sand",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "What is the size of concrete paver block?",
+        "options": [
+            "200x100x50mm",
+            "200x150x100",
+            "300x300x100",
+            "200x300x50"
+        ],
+        "correctAnswer": "200x100x50mm"
+    },
+    {
+        "question": "What is the ratio of mortar for arch masonry?",
+        "options": [
+            "1:3",
+            "1:4",
+            "1:6",
+            "1:2"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "Which stone is used for bonding the entire arch?",
+        "options": [
+            "Key stone",
+            "Through stone",
+            "Bond stone",
+            "Heart stone"
+        ],
+        "correctAnswer": "Key stone"
+    },
+    {
+        "question": "The compressive load of arch is borne by……………?",
+        "options": [
+            "Abutments",
+            "Pier",
+            "Pier cap",
+            "None of this"
+        ],
+        "correctAnswer": "Abutments"
+    },
+    {
+        "question": "Which bond is used to construct arch masonry?",
+        "options": [
+            "English",
+            "Flemish",
+            "Rat trap",
+            "Header"
+        ],
+        "correctAnswer": "English"
+    },
+    {
+        "question": "What is the curing period for arch masonry?",
+        "options": [
+            "21 days",
+            "15 days",
+            "28 days",
+            "7 days"
+        ],
+        "correctAnswer": "28 days"
+    },
+    {
+        "question": "What is blistering?",
+        "options": [
+            "Swelling accompanied by rupturing of a thin uniform skin",
+            "A thin layer of moisture",
+            "Efflorescence on surface",
+            "Scratch marks on plaster"
+        ],
+        "correctAnswer": "Swelling accompanied by rupturing of a thin uniform skin"
+    },
+    {
+        "question": "What is flaking?",
+        "options": [
+            "Flaking is an early stage of peeling",
+            "Moisture content",
+            "Seepage marks",
+            "Dampness"
+        ],
+        "correctAnswer": "Flaking is an early stage of peeling"
+    },
+    {
+        "question": "What is rising damp?",
+        "options": [
+            "The suction of groundwater into the base of masonry",
+            "Seepage of water",
+            "Efflorescence",
+            "None of the above"
+        ],
+        "correctAnswer": "The suction of groundwater into the base of masonry"
+    },
+    {
+        "question": "How do you reinstall a brick/block piece into the structure?",
+        "options": [
+            "Clean that part, wet with water and fix with rich cement mortar",
+            "Clean that part, wet with water and fix with rich lime mortar",
+            "A & B",
+            "None of this"
+        ],
+        "correctAnswer": "A & B"
+    },
+    {
+        "question": "Why raking of joints is done?",
+        "options": [
+            "To make bonding with plaster",
+            "To make bonding with pointing",
+            "To make bonding with brick work",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "List the tools for pointing?",
+        "options": [
+            "Pointing trowel",
+            "Spirit level",
+            "Plumb bob",
+            "None of this"
+        ],
+        "correctAnswer": "Pointing trowel"
+    },
+    {
+        "question": "What is the ratio of mortar for repairing old surface of brick work?",
+        "options": [
+            "1:3",
+            "1:4",
+            "1:6",
+            "1:2"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "What precautions should be taken while repairing old surface?",
+        "options": [
+            "Loose particle, dust should be cleaned",
+            "Surface is properly dry",
+            "Ensure loose particle should be clean only",
+            "None of this"
+        ],
+        "correctAnswer": "Loose particle, dust should be cleaned"
+    },
+    {
+        "question": "What are the first things to be done before plastering?",
+        "options": [
+            "Reading drawing",
+            "Arrange labors",
+            "Brick masonry repairing",
+            "Take work permit"
+        ],
+        "correctAnswer": "Reading drawing"
+    },
+    {
+        "question": "List the tools used in plastering?",
+        "options": [
+            "Spirit level",
+            "Pointer",
+            "Mason trowel",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "Tri-square is used to check in plastering?",
+        "options": [
+            "Corner right angle",
+            "Thickness of plastering",
+            "Checking sand particle",
+            "None of this"
+        ],
+        "correctAnswer": "Corner right angle"
+    },
+    {
+        "question": "How do you ensure the surface preparation for plaster?",
+        "options": [
+            "Surface should be free from loose particle",
+            "Wet with water",
+            "Repairing should be complete",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Wire brush can be used for surface cleaning?",
+        "options": [
+            "Yes",
+            "No",
+            "May be",
+            "None"
+        ],
+        "correctAnswer": "Yes"
+    },
+    {
+        "question": "Why do we provide batten marks before plastering?",
+        "options": [
+            "Ensure the thickness",
+            "Ensure the right angle",
+            "Ensure the plaster strength",
+            "None of this"
+        ],
+        "correctAnswer": "Ensure the thickness"
+    },
+     {
+        "question": "What is the size of batton marks?",
+        "options": [
+            "40x40x12mm",
+            "50x50x20",
+            "50x50x15",
+            "40x40x8"
+        ],
+        "correctAnswer": "40x40x12mm"
+    },
+    {
+        "question": "What is the spacing of batton marks?",
+        "options": [
+            "600 mm",
+            "800mm",
+            "100mm",
+            "1000mm"
+        ],
+        "correctAnswer": "600 mm"
+    },
+    {
+        "question": "Why it is important to mark the sill level of window/ventilators before plastering?",
+        "options": [
+            "For accurate fixing of window frame",
+            "For accurate fixing of ventilation",
+            "For accurate fixing chicken mesh",
+            "None of this"
+        ],
+        "correctAnswer": "For accurate fixing of window frame"
+    },
+    {
+        "question": "Why grooves are provided in plastering?",
+        "options": [
+            "To avoid shrinkage cracks",
+            "To avoid cracks",
+            "To avoid the seepage",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "Why sieve analysis is done?",
+        "options": [
+            "For proper grading of sand",
+            "For removing the large particles",
+            "For removing the soil particles",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "What things are to be checked before plastering?",
+        "options": [
+            "Removing of dust particles",
+            "Prewetting",
+            "Batton marks",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "Is raking of joints necessary for bonding with plaster?",
+        "options": [
+            "Yes",
+            "No",
+            "May be",
+            "None"
+        ],
+        "correctAnswer": "Yes"
+    },
+    {
+        "question": "What factors affect the consistency of mortar mix?",
+        "options": [
+            "Raw materials",
+            "Mixing only",
+            "Laying only",
+            "None of these"
+        ],
+        "correctAnswer": "Raw materials"
+    },
+    {
+        "question": "What is the ratio of mortar for plaster?",
+        "options": [
+            "1:6",
+            "1:5",
+            "1:4",
+            "1:3"
+        ],
+        "correctAnswer": "1:6"
+    },
+    {
+        "question": "Why is the surface wet before plaster?",
+        "options": [
+            "So that the surface doesn't soak mortar water",
+            "After wetting, brick strength improves",
+            "Cement gains more strength",
+            "None of this"
+        ],
+        "correctAnswer": "So that the surface doesn't soak mortar water"
+    },
+    {
+        "question": "For how much time does the surface need to be prewet?",
+        "options": [
+            "2 hours",
+            "1 hour",
+            "3 hours",
+            "Half hour"
+        ],
+        "correctAnswer": "2 hours"
+    },
+    {
+        "question": "What is the ratio of mortar for ceiling plaster?",
+        "options": [
+            "1:3",
+            "1:5",
+            "1:6",
+            "1:2"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "What quantity of waterproofing compound should be mixed for outer plaster?",
+        "options": [
+            "250ml per 50kg",
+            "200ml per 50kg",
+            "100ml per 50kg",
+            "500ml per 50kg"
+        ],
+        "correctAnswer": "250ml per 50kg"
+    },
+    {
+        "question": "Why is a waterproofing compound mixed with mortar?",
+        "options": [
+            "To make the surface weatherproof",
+            "To make the surface sunlight-proof",
+            "To make the surface windproof",
+            "For strength"
+        ],
+        "correctAnswer": "To make the surface weatherproof"
+    },
+    {
+        "question": "What is the ratio of cement slurry for plaster?",
+        "options": [
+            "1:2",
+            "1:6",
+            "1:3",
+            "1:4"
+        ],
+        "correctAnswer": "1:2"
+    },
+    {
+        "question": "Why is cement slurry applied before plaster?",
+        "options": [
+            "For proper bonding",
+            "For proper plaster strength",
+            "For water-cement ratio",
+            "None of these"
+        ],
+        "correctAnswer": "For proper bonding"
+    },
+    {
+        "question": "What is the thickness of internal plaster?",
+        "options": [
+            "12 mm",
+            "10 mm",
+            "15 mm",
+            "8 mm"
+        ],
+        "correctAnswer": "12 mm"
+    },
+    {
+        "question": "What is the thickness of external plaster?",
+        "options": [
+            "18 mm",
+            "25 mm",
+            "15 mm",
+            "10 mm"
+        ],
+        "correctAnswer": "18 mm"
+    },
+    {
+        "question": "What is the thickness of ceiling plaster?",
+        "options": [
+            "6 mm",
+            "10 mm",
+            "12 mm",
+            "8 mm"
+        ],
+        "correctAnswer": "6 mm"
+    },
+    {
+        "question": "Which tool is used to level the mortar surface?",
+        "options": [
+            "Straight edge",
+            "Spirit level",
+            "Tube level",
+            "Pointer"
+        ],
+        "correctAnswer": "Straight edge"
+    },
+    {
+        "question": "Wooden floater is used for?",
+        "options": [
+            "Fill up the voids on the surface",
+            "Fill up the pointing",
+            "For final finish",
+            "Fill up the ceiling plaster"
+        ],
+        "correctAnswer": "Fill up the voids on the surface"
+    },
+    {
+        "question": "List the tools used for final finish?",
+        "options": [
+            "Steel floater",
+            "Wooden floater",
+            "Jointer",
+            "Trowel"
+        ],
+        "correctAnswer": "Steel floater"
+    },
+    {
+        "question": "Horizontal alignment is checked with the help of which tool?",
+        "options": [
+            "Straight edge + mason thread",
+            "Spirit level + mason thread",
+            "Plumb bob + straight edge",
+            "None of this"
+        ],
+        "correctAnswer": "Spirit level + mason thread"
+    },
+    {
+        "question": "Vertical alignment is checked with the help of which tool?",
+        "options": [
+            "Plumb bob",
+            "Straight edge",
+            "Line thread",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "Why is it important to check vertical alignment of plaster?",
+        "options": [
+            "To ensure thickness",
+            "To ensure length",
+            "To ensure alignment",
+            "None of this"
+        ],
+        "correctAnswer": "To ensure alignment"
+    },
+    {
+        "question": "What is the slope ratio in plastering?",
+        "options": [
+            "1:10",
+            "1:5",
+            "1:15",
+            "1:20"
+        ],
+        "correctAnswer": "1:15"
+    },
+    {
+        "question": "Which tool is used to check the right angle?",
+        "options": [
+            "Tri-square",
+            "Line thread",
+            "Pointer",
+            "Straight edge"
+        ],
+        "correctAnswer": "Tri-square"
+    },
+    {
+        "question": "Why is it important to repair defects before waterproofing?",
+        "options": [
+            "To avoid water passing through cracks",
+            "To avoid sand particle flow",
+            "To avoid cement sand particle flow",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "What is the mortar ratio for cracks repairing?",
+        "options": [
+            "1:3",
+            "1:2",
+            "1:6",
+            "1:4"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "What is the ratio of base prime coating?",
+        "options": [
+            "250ml per bag",
+            "500ml per bag",
+            "300ml per bag",
+            "1000ml per bag"
+        ],
+        "correctAnswer": "250ml per bag"
+    },
+    {
+        "question": "Why is hacking of the surface done before waterproofing?",
+        "options": [
+            "For proper bind with surface",
+            "For proper fill of the mortar",
+            "For proper strength of waterproofing",
+            "None of this"
+        ],
+        "correctAnswer": "For proper bind with surface"
+    },
+    {
+        "question": "What is the thickness of cement slurry on fiberglass cloth?",
+        "options": [
+            "1.5mm",
+            "2.0mm",
+            "1.0mm",
+            "0.5mm"
+        ],
+        "correctAnswer": "1.5mm"
+    },
+    {
+        "question": "At what height is the waterproofing treatment done on parapet walls?",
+        "options": [
+            "300mm",
+            "200mm",
+            "100mm",
+            "400mm"
+        ],
+        "correctAnswer": "300mm"
+    },
+    {
+        "question": "Which tool is used to finish the surface of waterproofing?",
+        "options": [
+            "Straight edge",
+            "Wooden floater",
+            "Mason trowel",
+            "Wheelbarrow"
+        ],
+        "correctAnswer": "Wooden floater"
+    },
+    {
+        "question": "How many layers are put for slab waterproofing?",
+        "options": [
+            "4 layers",
+            "2 layers",
+            "5 layers",
+            "3 layers"
+        ],
+        "correctAnswer": "4 layers"
+    },
+    {
+        "question": "How do you protect the waterproofing surface from rain?",
+        "options": [
+            "By covering with polythene",
+            "By covering with iron sheet",
+            "By covering with grass",
+            "By covering with cloth"
+        ],
+        "correctAnswer": "By covering with polythene"
+    },
+    {
+        "question": "What is the ratio of mortar for base coat?",
+        "options": [
+            "1:6",
+            "1:5",
+            "1:4",
+            "1:2"
+        ],
+        "correctAnswer": "1:6"
+    },
+    {
+        "question": "What is the thickness of base mortar?",
+        "options": [
+            "20mm",
+            "30mm",
+            "25mm",
+            "15mm"
+        ],
+        "correctAnswer": "20mm"
+    },
+    {
+        "question": "What is the cement slurry ratio?",
+        "options": [
+            "2.75kg blended cement per sqm",
+            "2.50kg blended cement per sqm",
+            "3.0kg blended cement per sqm",
+            "2.0kg blended cement per sqm"
+        ],
+        "correctAnswer": "2.75kg blended cement per sqm"
+    },
+     {
+        "question": "The application of the slurry should continue up to a height of?",
+        "options": [
+            "300mm",
+            "500mm",
+            "200mm",
+            "1000mm"
+        ],
+        "correctAnswer": "300mm"
+    },
+    {
+        "question": "What is the size of brick bat used in waterproofing?",
+        "options": [
+            "25mm to 115mm",
+            "50mm to 150mm",
+            "100mm to 150mm",
+            "70mm to 150mm"
+        ],
+        "correctAnswer": "50mm to 150mm"
+    },
+    {
+        "question": "What is the minimum gap required between brick bats?",
+        "options": [
+            "25mm",
+            "30mm",
+            "15mm",
+            "20mm"
+        ],
+        "correctAnswer": "20mm"
+    },
+    {
+        "question": "What is the ratio of cement mortar to fill the gap of brick bat?",
+        "options": [
+            "1:5",
+            "1:6",
+            "1:4",
+            "1:3"
+        ],
+        "correctAnswer": "1:4"
+    },
+    {
+        "question": "How should the top surface be finished after waterproofing?",
+        "options": [
+            "Finished mortar of 1:4 is applied",
+            "Finished mortar of 1:5 is applied",
+            "Finished mortar of 1:3 is applied",
+            "Finished mortar of 1:2 is applied"
+        ],
+        "correctAnswer": "Finished mortar of 1:4 is applied"
+    },
+    {
+        "question": "What is the thickness of finished mortar?",
+        "options": [
+            "20mm",
+            "15mm",
+            "18mm",
+            "25mm"
+        ],
+        "correctAnswer": "15mm"
+    },
+    {
+        "question": "Where are the required levels marked for leveling?",
+        "options": [
+            "On the side walls",
+            "On the front wall",
+            "On the top wall",
+            "On the back side wall"
+        ],
+        "correctAnswer": "On the side walls"
+    },
+    {
+        "question": "Which tool is used to transfer the level marks?",
+        "options": [
+            "Water level tube",
+            "Spirit level",
+            "Straight edge",
+            "Jointer"
+        ],
+        "correctAnswer": "Water level tube"
+    },
+    {
+        "question": "What is the ratio of slope provided in slab waterproofing?",
+        "options": [
+            "1:10",
+            "1:15",
+            "1:5",
+            "1:8"
+        ],
+        "correctAnswer": "1:15"
+    },
+    {
+        "question": "From which tool should vertical alignment be checked?",
+        "options": [
+            "Plumb bob",
+            "Line thread",
+            "Straight edge",
+            "Water level tube"
+        ],
+        "correctAnswer": "Plumb bob"
+    },
+    {
+        "question": "Why is slope provided in slabs?",
+        "options": [
+            "For drainage of water",
+            "Because mentioned in the drawing",
+            "For the strength of slab",
+            "For storage of water"
+        ],
+        "correctAnswer": "For drainage of water"
+    },
+    {
+        "question": "List required tools for RR masonry?",
+        "options": [
+            "Hammer",
+            "Pointer",
+            "Cement",
+            "None of this"
+        ],
+        "correctAnswer": "Hammer"
+    },
+    {
+        "question": "How much quantity of cement is required for 1cum RR masonry?",
+        "options": [
+            "80kg",
+            "50kg",
+            "30kg",
+            "60kg"
+        ],
+        "correctAnswer": "80kg"
+    },
+    {
+        "question": "How much water is required for 50kg of cement?",
+        "options": [
+            "25 liters",
+            "30 liters",
+            "50 liters",
+            "15 liters"
+        ],
+        "correctAnswer": "25 liters"
+    },
+    {
+        "question": "What is the ratio of concrete used in the sub-base?",
+        "options": [
+            "1:1.5:3",
+            "1:2:3",
+            "1:2:4",
+            "1:4:8"
+        ],
+        "correctAnswer": "1:4:8"
+    },
+    {
+        "question": "What is the thickness of sub-base laying for surface preparation?",
+        "options": [
+            "75mm",
+            "50mm",
+            "100mm",
+            "80mm"
+        ],
+        "correctAnswer": "100mm"
+    },
+    {
+        "question": "Why is compaction necessary for the base?",
+        "options": [
+            "To make a uniform bed",
+            "To make a gap",
+            "To make a clean surface",
+            "For more strength"
+        ],
+        "correctAnswer": "To make a uniform bed"
+    },
+    {
+        "question": "Which tool is used for compaction?",
+        "options": [
+            "Rammer",
+            "Hammer",
+            "Trowel",
+            "Pointer"
+        ],
+        "correctAnswer": "Rammer"
+    },
+    {
+        "question": "What is the water absorption limit of stones?",
+        "options": [
+            "5%",
+            "3%",
+            "10%",
+            "1%"
+        ],
+        "correctAnswer": "5%"
+    },
+    {
+        "question": "What is jamb stone?",
+        "options": [
+            "Stone provided on opening",
+            "Stone provided on corner",
+            "Stone provided on the mid",
+            "Stone provided on all width of wall"
+        ],
+        "correctAnswer": "Stone provided on opening"
+    },
+      {
+        "question": "What is the time required for RR masonry curing?",
+        "options": [
+            "21 days",
+            "30 days",
+            "7 days",
+            "14 days"
+        ],
+        "correctAnswer": "14 days"
+    },
+    {
+        "question": "Why raking of joints is necessary?",
+        "options": [
+            "To make bonding with plaster/pointing",
+            "To make strength of wall",
+            "To make slope for rainwater",
+            "To look good"
+        ],
+        "correctAnswer": "To make bonding with plaster/pointing"
+    },
+    {
+        "question": "What is the depth of raking?",
+        "options": [
+            "10mm",
+            "15mm",
+            "8mm",
+            "12mm"
+        ],
+        "correctAnswer": "10mm"
+    },
+    {
+        "question": "Which pointing is generally applied on RR masonry?",
+        "options": [
+            "Overlap",
+            "Struck",
+            "Tuck",
+            "Recessed"
+        ],
+        "correctAnswer": "Recessed"
+    },
+    {
+        "question": "What is the ratio of pointing mortar for RR masonry?",
+        "options": [
+            "1:2",
+            "1:3",
+            "1:4",
+            "1:6"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "List various types of pointing?",
+        "options": [
+            "Recessed",
+            "Flush",
+            "Overlap",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What is the curing period for pointing?",
+        "options": [
+            "7 days",
+            "10 days",
+            "14 days",
+            "21 days"
+        ],
+        "correctAnswer": "7 days"
+    },
+    {
+        "question": "What is through stone?",
+        "options": [
+            "Stone laying along the width of RR masonry",
+            "Stone laying along the half width of the wall",
+            "Stone laying along the top layer of the wall",
+            "Stone laying along the length of the wall"
+        ],
+        "correctAnswer": "Stone laying along the width of RR masonry"
+    },
+    {
+        "question": "Why is it required to remove all excess parts of the stone?",
+        "options": [
+            "For better appearance",
+            "For better line length",
+            "For better slope",
+            "None of these"
+        ],
+        "correctAnswer": "For better appearance"
+    },
+    {
+        "question": "Why surface dressing is necessary in IPS flooring?",
+        "options": [
+            "To maintain the thickness of the floor",
+            "To maintain the slope of the floor",
+            "To maintain the strength of the floor",
+            "To maintain water drainage"
+        ],
+        "correctAnswer": "To maintain the thickness of the floor"
+    },
+    {
+        "question": "What is the ratio of slope in IPS flooring?",
+        "options": [
+            "1:10",
+            "1:5",
+            "1:6",
+            "1:4"
+        ],
+        "correctAnswer": "1:100"
+    },
+    {
+        "question": "Why is it necessary to avoid leakage in formwork?",
+        "options": [
+            "To stop the slurry",
+            "To stop the air",
+            "To stop the shrinkage cracks",
+            "To stop the light"
+        ],
+        "correctAnswer": "To stop the slurry"
+    },
+    {
+        "question": "Why is a cover provided to steel reinforcement?",
+        "options": [
+            "To make it corrosion-resistant",
+            "To make it waterproof",
+            "To make it airproof",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "The reference levels are marked on …………in IPS flooring?",
+        "options": [
+            "Side walls",
+            "Bottom wall",
+            "Top wall",
+            "None of these"
+        ],
+        "correctAnswer": "Side walls"
+    },
+    {
+        "question": "Why are dummy dots provided?",
+        "options": [
+            "To maintain the level and slope of the floor",
+            "To maintain the surface finishing",
+            "To maintain the thickness",
+            "To maintain the surface smooth"
+        ],
+        "correctAnswer": "To maintain the level and slope of the floor"
+    },
+    {
+        "question": "List the various grades of cement?",
+        "options": [
+            "33",
+            "44",
+            "55",
+            "60"
+        ],
+        "correctAnswer": "33"
+    },
+    {
+        "question": "What is the quality of fine aggregate required in IPS flooring?",
+        "options": [
+            "Well graded",
+            "Well weight",
+            "Well dry",
+            "None of these"
+        ],
+        "correctAnswer": "Well graded"
+    },
+    {
+        "question": "What is the grade of concrete used in IPS flooring?",
+        "options": [
+            "M20",
+            "M25",
+            "M30",
+            "M15"
+        ],
+        "correctAnswer": "M20"
+    },
+    {
+        "question": "What is the required slump of concrete for trimix?",
+        "options": [
+            "90 to 110 mm",
+            "90 to 125 mm",
+            "90 to 120 mm",
+            "90 to 115 mm"
+        ],
+        "correctAnswer": "90 to 110 mm"
+    },
+    {
+        "question": "List the types of slumps?",
+        "options": [
+            "True",
+            "Collapse",
+            "Shear",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+      {
+        "question": "What is the size of panel for outdoor?",
+        "options": [
+            "2 SQM",
+            "3 SQM",
+            "4 SQM",
+            "1 SQM"
+        ],
+        "correctAnswer": "2 SQM"
+    },
+    {
+        "question": "Why trimix flooring is poured in alternate panels?",
+        "options": [
+            "To avoid shrinkage cracks",
+            "To avoid segregation",
+            "To avoid water absorption",
+            "To make groove"
+        ],
+        "correctAnswer": "To avoid shrinkage cracks"
+    },
+    {
+        "question": "How is excess water over the surface removed in trimix?",
+        "options": [
+            "By VDF pump",
+            "By MDF pump",
+            "By UDF pump",
+            "By RDF pump"
+        ],
+        "correctAnswer": "By VDF pump"
+    },
+    {
+        "question": "Which tool is required for final finishing of trimix flooring?",
+        "options": [
+            "Steel floater",
+            "Wooden floater",
+            "Glass floater",
+            "Plastic floater"
+        ],
+        "correctAnswer": "Steel floater"
+    },
+    {
+        "question": "Why is cement punning spread over the surface?",
+        "options": [
+            "For smooth finishing",
+            "For rough surface finishing",
+            "For surface looking equal",
+            "For good-looking surface"
+        ],
+        "correctAnswer": "For smooth finishing"
+    },
+    {
+        "question": "What is the thickness of boulder layer for trimix?",
+        "options": [
+            "300 mm",
+            "350 mm",
+            "200 mm",
+            "250 mm"
+        ],
+        "correctAnswer": "250 mm"
+    },
+    {
+        "question": "What is the thickness of PCC for trimix?",
+        "options": [
+            "100 mm",
+            "50 mm",
+            "75 mm",
+            "125 mm"
+        ],
+        "correctAnswer": "100 mm"
+    },
+    {
+        "question": "Why is a vacuum dewatering machine used?",
+        "options": [
+            "To remove excess water from the surface",
+            "To remove excess water from the concrete",
+            "To remove excess water from the mortar",
+            "None of this"
+        ],
+        "correctAnswer": "To remove excess water from the concrete"
+    },
+    {
+        "question": "Why is trimix casted in panels?",
+        "options": [
+            "To avoid shrinkage cracks",
+            "For proper space for the next day's work",
+            "To avoid extra cement sand mortar",
+            "For proper thickness of flooring"
+        ],
+        "correctAnswer": "To avoid shrinkage cracks"
+    },
+    {
+        "question": "Why are grooves cut over the surface?",
+        "options": [
+            "To allow shrinkage cracks to pass along the grooves",
+            "To remove waste water",
+            "To remove extra particles on the surface",
+            "For expansion joint"
+        ],
+        "correctAnswer": "To allow shrinkage cracks to pass along the grooves"
+    },
+    {
+        "question": "List various methods of curing?",
+        "options": [
+            "Sprinkling water",
+            "Gunny bags",
+            "Ponding method",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Why is it important to pass information to coworkers?",
+        "options": [
+            "For better work quality and progress",
+            "For better time spent",
+            "For better relationships",
+            "None of this"
+        ],
+        "correctAnswer": "For better work quality and progress"
+    },
+    {
+        "question": "If there is any deviation in work, how do you inform the concerned person?",
+        "options": [
+            "By organizing a meeting or notice board",
+            "By loudspeaker",
+            "By mobile",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Why is it necessary to inform any problem to the supervisor first?",
+        "options": [
+            "To solve the problem immediately",
+            "To avoid breakage in work",
+            "For better quality",
+            "For better progress"
+        ],
+        "correctAnswer": "To solve the problem immediately"
+    },
+    {
+        "question": "Why is it important to follow the instructions from supervisors?",
+        "options": [
+            "For accurate working information",
+            "For better quality",
+            "For better progress",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What is communication?",
+        "options": [
+            "Passing the work-related information on site",
+            "Communication for social work",
+            "Joking",
+            "None"
+        ],
+        "correctAnswer": "Passing the work-related information on site"
+    },
+    {
+        "question": "Why is the advice of a superior required for workers?",
+        "options": [
+            "To clear all doubts regarding work",
+            "For better quality",
+            "For better progress",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Why is it important to hand over tools to the interfacing team?",
+        "options": [
+            "To avoid breakage in work",
+            "For cleaning",
+            "For maintenance",
+            "To complete work on time"
+        ],
+        "correctAnswer": "To complete work on time"
+    },
+    {
+        "question": "Why is it important to work in a team?",
+        "options": [
+            "For better progress",
+            "For better quality",
+            "To complete work on time",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Why is planning prepared before the commencement of any work?",
+        "options": [
+            "To achieve the target on time",
+            "For better progress",
+            "For better quality",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
     }
-    
 
 
 
