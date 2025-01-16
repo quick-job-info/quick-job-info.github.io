@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "What is 5 + 7?",
+        "options": ["10", "12", "15", "17"],
+        "correctAnswer": "12"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ernest Hemingway"],
+        "correctAnswer": "William Shakespeare"
+    }
+]
