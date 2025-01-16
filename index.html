@@ -95,7 +95,7 @@
 fetch('questions.json')
     .then(response => response.json())
     .then(questions => {
-        const numQuestionsToDisplay = 10; // Set how many questions to display
+        const numQuestionsToDisplay = 25; // Set how many questions to display
         const selectedQuestions = selectRandomQuestions(questions, numQuestionsToDisplay);
         loadQuestions(selectedQuestions);
         document.getElementById('submitBtn').addEventListener('click', function(event) {
