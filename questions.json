@@ -3810,11 +3810,11 @@
         "question": "What is the minimum gap required between brick bats?",
         "options": [
             "25mm",
-            "30mm",
             "15mm",
+            "15mm-20mm",
             "20mm"
         ],
-        "correctAnswer": "20mm"
+        "correctAnswer": "15mm-20mm"
     },
     {
         "question": "What is the ratio of cement mortar to fill the gap of brick bat?",
