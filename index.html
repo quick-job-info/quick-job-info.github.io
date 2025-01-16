@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            width: 60%;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        .answers {
+            margin-left: 20px;
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Student Test</h1>
+    <form id="testForm">
+        <!-- Question 1 -->
+        <div class="question">
+            <h3>1. What is the capital of France?</h3>
+            <div class="answers">
+                <label><input type="radio" name="q1" value="Paris"> Paris</label>
+                <label><input type="radio" name="q1" value="London"> London</label>
+                <label><input type="radio" name="q1" value="Berlin"> Berlin</label>
+                <label><input type="radio" name="q1" value="Madrid"> Madrid</label>
+            </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question">
+            <h3>2. What is 5 + 7?</h3>
+            <div class="answers">
+                <label><input type="radio" name="q2" value="10"> 10</label>
+                <label><input type="radio" name="q2" value="12"> 12</label>
+                <label><input type="radio" name="q2" value="15"> 15</label>
+                <label><input type="radio" name="q2" value="17"> 17</label>
+            </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question">
+            <h3>3. Who wrote 'Romeo and Juliet'?</h3>
+            <div class="answers">
+                <label><input type="radio" name="q3" value="Shakespeare"> William Shakespeare</label>
+                <label><input type="radio" name="q3" value="Dickens"> Charles Dickens</label>
+                <label><input type="radio" name="q3" value="Austen"> Jane Austen</label>
+                <label><input type="radio" name="q3" value="Hemingway"> Ernest Hemingway</label>
+            </div>
+        </div>
+
+        <button type="submit">Submit Test</button>
+    </form>
+</div>
+
+<script>
+    document.getElementById("testForm").onsubmit = function(event) {
+        event.preventDefault();
+        alert("Test submitted! Thank you for completing it.");
+    };
+</script>
+
+</body>
+</html>
