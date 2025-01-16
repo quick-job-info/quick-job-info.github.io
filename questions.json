@@ -2297,6 +2297,296 @@
             "2"
         ],
         "correctAnswer": "4"
+    },
+     {
+        "question": "What type of top surface does a ceramic tile have?",
+        "options": [
+            "Rough",
+            "Cerrated",
+            "Glazed",
+            "None of these"
+        ],
+        "correctAnswer": "Glazed"
+    },
+    {
+        "question": "The system of channels and pipes used for discharge of wastewater is called ____________.",
+        "options": [
+            "Drainage",
+            "Sullage",
+            "Sewage",
+            "Refuse"
+        ],
+        "correctAnswer": "Drainage"
+    },
+    {
+        "question": "________ separates domestic plumbing from public drainage system and keeps out foul odour.",
+        "options": [
+            "Gully trap",
+            "Floor trap",
+            "Vent pipe",
+            "None of these"
+        ],
+        "correctAnswer": "Gully trap"
+    },
+    {
+        "question": "A ______ is a chamber made of concrete or PVC through which domestic wastewater or sewage flows for primary treatment.",
+        "options": [
+            "Septic tank",
+            "Drainage tank",
+            "Lamp hole",
+            "None of these"
+        ],
+        "correctAnswer": "Septic tank"
+    },
+    {
+        "question": "A stone remains _________ perpendicular to its natural loads.",
+        "options": [
+            "Very strong",
+            "Very weak",
+            "Both weak and strong",
+            "Nor weak nor strong"
+        ],
+        "correctAnswer": "Very strong"
+    },
+    {
+        "question": "R.C.C. stands for:",
+        "options": [
+            "Reinforced constituent cement",
+            "Reinforced concrete cement",
+            "Reinforced combined cement",
+            "Reinforced cement concrete"
+        ],
+        "correctAnswer": "Reinforced cement concrete"
+    },
+    {
+        "question": "Which one of the following is a type of lifting appliance?",
+        "options": [
+            "Lifting tackle",
+            "Chain",
+            "Lewis",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Concrete block moulded with an empty core is called ____________.",
+        "options": [
+            "Cement concrete",
+            "Brick",
+            "Solid block",
+            "Hollow block"
+        ],
+        "correctAnswer": "Hollow block"
+    },
+    {
+        "question": "Hollow block walls consume _____ time for construction compared to brick walls.",
+        "options": [
+            "More",
+            "Less",
+            "Equal",
+            "Neither more nor less"
+        ],
+        "correctAnswer": "Less"
+    },
+    {
+        "question": "_______ is the lower surface of the brick when laid flat.",
+        "options": [
+            "Bed",
+            "Lap",
+            "Stretcher",
+            "Closer"
+        ],
+        "correctAnswer": "Bed"
+    },
+    {
+        "question": "Mild steel flats that are generally bent into a Z-shape and used to fix or hold the frame to the opening is called as _________.",
+        "options": [
+            "Sill",
+            "Head",
+            "Panel",
+            "Hold fast"
+        ],
+        "correctAnswer": "Hold fast"
+    },
+    {
+        "question": "The inner curve of an arc is called as ________.",
+        "options": [
+            "Hunch",
+            "Abutment",
+            "Intrados",
+            "Arch ring"
+        ],
+        "correctAnswer": "Intrados"
+    },
+    {
+        "question": "After how much time of the first coat of plaster should the second coat of plaster be done?",
+        "options": [
+            "30 minutes",
+            "1 hour",
+            "2 hours",
+            "6 hours"
+        ],
+        "correctAnswer": "1 hour"
+    },
+    {
+        "question": "The depression or bend provided in a drainage system which is always full of water and prevents the entry of foul gases into the atmosphere is termed as ________.",
+        "options": [
+            "Trap",
+            "Tub",
+            "Sink",
+            "Stack"
+        ],
+        "correctAnswer": "Trap"
+    },
+    {
+        "question": "Name the process in which stone after being quarried is cut into a suitable size and with a suitable surface.",
+        "options": [
+            "Dressing",
+            "Blasting",
+            "Quenching",
+            "Truing"
+        ],
+        "correctAnswer": "Dressing"
+    },
+    {
+        "question": "__________ is a structure of stone or brick built against a wall to strengthen or support it.",
+        "options": [
+            "Railing",
+            "Lintel",
+            "Buttress",
+            "Scaffolding"
+        ],
+        "correctAnswer": "Buttress"
+    },
+    {
+        "question": "Which of the following is an element of a roof?",
+        "options": [
+            "Batten",
+            "Rafter",
+            "Purlin",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "The horizontal upper portion of the step of a stair is called ______.",
+        "options": [
+            "Tread",
+            "Riser",
+            "Soffit",
+            "Flight"
+        ],
+        "correctAnswer": "Tread"
+    },
+    {
+        "question": "Which among the following is a widely used substitute for cement in concrete?",
+        "options": [
+            "Fly ash",
+            "Asphalt",
+            "Lime",
+            "Husk"
+        ],
+        "correctAnswer": "Fly ash"
+    },
+    {
+        "question": "Which among the following is the standard cement-to-water ratio in hand mixing of concrete?",
+        "options": [
+            "0.5 to 0.6",
+            "0.4 to 0.5",
+            "0.7 to 1.0",
+            "1.0 to 1.2"
+        ],
+        "correctAnswer": "0.4 to 0.5"
+    },
+    {
+        "question": "Which among the following IS code governs the quantity of water to be used in concrete?",
+        "options": [
+            "IS 456",
+            "IS 729",
+            "IS 1024",
+            "IS 363"
+        ],
+        "correctAnswer": "IS 456"
+    },
+    {
+        "question": "How many among the following chemical admixtures are there in brick masonry?",
+        "options": [
+            "4",
+            "3",
+            "6",
+            "5"
+        ],
+        "correctAnswer": "4"
+    },
+    {
+        "question": "Which among the following is used to make white concrete?",
+        "options": [
+            "Kaolin",
+            "Fly ash",
+            "Rice husk",
+            "Colours"
+        ],
+        "correctAnswer": "Kaolin"
+    },
+    {
+        "question": "Which among the following property of concrete increases with the increase in water content?",
+        "options": [
+            "Compressive strength",
+            "Tensile strength",
+            "Workability",
+            "Adhesive property"
+        ],
+        "correctAnswer": "Workability"
+    },
+    {
+        "question": "Which among the following is used as a plasticizer in concrete?",
+        "options": [
+            "Carboxylic acid",
+            "Fly ash",
+            "Gypsum",
+            "None of the above"
+        ],
+        "correctAnswer": "Carboxylic acid"
+    },
+    {
+        "question": "Which among the following component provides strength to concrete?",
+        "options": [
+            "Aggregates",
+            "Cement",
+            "Admixture",
+            "None of the above"
+        ],
+        "correctAnswer": "Aggregates"
+    },
+    {
+        "question": "Concrete is placed on which among the following?",
+        "options": [
+            "Platform",
+            "Form work",
+            "Mould",
+            "None of the above"
+        ],
+        "correctAnswer": "Form work"
+    },
+    {
+        "question": "Which among the following problem is created due to vibration during compacting?",
+        "options": [
+            "Segregation",
+            "Bleeding",
+            "High strength",
+            "None of the above"
+        ],
+        "correctAnswer": "Segregation"
+    },
+    {
+        "question": "Which among the following is considered as the best method of curing concrete structures?",
+        "options": [
+            "Spraying water",
+            "Using curing chemicals",
+            "Placing wet gunny bags",
+            "None of the above"
+        ],
+        "correctAnswer": "Spraying water"
     }
     
 
