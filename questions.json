@@ -1,18 +1,457 @@
 [
     {
-        "question": "Name a bird.",
-        "options": ["cock", "parot", "owl", "picock"],
-        "correctAnswer": "parot"
+        "question": "Which of the following preparation needs to be done before IPS flooring?",
+        "options": [
+            "Removal of debris",
+            "Slurry application",
+            "Button marking",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
     },
     {
-        "question": "What is 5 + 7?",
-        "options": ["10", "12", "15", "17"],
-        "correctAnswer": "12"
+        "question": "Why it is important to fill gaps in shuttering?",
+        "options": [
+            "It allows air inside concrete",
+            "It prevents leakage of slurry",
+            "It makes concrete more strong",
+            "None of the above"
+        ],
+        "correctAnswer": "It prevents leakage of slurry"
     },
     {
-        "question": "Who wrote 'Romeo and Juliet'?",
-        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ernest Hemingway"],
-        "correctAnswer": "William Shakespeare"
-    }
+        "question": "What are the advantages of IPS flooring?",
+        "options": [
+            "Low cost",
+            "Durable",
+            "Easy maintenance",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which of the following aggregate is best suitable for IPS flooring?",
+        "options": [
+            "20mm aggregate",
+            "10 mm aggregate",
+            "40mm aggregate",
+            "None of the above"
+        ],
+        "correctAnswer": "10 mm aggregate"
+    },
+    {
+        "question": "Which among the following will lead to a more durable and higher strength concrete?",
+        "options": [
+            "High water-cement ratio",
+            "Low water-cement ratio",
+            "All of the above",
+            "None of the above"
+        ],
+        "correctAnswer": "Low water-cement ratio"
+    },
+    {
+        "question": "Which tool is used to transfer reference level?",
+        "options": [
+            "Plumb Bob",
+            "Measuring Tape",
+            "Line Dori",
+            "Water Level"
+        ],
+        "correctAnswer": "Water Level"
+    },
+      {
+        "question": "After placement of concrete, what plays important role in gaining the strength to concrete?",
+        "options": [
+            "Adequate concreting",
+            "Removal of shuttering within an hour",
+            "Removal of shuttering after one month",
+            "None of the above"
+        ],
+        "correctAnswer": "Adequate concreting"
+    },
+    {
+        "question": "Which of the following material can be used as joint filler in tremix?",
+        "options": [
+            "Sand",
+            "Water",
+            "Asphalt",
+            "None of the above"
+        ],
+        "correctAnswer": "Asphalt"
+    },
+    {
+        "question": "What is the advantage of Tremix flooring?",
+        "options": [
+            "High compressive strength",
+            "Higher wear resistant",
+            "Both",
+            "None of the above"
+        ],
+        "correctAnswer": "Both"
+    },
+    {
+        "question": "Which tool is used for compaction of concrete?",
+        "options": [
+            "Cutter",
+            "Vibrator",
+            "Hammer",
+            "None of the above"
+        ],
+        "correctAnswer": "Vibrator"
+    },
+ {
+        "question": "It is advisable to pour concrete from lower height, Why?",
+        "options": [
+            "It gives more strength",
+            "It helps in less consumption of concrete",
+            "It avoids segregation of aggregate",
+            "None of the above"
+        ],
+        "correctAnswer": "It avoids segregation of aggregate"
+    },
+    {
+        "question": "What do you understand by 1:2:4?",
+        "options": [
+            "1-part sand, 2-part cement, 4-part aggregate",
+            "1-part sand, 4-part cement, 2-part aggregate",
+            "1-part cement, 2-part sand, 4-part aggregate",
+            "1-part aggregate, 2-part cement, 4-part sand"
+        ],
+        "correctAnswer": "1-part cement, 2-part sand, 4-part aggregate"
+    },
+    {
+        "question": "What is the importance of concrete cover for reinforcement?",
+        "options": [
+            "Protects rebar from corrosion",
+            "Provide resistant against fire",
+            "Both",
+            "None of the above"
+        ],
+        "correctAnswer": "Both"
+    },
+    {
+        "question": "What are the factors which may affect concrete strength?",
+        "options": [
+            "Proper Vibration",
+            "Water Cement Ratio",
+            "Slump",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Workability of concrete is tested by __________.",
+        "options": [
+            "Water content test",
+            "Compression test",
+            "Slump test",
+            "Penetration test"
+        ],
+        "correctAnswer": "Slump test"
+    },
+    {
+        "question": "Which tool is used for groove cutting in concrete?",
+        "options": [
+            "Groove cutter",
+            "Vibrator",
+            "Hammer",
+            "None of the above"
+        ],
+        "correctAnswer": "Groove cutter"
+    },
+    {
+        "question": "Which of the following method is most suitable for curing of slab?",
+        "options": [
+            "Ponding",
+            "Sprinkling water",
+            "By curing compound application",
+            "None of the above"
+        ],
+        "correctAnswer": "Ponding"
+    },
+    {
+        "question": "Stiff concrete can be achieved by_______________.",
+        "options": [
+            "Low water/cement ratio",
+            "High water/cement ratio",
+            "Both",
+            "None of the above"
+        ],
+        "correctAnswer": "Low water/cement ratio"
+    },
+    {
+        "question": "Concrete can be transported by ________________.",
+        "options": [
+            "Truck Mixer",
+            "By bucket",
+            "With concrete pump",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a preliminary check before placing of concrete?",
+        "options": [
+            "Check for Curing",
+            "Check for vibration",
+            "Check for cover block",
+            "None of the above"
+        ],
+        "correctAnswer": "Check for cover block"
+    },
+    {
+    "question": "What are the benefits of seeking advice from seniors?",
+    "options": [
+        "It helps in error resolution",
+        "It helps in completing the task early",
+        "It helps in performing the task more effectively",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "question": "Improper communication can lead to _____________.",
+    "options": [
+        "Completing work on time",
+        "Hazardous conditions",
+        "Delay in project completion",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "question": "What are the main characteristics of a good work schedule?",
+    "options": [
+        "Priorities to important works",
+        "Realistic timelines",
+        "Both",
+        "None of the above"
+    ],
+    "correctAnswer": "Both"
+},
+{
+    "question": "What would you do if there is short circuit in vacuum dewatering pump?",
+    "options": [
+        "Continue to work with it",
+        "Throw away the pump",
+        "Report it to the superiors",
+        "None of the above"
+    ],
+    "correctAnswer": "Report it to the superiors"
+},
+{
+    "question": "What are the benefits of team discussion?",
+    "options": [
+        "It helps in delay of works",
+        "It helps in bad quality of works",
+        "It helps in improving work quality and understanding between the team",
+        "None of the above"
+    ],
+    "correctAnswer": "It helps in improving work quality and understanding between the team"
+},
+{
+    "question": "If there is a new technology used in a task that you don’t know, what would you do in that situation?",
+    "options": [
+        "Do task with old technology",
+        "Leave the task",
+        "Seek advice from seniors",
+        "None of the above"
+    ],
+    "correctAnswer": "Seek advice from seniors"
+},
+{
+    "question": "What would you do if you have a conflict with your teammate?",
+    "options": [
+        "Fight with him",
+        "Abuse him",
+        "Complain to the seniors",
+        "Try to resolve the problems by talking to them"
+    ],
+    "correctAnswer": "Try to resolve the problems by talking to them"
+},
+{
+    "question": "Which among the following is helpful in building good relationship between the various teams of the project?",
+    "options": [
+        "Interrupt them while working",
+        "Ignore them",
+        "Talk and discuss work with them",
+        "None of the above"
+    ],
+    "correctAnswer": "Talk and discuss work with them"
+},
+{
+    "question": "What would you do if a member in your team is doing incorrect work?",
+    "options": [
+        "Fight with him",
+        "Talk and show him the right way",
+        "Complain to the seniors",
+        "Ask him to stop the work and leave"
+    ],
+    "correctAnswer": "Talk and show him the right way"
+},
+{
+    "question": "What happens when workers do not do the task as per the instructions?",
+    "options": [
+        "Works completes on time",
+        "Work quality increases",
+        "Delay in project and low quality",
+        "None of the above"
+    ],
+    "correctAnswer": "Delay in project and low quality"
+},
+{
+    "question": "What would you do to complete a task in the given time frame?",
+    "options": [
+        "Show lazy behaviour",
+        "Work alone",
+        "Work with team by distributing work as per their competencies",
+        "None of the above"
+    ],
+    "correctAnswer": "Work with team by distributing work as per their competencies"
+},
+{
+    "question": "What would you do if you have surplus material?",
+    "options": [
+        "Throw it away",
+        "Waste it",
+        "Keep it in a good place to avoid wastage",
+        "None of the above"
+    ],
+    "correctAnswer": "Keep it in a good place to avoid wastage"
+},
+{
+    "question": "What are the demerits of bad housekeeping?",
+    "options": [
+        "It may cause tripping of worker",
+        "It may cause unforeseen accidents",
+        "It may lead to fire (Only for flammable material)",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "question": "What would you decide to do first?",
+    "options": [
+        "Tasks which are not on priority",
+        "Task which are on priority",
+        "Both",
+        "None of the above"
+    ],
+    "correctAnswer": "Task which are on priority"
+},
+{
+    "question": "How to avoid delay in consumption of concrete?",
+    "options": [
+        "Keep all the equipment ready for placement of concrete",
+        "Keep all manpower attentive",
+        "Keep initial preparation ready for placement",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "question": "Why work schedules are important?",
+    "options": [
+        "It helps us in delaying a task",
+        "It helps in delay of the project",
+        "It helps in understanding the timelines and sequence of activities",
+        "None of the above"
+    ],
+    "correctAnswer": "It helps in understanding the timelines and sequence of activities"
+},
+    {
+    "question": "If you are assigned with a task to complete it in 5 hours, what will be your target?",
+    "options": [
+        "Complete the task within 5 hours",
+        "You will not be bothered about time",
+        "You will take your time to complete it",
+        "None of the above"
+    ],
+    "correctAnswer": "Complete the task within 5 hours"
+},
+{
+    "question": "Will you tell your co-worker if he forgot to do an important work assigned to him?",
+    "options": [
+        "Fire him from the job",
+        "Teach him the importance of resources",
+        "Complain to seniors",
+        "None of the above"
+    ],
+    "correctAnswer": "Teach him the importance of resources"
+},
+{
+    "question": "Which of the following is essential to understand the sequence of job?",
+    "options": [
+        "Job specification",
+        "Method statement",
+        "Progress tracker",
+        "None of the above"
+    ],
+    "correctAnswer": "Method statement"
+},
+{
+    "question": "Which of the following is essential to understand the timeline of job?",
+    "options": [
+        "Work schedule",
+        "Technical specification",
+        "Work permit",
+        "None of the above"
+    ],
+    "correctAnswer": "Work schedule"
+},
+    {
+    "question": "Which of the following is an unsafe working practice?",
+    "options": [
+        "Working on height with body harness",
+        "Working on wet platform",
+        "Working with hard hat on your head",
+        "None of the above"
+    ],
+    "correctAnswer": "Working on wet platform"
+},
+{
+    "question": "Site safety induction is important, why?",
+    "options": [
+        "To aware the workers of safety practices",
+        "To aware them of hazards and their resolutions",
+        "To make them understand the importance of PPE’s",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "question": "What is the use of safety goggles?",
+    "options": [
+        "To protect ears from high pitched sound",
+        "To protect the head from falling objects",
+        "To protect eyes from dust and debris",
+        "All of the above"
+    ],
+    "correctAnswer": "To protect eyes from dust and debris"
+},
+{
+    "question": "Power tools should be operated by______________?",
+    "options": [
+        "A person with no expertise of that tool",
+        "By mason’s only",
+        "By labours only",
+        "A person with expertise in operation of that tool"
+    ],
+    "correctAnswer": "A person with expertise in operation of that tool"
+},
+{
+    "question": "Ladder should be placed at an angle of _________________ from ground.",
+    "options": [
+        "90º",
+        "60º",
+        "180º",
+        "270º"
+    ],
+    "correctAnswer": "60º"
+}
+
+
+
+
     
 ]
