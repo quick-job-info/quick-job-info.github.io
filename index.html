@@ -36,6 +36,12 @@
             margin-top: 10px;
             font-weight: bold;
         }
+        #score {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
         button {
             display: block;
             width: 100%;
@@ -59,6 +65,7 @@
         <!-- Questions will be inserted here dynamically -->
     </form>
     <button type="submit" id="submitBtn">Submit Test</button>
+    <div id="score"></div>
 </div>
 
 <script>
@@ -106,6 +113,8 @@ function loadQuestions(questions) {
 
 // Function to validate answers and display feedback
 function validateAnswers(questions) {
+    let correctCount = 0;
+
     questions.forEach((q, index) => {
         const selectedAnswer = document.querySelector(`input[name="q${index}"]:checked`);
         const feedbackDiv = document.getElementById(`feedback${index}`);
@@ -116,6 +125,7 @@ function validateAnswers(questions) {
                 feedbackDiv.classList.add('correct');
                 feedbackDiv.classList.remove('incorrect');
                 feedbackDiv.textContent = `Correct!`;
+                correctCount++;
             } else {
                 feedbackDiv.classList.add('incorrect');
                 feedbackDiv.classList.remove('correct');
@@ -127,6 +137,11 @@ function validateAnswers(questions) {
             feedbackDiv.textContent = `No answer selected. The correct answer is: ${q.correctAnswer}.`;
         }
     });
+
+    // Calculate and display the score
+    const scoreDiv = document.getElementById('score');
+    const percentage = ((correctCount / questions.length) * 100).toFixed(2);
+    scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
 }
 </script>
 
