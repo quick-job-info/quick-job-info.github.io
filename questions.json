@@ -1018,8 +1018,207 @@
             "Full brick"
         ],
         "correctAnswer": "1/2 brick"
+    },
+{
+        "question": "What kind of cement is commonly used in small and large construction such as buildings and roads?",
+        "options": [
+            "Hydraulic cement",
+            "Portland cement",
+            "Pozzolan cement",
+            "Northern cement"
+        ],
+        "correctAnswer": "Portland cement"
+    },
+    {
+        "question": "How many CHBs are needed for the construction of a 3 meters high and 8 meters long fence?",
+        "options": [
+            "290",
+            "300",
+            "310",
+            "320"
+        ],
+        "correctAnswer": "300"
+    },
+    {
+        "question": "The following are the practices in mixing cement EXCEPT:",
+        "options": [
+            "Put the proportion of the sand and spread the cement on the top",
+            "Mix thoroughly the sand and cement",
+            "Add plenty of water",
+            "Pile up the mixture and bore a hole at the center"
+        ],
+        "correctAnswer": "Add plenty of water"
+    },
+    {
+        "question": "What is the purpose of footing in masonry works particularly in soft and sandy earth?",
+        "options": [
+            "It prevents the foundation from sinking under its heavy load",
+            "It protects the foundation from heavy load",
+            "It protects the foundation from sinking over a heavy load",
+            "It prevents the foundation from sinking"
+        ],
+        "correctAnswer": "It prevents the foundation from sinking under its heavy load"
+    },
+    {
+        "question": "Considered as an obsolete type of cement wherein it has a long period of curing time?",
+        "options": [
+            "Pozzolan",
+            "Portland",
+            "White cement",
+            "Plaster"
+        ],
+        "correctAnswer": "Pozzolan"
+    },
+ {
+        "question": "Which is the structural construction of component parts laid in and bound together by a material called mortar?",
+        "options": [
+            "Building Construction",
+            "Masonry",
+            "CHB",
+            "Stone"
+        ],
+        "correctAnswer": "Masonry"
+    },
+    {
+        "question": "Which of the following statements is true about masonry?",
+        "options": [
+            "It is the art of building with stone, bricks and concrete blocks",
+            "It is a highly durable form of construction",
+            "It is used for the walls of buildings, retaining walls and monuments",
+            "All of the above"
+        ],
+        "correctAnswer": "It is the art of building with stone, bricks and concrete blocks"
+    },
+    {
+        "question": "It is an artificial stone which is the result of mixing cement, fine and coarse aggregates, and water.",
+        "options": [
+            "Mortar",
+            "Concrete mixture",
+            "Plaster",
+            "Concrete"
+        ],
+        "correctAnswer": "Concrete"
+    },
+    {
+        "question": "It is the most widely used masonry materials for construction works in the Philippines.",
+        "options": [
+            "Bricks",
+            "Gravel",
+            "Hollow blocks",
+            "Sand"
+        ],
+        "correctAnswer": "Hollow blocks"
+    },
+    {
+        "question": "What kind of masonry material is manufactured from clay, sand and other materials?",
+        "options": [
+            "Adobe",
+            "Ashlar",
+            "Bricks",
+            "Rubble stone"
+        ],
+        "correctAnswer": "Bricks"
+    },
+    {
+        "question": "This refers to the material that is bound together into a conglomerated mass by cement and water to form concrete, mortar or plaster.",
+        "options": [
+            "Aggregates",
+            "Concrete",
+            "Admixture",
+            "All of the above"
+        ],
+        "correctAnswer": "Aggregates"
+    },
+    {
+        "question": "How many percent should be the aggregate components of a total mass of concrete?",
+        "options": [
+            "70%",
+            "75%",
+            "80%",
+            "90%"
+        ],
+        "correctAnswer": "90%"
+    },
+    {
+        "question": "What is the ratio of cement, sand and gravel to produce a class C concrete mixture?",
+        "options": [
+            "1: 1 ½ : 3",
+            "1: 2 : 5",
+            "1: 2 : 4",
+            "1: 3 : 6"
+        ],
+        "correctAnswer": "1: 3 : 6"
+    },
+    {
+        "question": "Which of the following is a good concrete mix proportion for hand mixing?",
+        "options": [
+            "2 kg of water + 1 kg of cement + 2 kg of sand + 2.5 – 3 kg of gravel",
+            "½ kg of water + 1 kg of cement + 2 kg of sand + 2.5 – 3 kg of gravel",
+            "½ kg of water + 2 kg of cement + 1 kg of sand + 2.5 – 3 kg of gravel",
+            "1 kg of water + 2 kg of cement + 2 kg of sand + 2.5 – 3 kg of gravel"
+        ],
+        "correctAnswer": "½ kg of water + 1 kg of cement + 2 kg of sand + 2.5 – 3 kg of gravel"
+    },
+    {
+        "question": "It is the tool used to guide the vertical position in laying bricks.",
+        "options": [
+            "Plumb bob",
+            "Water hose",
+            "String",
+            "None of the above"
+        ],
+        "correctAnswer": "Plumb bob"
+    },
+    {
+        "question": "How many classifications of masonry tools are there?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "None of the above"
+        ],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "What tool is used in finishing a surface for concrete?",
+        "options": [
+            "Float",
+            "Bolster",
+            "Crandall",
+            "Spade"
+        ],
+        "correctAnswer": "Float"
+    },
+    {
+        "question": "What material is used to obtain a fine textured concrete plaster?",
+        "options": [
+            "Rubber foam",
+            "Paint brush",
+            "Plastic foam",
+            "All of the above"
+        ],
+        "correctAnswer": "Rubber foam"
+    },
+    {
+        "question": "Which of the following requirements is NOT to be considered in proportioning concrete mixture?",
+        "options": [
+            "Economy",
+            "Workability",
+            "Strength",
+            "Flexibility"
+        ],
+        "correctAnswer": "Economy"
+    },
+    {
+        "question": "Which of the following factors regulate the strength of concrete?",
+        "options": [
+            "Correct proportion of the ingredients",
+            "Proper method of mixing",
+            "Proper curing process",
+            "Flexibility"
+        ],
+        "correctAnswer": "Proper curing process"
     }
-
 
 
 
