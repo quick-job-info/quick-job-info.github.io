@@ -1,8 +1,8 @@
 [
     {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin", "Madrid"],
-        "correctAnswer": "Paris"
+        "question": "Name a bird.",
+        "options": ["cock", "parot", "owl", "picock"],
+        "correctAnswer": "parot"
     },
     {
         "question": "What is 5 + 7?",
