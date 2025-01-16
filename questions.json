@@ -1218,7 +1218,1087 @@
             "Flexibility"
         ],
         "correctAnswer": "Proper curing process"
+    }, {
+        "question": "Which one of the following tools is used in masonry work?",
+        "options": [
+            "Trowel",
+            "Straight edge",
+            "Mason saw",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Saw is used for ______ of wood.",
+        "options": [
+            "Joining",
+            "Marking",
+            "Measuring",
+            "Cutting"
+        ],
+        "correctAnswer": "Cutting"
+    },
+    {
+        "question": "The color of brick should be ______ at all points.",
+        "options": [
+            "Uniform",
+            "Non-uniform",
+            "Multi-color",
+            "Dull"
+        ],
+        "correctAnswer": "Uniform"
+    },
+    {
+        "question": "The edges of a good brick should be ______.",
+        "options": [
+            "Rounded",
+            "Broken",
+            "Sharp and straight",
+            "None of these"
+        ],
+        "correctAnswer": "Sharp and straight"
+    },
+    {
+        "question": "Name the brickwork bond shown in the figure.",
+        "options": [
+            "English",
+            "Flemish",
+            "Header",
+            "Stretcher"
+        ],
+        "correctAnswer": "English"
+    },
+    {
+        "question": "Corner junction can also be called a ______ junction.",
+        "options": [
+            "T",
+            "L",
+            "O",
+            "None of these"
+        ],
+        "correctAnswer": "L"
+    },
+    {
+        "question": "What is called the portion of a building below the ground level?",
+        "options": [
+            "Superstructure",
+            "Wall",
+            "Foundation",
+            "Roof slab"
+        ],
+        "correctAnswer": "Foundation"
+    },
+    {
+        "question": "Lime containing clay up to 30% is called ______.",
+        "options": [
+            "Quick lime",
+            "Fat lime",
+            "Hydraulic lime",
+            "Slaked lime"
+        ],
+        "correctAnswer": "Hydraulic lime"
+    },
+    {
+        "question": "Which of the following is a type of foundation?",
+        "options": [
+            "Shallow foundation",
+            "Deep foundation",
+            "Both shallow and deep foundation",
+            "None of these"
+        ],
+        "correctAnswer": "Both shallow and deep foundation"
+    },
+    {
+        "question": "________ connects post and shutter in a door or window.",
+        "options": [
+            "Hinge",
+            "Bolt",
+            "Lever",
+            "Hold fast"
+        ],
+        "correctAnswer": "Hinge"
+    },
+    {
+        "question": "The curved support provided over a door or window opening is called ______.",
+        "options": [
+            "Arch",
+            "Lintel",
+            "Plinth beam",
+            "Grade beam"
+        ],
+        "correctAnswer": "Arch"
+    },
+    {
+        "question": "The arch having the profile of half of an ellipse is called ______.",
+        "options": [
+            "Semi-circular arch",
+            "Circular arch",
+            "Semi-elliptical arch",
+            "Triangular arch"
+        ],
+        "correctAnswer": "Semi-elliptical arch"
+    },
+    {
+        "question": "________ is the most common binder used in concrete.",
+        "options": [
+            "Water",
+            "Sand",
+            "Cement",
+            "None of these"
+        ],
+        "correctAnswer": "Cement"
+    },
+    {
+        "question": "Brick flooring is ______ mud flooring.",
+        "options": [
+            "Stronger than",
+            "Weaker than",
+            "Same as",
+            "None of these"
+        ],
+        "correctAnswer": "Stronger than"
+    },
+    {
+        "question": "Flooring should ______.",
+        "options": [
+            "Resist wear",
+            "Be tough",
+            "Resist tear",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "What is used for the free passage of clean air in a structure?",
+        "options": [
+            "Lintel",
+            "Ventilation",
+            "Wall",
+            "Foundation"
+        ],
+        "correctAnswer": "Ventilation"
+    },
+    {
+        "question": "Which of the following materials is used for making lintel?",
+        "options": [
+            "Wood",
+            "R.C.C.",
+            "Reinforced brickwork",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "A pillar can be ______ in shape.",
+        "options": [
+            "Rectangular",
+            "Square",
+            "Both rectangular and square",
+            "None of these"
+        ],
+        "correctAnswer": "Both rectangular and square"
+    },
+    {
+        "question": "Name the wall that consists of two separate walls with a space between them.",
+        "options": [
+            "Loaded wall",
+            "Main wall",
+            "Cavity wall",
+            "Side wall"
+        ],
+        "correctAnswer": "Cavity wall"
+    },
+    {
+        "question": "What is the reason for the accident at the construction site?",
+        "options": [
+            "Lack of knowledge of proper safety method",
+            "Improper use of equipment",
+            "Poor lighting",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+      {
+        "question": "What is called the waste water from kitchen sinks?",
+        "options": [
+            "Grey water",
+            "Black water",
+            "Yellow water",
+            "Brown water"
+        ],
+        "correctAnswer": "Grey water"
+    },
+    {
+        "question": "Which one of the following is a type of drainage pipe?",
+        "options": [
+            "PVC pipe",
+            "Concrete pipe",
+            "Clay pipe",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "The chamber for connecting sewer pipes and cleaning blockages is called ______.",
+        "options": [
+            "Gully trap",
+            "Vent pipe",
+            "Manhole",
+            "Trap"
+        ],
+        "correctAnswer": "Manhole"
+    },
+    {
+        "question": "________ helps to inspect sewer pipes.",
+        "options": [
+            "Trap",
+            "Manhole",
+            "Vent pipe",
+            "None of these"
+        ],
+        "correctAnswer": "Manhole"
+    },
+    {
+        "question": "Generally, the shape of a septic tank is ______.",
+        "options": [
+            "Semi-circular",
+            "Circular",
+            "Rectangular",
+            "Oval"
+        ],
+        "correctAnswer": "Rectangular"
+    },
+    {
+        "question": "Which of the following is a good fire-resistant stone?",
+        "options": [
+            "Clay",
+            "Granite",
+            "Quartz",
+            "Limestone"
+        ],
+        "correctAnswer": "Granite"
+    },
+    {
+        "question": "R.C.C. roof is classified under ______.",
+        "options": [
+            "Dome roof",
+            "Shell roof",
+            "Flat roof",
+            "Pitched roof"
+        ],
+        "correctAnswer": "Flat roof"
+    },
+    {
+        "question": "Which one of the following is a type of marble?",
+        "options": [
+            "Calcite marble",
+            "Dolomite marble",
+            "Magnesium marble",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Analogy between Marble: Stone is like analogy between ______.",
+        "options": [
+            "Gold: Mine",
+            "Fruit: Grass",
+            "Copper: Metal",
+            "Sand: Air"
+        ],
+        "correctAnswer": "Copper: Metal"
+    },
+    {
+        "question": "Cement concrete hollow blocks are ______ than conventional bricks.",
+        "options": [
+            "Weaker",
+            "Stronger",
+            "Neither weaker nor strong",
+            "Both weaker and stronger"
+        ],
+        "correctAnswer": "Stronger"
+    },
+    {
+        "question": "A stair which does not have any change of direction is called ______ stair.",
+        "options": [
+            "Quarter turn",
+            "Half turn",
+            "Straight",
+            "None of these"
+        ],
+        "correctAnswer": "Straight"
+    },
+    {
+        "question": "What is called the vertical portion of a step?",
+        "options": [
+            "Tread",
+            "Riser",
+            "Soffit",
+            "None of these"
+        ],
+        "correctAnswer": "Riser"
+    },
+    {
+        "question": "Which of the following tools is used in brick masonry work?",
+        "options": [
+            "Trowel",
+            "Brick hammer",
+            "Brick axe",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Carpenter's pencil is used for ______ of wood.",
+        "options": [
+            "Joining",
+            "Marking",
+            "Measuring",
+            "Cutting"
+        ],
+        "correctAnswer": "Marking"
+    },
+    {
+        "question": "Which of the following is a type of brick?",
+        "options": [
+            "Sand lime brick",
+            "Concrete brick",
+            "Fly ash brick",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "In which type of mortar, cement is used as a binding material?",
+        "options": [
+            "Lime mortar",
+            "Cement mortar",
+            "Surkhi mortar",
+            "Gypsum mortar"
+        ],
+        "correctAnswer": "Cement mortar"
+    },
+    {
+        "question": "Name that junction where two walls meet each other at right angles.",
+        "options": [
+            "Squint junction",
+            "Right angle junction",
+            "Acute squint quoin",
+            "None of these"
+        ],
+        "correctAnswer": "Right angle junction"
+    },
+    {
+        "question": "The part of a building constructed below ground level is known as ______.",
+        "options": [
+            "Roof",
+            "Lintel",
+            "Foundation",
+            "Superstructure"
+        ],
+        "correctAnswer": "Foundation"
+    },
+    {
+        "question": "Which of the following is a type of foundation?",
+        "options": [
+            "Pile foundation",
+            "Column foundation",
+            "Raft foundation",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Which of the following is not a type of lime?",
+        "options": [
+            "Semi-hydraulic lime",
+            "Fat lime",
+            "Hydraulic lime",
+            "Blue lime"
+        ],
+        "correctAnswer": "Blue lime"
+    },
+    {
+        "question": "Lowermost horizontal part of a frame is called ______.",
+        "options": [
+            "Sill",
+            "Head",
+            "Panel",
+            "Hold fast"
+        ],
+        "correctAnswer": "Sill"
+    },
+    {
+        "question": "Which of the following is a type of arch?",
+        "options": [
+            "Semi-circular arch",
+            "Segmental arch",
+            "Flat arch",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "The floors constructed above the ground floor are known as ______.",
+        "options": [
+            "Upper floor",
+            "Ground floor",
+            "Foundation floor",
+            "Basement floor"
+        ],
+        "correctAnswer": "Upper floor"
+    },
+    {
+        "question": "Which of the following is a component of a floor?",
+        "options": [
+            "Sub floor",
+            "Floor covering",
+            "Both sub floor and floor covering",
+            "None of these"
+        ],
+        "correctAnswer": "Both sub floor and floor covering"
+    },
+    {
+        "question": "________ is a window of small height that is fixed at the top of a door or window.",
+        "options": [
+            "Lintel",
+            "Ventilator",
+            "Wall",
+            "Foundation"
+        ],
+        "correctAnswer": "Ventilator"
+    },
+    {
+        "question": "Which of the following material is used for making R.C.C. lintel?",
+        "options": [
+            "Wood",
+            "Reinforced Cement Concrete",
+            "Steel",
+            "Stone"
+        ],
+        "correctAnswer": "Reinforced Cement Concrete"
+    },
+    {
+        "question": "Name the wall that consists of two separate walls with a space between them.",
+        "options": [
+            "Pack wall",
+            "Main wall",
+            "Cavity wall",
+            "Side wall"
+        ],
+        "correctAnswer": "Cavity wall"
+    },
+    {
+        "question": "Which of the following is a type of fixture and fastening used for a window?",
+        "options": [
+            "Hinge",
+            "Bolt",
+            "Handle",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Which of the following is a type of moulding process of brick?",
+        "options": [
+            "Hand moulding",
+            "Machine moulding",
+            "Both hand and machine moulding",
+            "None of these"
+        ],
+        "correctAnswer": "Both hand and machine moulding"
+    },
+    {
+        "question": "Granite is a type of ______.",
+        "options": [
+            "Cement",
+            "Lime",
+            "Brick",
+            "Stone"
+        ],
+        "correctAnswer": "Stone"
+    },
+    {
+        "question": "The lower portion of a deep manhole that provides a working space for cleaning sewer lines is called ______.",
+        "options": [
+            "Working chamber",
+            "Bottom",
+            "Ladder",
+            "Cover and frame"
+        ],
+        "correctAnswer": "Working chamber"
+    },
+    {
+        "question": "Which of the following is a common sanitary fitting provided in a building?",
+        "options": [
+            "Wash basin",
+            "Sink",
+            "Bathtub",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Name that system by which used and contaminated water is removed by drains.",
+        "options": [
+            "Drainage",
+            "Sullage",
+            "Sewage",
+            "Refuse"
+        ],
+        "correctAnswer": "Drainage"
+    },
+    {
+        "question": "Which of the following type of pipe can be used in a drainage system?",
+        "options": [
+            "Cement concrete pipes",
+            "Plastic pipe",
+            "Cast iron pipe",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "________ joint is used where the pipes expand or contract due to change in temperature.",
+        "options": [
+            "Expansion",
+            "Collar",
+            "Flange",
+            "Mechanical"
+        ],
+        "correctAnswer": "Expansion"
+    },
+    {
+        "question": "Name that hole provided in a drain, sewer, or any other closed structure in which a man may enter for inspection, cleaning, or maintenance operation.",
+        "options": [
+            "Cowl",
+            "Vent pipe",
+            "Manhole",
+            "Trap"
+        ],
+        "correctAnswer": "Manhole"
+    },
+    {
+        "question": "Which of the following is a component of a manhole?",
+        "options": [
+            "Access shaft",
+            "Bottom",
+            "Ladder",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Generally the shape of a septic tank is ______.",
+        "options": [
+            "Semi-circular",
+            "Circular",
+            "Rectangular",
+            "Oval"
+        ],
+        "correctAnswer": "Rectangular"
+    },
+    {
+        "question": "________ is a watertight underground tank where sewage is admitted into it for treatment.",
+        "options": [
+            "Septic tank",
+            "Drainage tank",
+            "Lamp hole",
+            "Cowl"
+        ],
+        "correctAnswer": "Septic tank"
+    },
+    {
+        "question": "The quarried piece of rock which is used for engineering purposes is called ______.",
+        "options": [
+            "Stone",
+            "Brick",
+            "Timber",
+            "Clay"
+        ],
+        "correctAnswer": "Stone"
+    },
+    {
+        "question": "Which of the following material is used in R.C.C.?",
+        "options": [
+            "Cement",
+            "Mild steel bar",
+            "Coarse aggregate",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Which of the following is a type of lifting appliance?",
+        "options": [
+            "Lifting tackle",
+            "Chain",
+            "Lewis",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Which of the following stone can be used for flooring?",
+        "options": [
+            "Chalk",
+            "Marble",
+            "Kankar",
+            "Basalt"
+        ],
+        "correctAnswer": "Marble"
+    },
+    {
+        "question": "Concrete block moulded with an empty core is called ______.",
+        "options": [
+            "Cement concrete",
+            "Brick",
+            "Solid block",
+            "Hollow block"
+        ],
+        "correctAnswer": "Hollow block"
+    },
+{
+        "question": "A topmost covered structure provided over a building to protect from rain, snow, sun, and wind is called ______.",
+        "options": [
+            "Foundation",
+            "Roof",
+            "Wall",
+            "Stair"
+        ],
+        "correctAnswer": "Roof"
+    },
+    {
+        "question": "Which of the following is a type of stair?",
+        "options": [
+            "Straight stair",
+            "Turning stair",
+            "Circular stair",
+            "All of these"
+        ],
+        "correctAnswer": "All of these"
+    },
+    {
+        "question": "Which among the following is the angle between isometric axes?",
+        "options": [
+            "30 degrees",
+            "90 degrees",
+            "120 degrees",
+            "248 degrees"
+        ],
+        "correctAnswer": "120 degrees"
+    },
+    {
+        "question": "Which among the following is not a reduction scale?",
+        "options": [
+            "2:10",
+            "5:1",
+            "1:1",
+            "13:12"
+        ],
+        "correctAnswer": "1:1"
+    },
+    {
+        "question": "Which among the following is not a type of brick masonry work?",
+        "options": [
+            "Horizontal joints",
+            "Vertical joints",
+            "Brick bat",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which among the following IS code is referred for brick work?",
+        "options": [
+            "IS 2212",
+            "IS 3102",
+            "IS 3466",
+            "IS 1077"
+        ],
+        "correctAnswer": "IS 2212"
+    },
+    {
+        "question": "Which among the following is the angle between orthographic axes?",
+        "options": [
+            "30 degrees",
+            "90 degrees",
+            "120 degrees",
+            "248 degrees"
+        ],
+        "correctAnswer": "90 degrees"
+    },
+    {
+        "question": "Which among the following is a reproduction scale?",
+        "options": [
+            "2:10",
+            "5:1",
+            "1:1",
+            "13:12"
+        ],
+        "correctAnswer": "1:1"
+    },
+    {
+        "question": "Which among the following type of joint is found in corners?",
+        "options": [
+            "Horizontal joints",
+            "Vertical joints",
+            "Brick bat",
+            "All of the above"
+        ],
+        "correctAnswer": "Vertical joints"
+    },
+    {
+        "question": "Which among the following brick is used in the corners of a wall?",
+        "options": [
+            "Spalls",
+            "Quoins",
+            "Hearting",
+            "Side"
+        ],
+        "correctAnswer": "Quoins"
+    },
+    {
+        "question": "Which among the following term is used to refer to the longest side of the brick?",
+        "options": [
+            "King",
+            "Quoins",
+            "Stretcher",
+            "None of the above"
+        ],
+        "correctAnswer": "Stretcher"
+    },
+    {
+        "question": "Which among the following term is used to refer to the corner of a brick?",
+        "options": [
+            "Quoins",
+            "Hearting",
+            "Brick bat",
+            "None of the above"
+        ],
+        "correctAnswer": "Quoins"
+    },
+    {
+        "question": "Which among the following term is true for Gypsum?",
+        "options": [
+            "Sedimentary rocks",
+            "Igneous rock",
+            "Metamorphic rock",
+            "None of the above"
+        ],
+        "correctAnswer": "Sedimentary rocks"
+    },
+    {
+        "question": "Which among the following is not a mineral?",
+        "options": [
+            "Basalt",
+            "Quartz",
+            "Granite",
+            "None of the above"
+        ],
+        "correctAnswer": "Basalt"
+    },
+    {
+        "question": "Heavy rocks are used for which among the following?",
+        "options": [
+            "Arches",
+            "Rubble",
+            "Retaining walls",
+            "None of the above"
+        ],
+        "correctAnswer": "Retaining walls"
+    },
+    {
+        "question": "Which among the following should be the maximum water absorption capacity of building stone?",
+        "options": [
+            "5%",
+            "12%",
+            "28%",
+            "30%"
+        ],
+        "correctAnswer": "5%"
+    },
+    {
+        "question": "Which among the following has more fire resistance capacity?",
+        "options": [
+            "Marble",
+            "Limestone",
+            "Graphite",
+            "None of the above"
+        ],
+        "correctAnswer": "None of the above"
+    },
+    {
+        "question": "Which among the following is the use of Jumper Tools?",
+        "options": [
+            "Testing stones",
+            "Breaking stones",
+            "Dressing stones",
+            "None of the above"
+        ],
+        "correctAnswer": "Breaking stones"
+    },
+    {
+        "question": "Which among the following is hardwood?",
+        "options": [
+            "Deodar",
+            "Shesham",
+            "Pine",
+            "Teak"
+        ],
+        "correctAnswer": "Shesham"
+    },
+    {
+        "question": "Which among the following is an advantage of plywood?",
+        "options": [
+            "Great tensile strength in long direction",
+            "Great tensile strength in short direction",
+            "Equal tensile strength in all directions",
+            "None of the above"
+        ],
+        "correctAnswer": "Equal tensile strength in all directions"
+    },
+    {
+        "question": "Which among the following on the brick is used to hold mortar?",
+        "options": [
+            "Frog",
+            "Crevice",
+            "Bevel",
+            "None of the above"
+        ],
+        "correctAnswer": "Frog"
+    },
+    {
+        "question": "How many times the width of the brick is the length?",
+        "options": [
+            "2 times",
+            "3 times",
+            "4 times",
+            "Equal to"
+        ],
+        "correctAnswer": "2 times"
+    },
+    {
+        "question": "Which among the following term is true for Quartzite?",
+        "options": [
+            "Sedimentary rocks",
+            "Igneous rock",
+            "Metamorphic rock",
+            "None of the above"
+        ],
+        "correctAnswer": "Metamorphic rock"
+    },
+    {
+        "question": "Which among the following is not a mineral?",
+        "options": [
+            "Basalt",
+            "Quartz",
+            "Granite",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which among the following cannot be part of a building structure?",
+        "options": [
+            "Arches",
+            "Rubble",
+            "Retaining walls",
+            "None of the above"
+        ],
+        "correctAnswer": "Rubble"
+    },
+    {
+        "question": "What should be the maximum composition of lime in bricks?",
+        "options": [
+            "5%",
+            "12%",
+            "18%",
+            "24%"
+        ],
+        "correctAnswer": "5%"
+    },
+    {
+        "question": "How much should be the moisture capacity in timber used for masonry work?",
+        "options": [
+            "5 to 10%",
+            "10 to 12%",
+            "15 to 20%",
+            "20 to 25%"
+        ],
+        "correctAnswer": "10 to 12%"
+    },
+    {
+        "question": "Which among the following is the use of Mash Hammer?",
+        "options": [
+            "Testing stones",
+            "Breaking stones",
+            "Dressing stones",
+            "None of the above"
+        ],
+        "correctAnswer": "Dressing stones"
+    },
+    {
+        "question": "Which among the following is used for making plank?",
+        "options": [
+            "Deodar",
+            "Shesham",
+            "Pine",
+            "Teak"
+        ],
+        "correctAnswer": "Teak"
+    },
+    {
+        "question": "Which among the following term is used to refer to the mass of wood left after cutting all the branches?",
+        "options": [
+            "Log",
+            "Trunk",
+            "Timber",
+            "Plank"
+        ],
+        "correctAnswer": "Trunk"
+    },
+    {
+        "question": "Which among the following is used to determine the age of trees?",
+        "options": [
+            "Annular layers",
+            "Cambium layers",
+            "Heartwood",
+            "Sapwood"
+        ],
+        "correctAnswer": "Annular layers"
+    },
+    {
+        "question": "Which among the following is the role of alumina in bricks?",
+        "options": [
+            "Provide plasticity",
+            "Increase durability of bricks",
+            "Prevent shrinkage",
+            "Increase permeability of brick"
+        ],
+        "correctAnswer": "Provide plasticity"
+    },
+    {
+        "question": "Which among the following defect occurs in bricks due to excess content of silica?",
+        "options": [
+            "Cracking of bricks",
+            "Loss of cohesion",
+            "Decrease permeability of brick",
+            "None of the above"
+        ],
+        "correctAnswer": "Loss of cohesion"
+    },
+    {
+        "question": "Which among the following is not a type of Lime mortar brickwork?",
+        "options": [
+            "Class IV",
+            "Class I",
+            "Class II",
+            "Class III"
+        ],
+        "correctAnswer": "Class IV"
+    },
+    {
+        "question": "Which among the following is not a type of brick work?",
+        "options": [
+            "Clay",
+            "Mud",
+            "Lime mortar",
+            "Cement"
+        ],
+        "correctAnswer": "Cement"
+    },
+    {
+        "question": "Which among the following type of stone is used in industrial buildings?",
+        "options": [
+            "Slate",
+            "Marble",
+            "Sandstone",
+            "None of the above"
+        ],
+        "correctAnswer": "Sandstone"
+    },
+    {
+        "question": "How many among the following types of Rubble stones are there?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "1"
+        ],
+        "correctAnswer": "6"
+    },
+    {
+        "question": "Which among the following dressing is used on the face stones of Random Rubble masonry?",
+        "options": [
+            "Hammer",
+            "Chisel",
+            "Plain",
+            "Axe"
+        ],
+        "correctAnswer": "Chisel"
+    },
+    {
+        "question": "Which among the following is the chief constituent of Flint?",
+        "options": [
+            "Fly ash",
+            "Silica",
+            "Potash",
+            "Mica"
+        ],
+        "correctAnswer": "Silica"
+    },
+    {
+        "question": "Which among the following type of joint is used in arches?",
+        "options": [
+            "Butt",
+            "Dowel",
+            "Rebated",
+            "Plain"
+        ],
+        "correctAnswer": "Rebated"
+    },
+    {
+        "question": "Which among the following is the cement to mortar ratio in masonry?",
+        "options": [
+            "1:1",
+            "1:2",
+            "1:3",
+            "1:4"
+        ],
+        "correctAnswer": "1:3"
+    },
+    {
+        "question": "Which among the following type of dressed stone is used in Ashlar Masonry?",
+        "options": [
+            "Polygonal",
+            "Dimensional",
+            "Square",
+            "Rectangular"
+        ],
+        "correctAnswer": "Dimensional"
+    },
+    {
+        "question": "Which among the following type of masonry requires greatly skilled labour?",
+        "options": [
+            "Ashlar Masonry",
+            "Dry rubble masonry",
+            "Course rubble masonry",
+            "None of the above"
+        ],
+        "correctAnswer": "Ashlar Masonry"
+    },
+    {
+        "question": "How many among the following components are used to make concrete?",
+        "options": [
+            "4",
+            "6",
+            "7",
+            "2"
+        ],
+        "correctAnswer": "4"
     }
+    
 
 
 
