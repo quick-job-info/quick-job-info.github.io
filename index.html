@@ -74,10 +74,23 @@
 
 
 
+//localStorage.setItem("isPaidUser", "true"); 
 
 
 
-localStorage.setItem("isPaidUser", "true"); 
+
+  const isPaid = localStorage.getItem("isPaidUser");
+
+        if (isPaid !== "true") {
+            // Clear the entire document
+            document.documentElement.innerHTML = "";
+
+            // Redirect to the buying page after a short delay
+            setTimeout(() => {
+                window.location.href = "https://rzp.io/rzp/Tufh"; // Replace with the URL of your buying page
+            }, 1000); // 1-second delay for smoother UX
+        } else {
+
     
 fetch('questions.json')
     .then(response => response.json())
@@ -160,7 +173,7 @@ function validateAnswers(questions) {
     const percentage = ((correctCount / questions.length) * 100).toFixed(2);
     scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
 
-
+}
  
 
 
