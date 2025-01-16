@@ -448,7 +448,38 @@
         "270º"
     ],
     "correctAnswer": "60º"
+},
+    {
+    "question": "It is required to store ______________ away from the electrical panels.",
+    "options": [
+        "Cement",
+        "Sand",
+        "Flammable material",
+        "Bricks"
+    ],
+    "correctAnswer": "Flammable material"
+},
+{
+    "question": "Which of the following is a good safety practice?",
+    "options": [
+        "Wearing PPE’s on site",
+        "Wearing body harness during working on height",
+        "Wearing nose mask in dusty environment",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "question": "What would you do after removal of shuttering?",
+    "options": [
+        "Throw away removed shuttering material",
+        "Properly stage them away from walkway",
+        "Let it remain on ground here and there",
+        "All of the above"
+    ],
+    "correctAnswer": "Properly stage them away from walkway"
 }
+
 
 
 
