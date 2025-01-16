@@ -26,6 +26,12 @@
         .answers {
             margin-left: 20px;
         }
+        .incorrect {
+            color: red;
+        }
+        .correct {
+            color: green;
+        }
         button {
             display: block;
             width: 100%;
@@ -46,48 +52,98 @@
 <div class="container">
     <h1>Student Test</h1>
     <form id="testForm">
-        <!-- Question 1 -->
-        <div class="question">
-            <h3>1. What is the capital of France?</h3>
-            <div class="answers">
-                <label><input type="radio" name="q1" value="Paris"> Paris</label>
-                <label><input type="radio" name="q1" value="London"> London</label>
-                <label><input type="radio" name="q1" value="Berlin"> Berlin</label>
-                <label><input type="radio" name="q1" value="Madrid"> Madrid</label>
-            </div>
-        </div>
-
-        <!-- Question 2 -->
-        <div class="question">
-            <h3>2. What is 5 + 7?</h3>
-            <div class="answers">
-                <label><input type="radio" name="q2" value="10"> 10</label>
-                <label><input type="radio" name="q2" value="12"> 12</label>
-                <label><input type="radio" name="q2" value="15"> 15</label>
-                <label><input type="radio" name="q2" value="17"> 17</label>
-            </div>
-        </div>
-
-        <!-- Question 3 -->
-        <div class="question">
-            <h3>3. Who wrote 'Romeo and Juliet'?</h3>
-            <div class="answers">
-                <label><input type="radio" name="q3" value="Shakespeare"> William Shakespeare</label>
-                <label><input type="radio" name="q3" value="Dickens"> Charles Dickens</label>
-                <label><input type="radio" name="q3" value="Austen"> Jane Austen</label>
-                <label><input type="radio" name="q3" value="Hemingway"> Ernest Hemingway</label>
-            </div>
-        </div>
-
-        <button type="submit">Submit Test</button>
+        <!-- Questions will be inserted here dynamically -->
     </form>
+    <button type="submit" id="submitBtn">Submit Test</button>
+    <div id="result"></div>
 </div>
 
 <script>
-    document.getElementById("testForm").onsubmit = function(event) {
+// Sample JSON data to simulate the question set (this can be in a separate .json file)
+const questions = [
+    {
+        question: "What is the capital of France?",
+        options: ["Paris", "London", "Berlin", "Madrid"],
+        correctAnswer: "Paris"
+    },
+    {
+        question: "What is 5 + 7?",
+        options: ["10", "12", "15", "17"],
+        correctAnswer: "12"
+    },
+    {
+        question: "Who wrote 'Romeo and Juliet'?",
+        options: ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ernest Hemingway"],
+        correctAnswer: "William Shakespeare"
+    }
+];
+
+// Function to load questions dynamically
+function loadQuestions() {
+    const form = document.getElementById('testForm');
+    questions.forEach((q, index) => {
+        // Create the question container
+        const questionDiv = document.createElement('div');
+        questionDiv.classList.add('question');
+        
+        // Add the question text
+        const questionTitle = document.createElement('h3');
+        questionTitle.textContent = `${index + 1}. ${q.question}`;
+        questionDiv.appendChild(questionTitle);
+
+        // Add the options
+        const answersDiv = document.createElement('div');
+        answersDiv.classList.add('answers');
+        q.options.forEach(option => {
+            const label = document.createElement('label');
+            label.innerHTML = `<input type="radio" name="q${index}" value="${option}"> ${option}`;
+            answersDiv.appendChild(label);
+        });
+        questionDiv.appendChild(answersDiv);
+
+        // Append question to the form
+        form.appendChild(questionDiv);
+    });
+}
+
+// Function to validate answers
+function validateAnswers() {
+    let correctCount = 0;
+    const resultDiv = document.getElementById('result');
+    resultDiv.innerHTML = '';
+
+    questions.forEach((q, index) => {
+        const selectedAnswer = document.querySelector(`input[name="q${index}"]:checked`);
+        const resultText = document.createElement('p');
+        
+        if (selectedAnswer) {
+            if (selectedAnswer.value === q.correctAnswer) {
+                correctCount++;
+                resultText.classList.add('correct');
+                resultText.textContent = `Question ${index + 1}: Correct!`;
+            } else {
+                resultText.classList.add('incorrect');
+                resultText.textContent = `Question ${index + 1}: Incorrect. The correct answer is: ${q.correctAnswer}.`;
+            }
+        } else {
+            resultText.classList.add('incorrect');
+            resultText.textContent = `Question ${index + 1}: No answer selected.`;
+        }
+
+        resultDiv.appendChild(resultText);
+    });
+
+    resultDiv.innerHTML += `<p>Total Correct Answers: ${correctCount} out of ${questions.length}</p>`;
+}
+
+// Load questions on page load
+window.onload = function() {
+    loadQuestions();
+    document.getElementById('submitBtn').addEventListener('click', function(event) {
         event.preventDefault();
-        alert("Test submitted! Thank you for completing it.");
-    };
+        validateAnswers();
+    });
+};
 </script>
 
 </body>
