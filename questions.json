@@ -718,6 +718,306 @@
             "4.8 m"
         ],
         "correctAnswer": "4.2 m"
+    },
+      {
+        "question": "What is the primary purpose of mortar in masonry work?",
+        "options": [
+            "To bind bricks or stones together",
+            "To add aesthetic value",
+            "To reduce the weight of walls",
+            "To improve insulation"
+        ],
+        "correctAnswer": "To bind bricks or stones together"
+    },
+    {
+        "question": "Which tool is commonly used by masons to level bricks or stones?",
+        "options": [
+            "Trowel",
+            "Spirit level",
+            "Hammer",
+            "Chisel"
+        ],
+        "correctAnswer": "Spirit level"
+    },
+    {
+        "question": "Which type of brick is most suitable for constructing load-bearing walls?",
+        "options": [
+            "Clay brick",
+            "Fly ash brick",
+            "Concrete block",
+            "Fire brick"
+        ],
+        "correctAnswer": "Concrete block"
+    },
+    {
+        "question": "What is the primary advantage of using interlocking bricks?",
+        "options": [
+            "Reduced construction cost",
+            "Improved thermal insulation",
+            "Faster construction time",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which type of bond is known for its strength in brick masonry?",
+        "options": [
+            "English bond",
+            "Flemish bond",
+            "Stack bond",
+            "Header bond"
+        ],
+        "correctAnswer": "English bond"
+    },
+    {
+        "question": "What is the standard ratio of cement to sand in mortar for brickwork?",
+        "options": [
+            "1:2",
+            "1:4",
+            "1:6",
+            "1:8"
+        ],
+        "correctAnswer": "1:6"
+    },
+    {
+        "question": "What is the purpose of curing masonry work?",
+        "options": [
+            "To prevent cracking",
+            "To enhance strength",
+            "To improve adhesion",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which type of masonry uses stones without any mortar?",
+        "options": [
+            "Ashlar masonry",
+            "Rubble masonry",
+            "Dry stone masonry",
+            "Composite masonry"
+        ],
+        "correctAnswer": "Dry stone masonry"
+    },
+    {
+        "question": "What is the minimum recommended thickness for a plaster coat in masonry?",
+        "options": [
+            "5 mm",
+            "10 mm",
+            "15 mm",
+            "20 mm"
+        ],
+        "correctAnswer": "10 mm"
+    },
+    {
+        "question": "What is the primary characteristic of a fire brick?",
+        "options": [
+            "High thermal resistance",
+            "Lightweight",
+            "Easy to cut",
+            "Aesthetic appearance"
+        ],
+        "correctAnswer": "High thermal resistance"
+    },
+    {
+        "question": "Which material is often used for waterproofing in masonry construction?",
+        "options": [
+            "Bitumen",
+            "Cement",
+            "Clay",
+            "Lime"
+        ],
+        "correctAnswer": "Bitumen"
+    },
+    {
+        "question": "What is the typical compressive strength of a good-quality brick?",
+        "options": [
+            "3 MPa",
+            "10 MPa",
+            "20 MPa",
+            "30 MPa"
+        ],
+        "correctAnswer": "10 MPa"
+    },
+    {
+        "question": "What is the primary purpose of scaffolding in masonry work?",
+        "options": [
+            "To provide support for walls",
+            "To provide a working platform",
+            "To increase the height of walls",
+            "To store construction materials"
+        ],
+        "correctAnswer": "To provide a working platform"
+    },
+    {
+        "question": "Which type of lime is best suited for plastering and finishing works?",
+        "options": [
+            "Hydraulic lime",
+            "Quicklime",
+            "Slaked lime",
+            "Dolomitic lime"
+        ],
+        "correctAnswer": "Slaked lime"
+    },
+    {
+        "question": "What is the main advantage of hollow concrete blocks over solid ones?",
+        "options": [
+            "Better insulation",
+            "Lower cost",
+            "Higher strength",
+            "Easier to manufacture"
+        ],
+        "correctAnswer": "Better insulation"
+    },
+    {
+        "question": "What is the recommended overlap length for reinforcement bars in masonry?",
+        "options": [
+            "30 times the diameter",
+            "40 times the diameter",
+            "50 times the diameter",
+            "60 times the diameter"
+        ],
+        "correctAnswer": "50 times the diameter"
+    },
+    {
+        "question": "What is the primary function of weep holes in masonry walls?",
+        "options": [
+            "To provide ventilation",
+            "To allow water drainage",
+            "To increase strength",
+            "To prevent insects"
+        ],
+        "correctAnswer": "To allow water drainage"
+    },
+    {
+        "question": "What type of masonry is used for constructing retaining walls?",
+        "options": [
+            "Rubble masonry",
+            "Brick masonry",
+            "Reinforced masonry",
+            "Composite masonry"
+        ],
+        "correctAnswer": "Reinforced masonry"
+    },
+    {
+        "question": "Which tool is used to mix mortar?",
+        "options": [
+            "Hoe",
+            "Trowel",
+            "Mason's square",
+            "Level"
+        ],
+        "correctAnswer": "Hoe"
+    },
+    {
+        "question": "What is the ideal water-cement ratio for masonry mortar?",
+        "options": [
+            "0.4",
+            "0.5",
+            "0.6",
+            "0.7"
+        ],
+        "correctAnswer": "0.6"
+    },
+    {
+        "question": "What is the purpose of using a damp-proof course (DPC)?",
+        "options": [
+            "To prevent moisture from rising",
+            "To reduce thermal expansion",
+            "To add strength to the wall",
+            "To enhance the appearance"
+        ],
+        "correctAnswer": "To prevent moisture from rising"
+    },
+    {
+        "question": "Which test determines the workability of mortar?",
+        "options": [
+            "Slump test",
+            "Flow table test",
+            "Compression test",
+            "Tensile strength test"
+        ],
+        "correctAnswer": "Flow table test"
+    },
+    {
+        "question": "What is the standard size of a brick in India?",
+        "options": [
+            "190 x 90 x 90 mm",
+            "200 x 100 x 100 mm",
+            "210 x 100 x 90 mm",
+            "220 x 110 x 90 mm"
+        ],
+        "correctAnswer": "190 x 90 x 90 mm"
+    },
+    {
+        "question": "What is the minimum curing period for brick masonry?",
+        "options": [
+            "3 days",
+            "7 days",
+            "10 days",
+            "14 days"
+        ],
+        "correctAnswer": "7 days"
+    },
+    {
+        "question": "Which type of bond is used for walls with a decorative pattern?",
+        "options": [
+            "Flemish bond",
+            "English bond",
+            "Stretcher bond",
+            "Herringbone bond"
+        ],
+        "correctAnswer": "Herringbone bond"
+    },
+    {
+        "question": "What is the main purpose of pointing in masonry?",
+        "options": [
+            "To enhance appearance",
+            "To protect joints from weather",
+            "To increase strength",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "Which cement type is most suitable for masonry works?",
+        "options": [
+            "Ordinary Portland Cement",
+            "Rapid Hardening Cement",
+            "Masonry Cement",
+            "Low Heat Cement"
+        ],
+        "correctAnswer": "Masonry Cement"
+    },
+    {
+        "question": "What is the purpose of lintels in masonry construction?",
+        "options": [
+            "To distribute load above openings",
+            "To improve wall aesthetics",
+            "To add insulation",
+            "To create decorative patterns"
+        ],
+        "correctAnswer": "To distribute load above openings"
+    },
+    {
+        "question": "Which type of stone is best suited for high-strength masonry?",
+        "options": [
+            "Granite",
+            "Limestone",
+            "Sandstone",
+            "Marble"
+        ],
+        "correctAnswer": "Granite"
+    },
+    {
+        "question": "What is the recommended overlap for bricks in stretcher bond?",
+        "options": [
+            "1/2 brick",
+            "1/3 brick",
+            "1/4 brick",
+            "Full brick"
+        ],
+        "correctAnswer": "1/2 brick"
     }
 
 
