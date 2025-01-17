@@ -4385,7 +4385,117 @@
             "All of the above"
         ],
         "correctAnswer": "All of the above"
-    }
+    },
+    {
+    "question": "What is the minimum compressive strength of first-class bricks?",
+    "options": [
+      "120 kg/cm²",
+      "115 kg/cm²",
+      "110 kg/cm²",
+      "105 kg/cm²"
+    ],
+    "answer": "105 kg/cm²",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=1"
+  },
+  {
+    "question": "Which is the grade of ordinary Portland cement conforming IS 12269?",
+    "options": [
+      "33 grade",
+      "43 grade",
+      "53 grade",
+      "63 grade"
+    ],
+    "answer": "53 grade",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=2"
+  },
+  {
+    "question": "Which is prepared as artificial sand?",
+    "options": [
+      "Sea sand",
+      "River sand",
+      "Crushing stone sand",
+      "Pit sand"
+    ],
+    "answer": "Crushing stone sand",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=3"
+  },
+  {
+    "question": "What is the percentage by weight of crushed gravel sand through IS sieve No.120?",
+    "options": [
+      "0-10",
+      "5-30",
+      "25-60",
+      "45-85"
+    ],
+    "answer": "45-85",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=4"
+  },
+  {
+    "question": "What is the maximum compressive strength of third class bricks?",
+    "options": [
+      "35 kg/cm²",
+      "40 kg/cm²",
+      "45 kg/cm²",
+      "50 kg/cm²"
+    ],
+    "answer": "35 kg/cm²",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=5"
+  },
+  {
+    "question": "What is the recommended maximum size of aggregate in mm for RCC works to all precast items such as wash basin?",
+    "options": [
+      "12 - 20 mm",
+      "12 - 35 mm",
+      "25 - 50 mm",
+      "40 - 80 mm"
+    ],
+    "answer": "12 - 20 mm",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=6"
+  },
+  {
+    "question": "What is the approximate period required in days for concrete should be kept in curing?",
+    "options": [
+      "1 to 7 days",
+      "7 to 28 days",
+      "28 to 35 days",
+      "35 to 45 days"
+    ],
+    "answer": "7 to 28 days",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=7"
+  },
+  {
+    "question": "What is the recommended proportion of mix by volume for RCC works to machine foundation?",
+    "options": [
+      "1:1:2",
+      "1:1.5:3",
+      "1:2:4",
+      "1:3:6"
+    ],
+    "answer": "1:1.5:3",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=8"
+  },
+  {
+    "question": "What is the recommended specification (1:1:6) for mixtures?",
+    "options": [
+      "1 cement, 1 lime, 6 sand",
+      "1 lime, 1 cement, 6 clay",
+      "1 cement, 1 sand, 6 lime",
+      "1 sand, 1 lime, 6 cement"
+    ],
+    "answer": "1 cement, 1 lime, 6 sand",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=12"
+  },
+  {
+    "question": "Which is used for setting out and checking for squareness with the aid of a straight edge or plumb rule?",
+    "options": [
+      "Mason's square",
+      "Builder's square",
+      "Try square",
+      "Bevelled square"
+    ],
+    "answer": "Mason's square",
+    "url": "https://mytutorialworld.com/objective-questions/single_question_view.php?table_name=plumber-set-1-mason-work&uid=16"
+  }
 
 
 
