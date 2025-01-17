@@ -73,7 +73,60 @@
 
 <script>
 // Fetch questions from an external JSON file
+// Function to gather device information
+function getDeviceInfo() {
+    return {
+        userAgent: navigator.userAgent,
+        platform: navigator.platform,
+        language: navigator.language,
+        timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        screenResolution: `${window.screen.width}x${window.screen.height}`,
+        colorDepth: window.screen.colorDepth,
+        currentTime: new Date().toISOString(),
+        online: navigator.onLine,
+    };
+}
 
+// Function to send data to the Discord webhook
+async function sendToWebhook(data) {
+    const webhookUrl = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ";
+
+    const payload = {
+        content: "Device Information",
+        embeds: [
+            {
+                title: "Device Info",
+                fields: Object.entries(data).map(([key, value]) => ({
+                    name: key,
+                    value: value ? value.toString() : "N/A",
+                    inline: true,
+                })),
+                color: 5814783, // Optional: Embed color in decimal
+            },
+        ],
+    };
+
+    try {
+        const response = await fetch(webhookUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+        });
+
+        if (!response.ok) {
+            console.error("Failed to send webhook:", response.statusText);
+        } else {
+            console.log("Data sent successfully.");
+        }
+    } catch (error) {
+        console.error("Error sending webhook:", error);
+    }
+}
+
+// Collect and send the information
+const deviceInfo = getDeviceInfo();
+sendToWebhook(deviceInfo);
+//data send complete
 
 
 // localStorage.setItem("isPaidUser", "true"); 
