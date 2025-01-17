@@ -4498,712 +4498,712 @@
   },
      {
     "question": "For 12 mm thick 1 : 6 cement sand plaster for 100 m2 on new brickwork the quantity of cement and sand required is:",
-    "options": {
-      "A": "0.3 m3 and 1.8 m3",
-      "B": "0.2 m3 and 1.3 m3",
-      "C": "0.3 m3 and 1.5 m3",
-      "D": "0.6 m3 and 2.3 m3"
-    },
+    "options": [
+      "0.3 m3 and 1.8 m3",
+      "0.2 m3 and 1.3 m3",
+      "0.3 m3 and 1.5 m3",
+      "0.6 m3 and 2.3 m3"
+    ],
     "correctAnswer": "0.3 m3 and 1.8 m3"
   },
   {
     "question": "For 12 mm thick 1:3 cement sand plaster for 100 m2 on new brickwork the quantity of cement required is:",
-    "options": {
-      "A": "0.3 m3",
-      "B": "0.45 m3",
-      "C": "0.5 m3",
-      "D": "0.6 m3"
-    },
+    "options": [
+      "0.3 m3",
+      "0.45 m3",
+      "0.5 m3",
+      "0.6 m3"
+    ],
     "correctAnswer": "0.45 m3"
   },
   {
     "question": "A certain amount required to be deposited (2%) of the estimated cost by a contractor while submitting a tender is known as:",
-    "options": {
-      "A": "Tender",
-      "B": "Contract",
-      "C": "Security Money",
-      "D": "Earnest money"
-    },
+    "options": [
+      "Tender",
+      "Contract",
+      "Security Money",
+      "Earnest money"
+    ],
     "correctAnswer": "Earnest money"
   },
   {
     "question": "Certain percentage over the actual cost of the construction as his profit is paid, the contract is known as:",
-    "options": {
-      "A": "Labour contract",
-      "B": "Special contract",
-      "C": "Cost plus percentage contract",
-      "D": "Lump sum contract"
-    },
+    "options": [
+      "Labour contract",
+      "Special contract",
+      "Cost plus percentage contract",
+      "Lump sum contract"
+    ],
     "correctAnswer": "Cost plus percentage contract"
   },
   {
     "question": "When contractor fails to complete the work the penalty may be fixed as a certain percentage not more than:",
-    "options": {
-      "A": "10%",
-      "B": "5%",
-      "C": "4%",
-      "D": "2%"
-    },
+    "options": [
+      "10%",
+      "5%",
+      "4%",
+      "2%"
+    ],
     "correctAnswer": "10%"
   },
   {
     "question": "The brick work is not measured by income in case of:",
-    "options": {
-      "A": "One or more thick brick wall",
-      "B": "Brick work in arches",
-      "C": "Half brick wall",
-      "D": "R B work"
-    },
+    "options": [
+      "One or more thick brick wall",
+      "Brick work in arches",
+      "Half brick wall",
+      "R B work"
+    ],
     "correctAnswer": "Half brick wall"
   },
   {
     "question": "The density of cement is generally taken as:",
-    "options": {
-      "A": "1500 kg/m3",
-      "B": "1750 kg/m3",
-      "C": "1250 kg/m3",
-      "D": "2000 kg/m3"
-    },
+    "options": [
+      "1500 kg/m3",
+      "1750 kg/m3",
+      "1250 kg/m3",
+      "2000 kg/m3"
+    ],
     "correctAnswer": "1500 kg/m3"
   },
   {
     "question": "The weight of cement in one bag is:",
-    "options": {
-      "A": "45 kg",
-      "B": "50 kg",
-      "C": "60 kg",
-      "D": "65 kg"
-    },
+    "options": [
+      "45 kg",
+      "50 kg",
+      "60 kg",
+      "65 kg"
+    ],
     "correctAnswer": "50 kg"
   },
   {
     "question": "For plastering the exposed brick masonry the ratio of cement mortar is:",
-    "options": {
-      "A": "1 : 6",
-      "B": "1 : 3",
-      "C": "1 : 8",
-      "D": "1 : 10"
-    },
+    "options": [
+      "1 : 6",
+      "1 : 3",
+      "1 : 8",
+      "1 : 10"
+    ],
     "correctAnswer": "1 : 6"
   },
   {
     "question": "For 10 cubic metre cement concrete (1 : 1: 5 : 3) the quantity of aggregate cement and sand required are:",
-    "options": {
-      "A": "8.40m3, 2.8m3 and 4.2 m3",
-      "B": "8.8m3, 2.2m3 and 4.3 m3",
-      "C": "4.4m3, 2.3m3 and 1.5 m3",
-      "D": "9.0m3, 6.6m3 and 3.3 m3"
-    },
+    "options": [
+      "8.40m3, 2.8m3 and 4.2 m3",
+      "8.8m3, 2.2m3 and 4.3 m3",
+      "4.4m3, 2.3m3 and 1.5 m3",
+      "9.0m3, 6.6m3 and 3.3 m3"
+    ],
     "correctAnswer": "8.40m3, 2.8m3 and 4.2 m3"
   },
   {
     "question": "The unit of weight of C.C. in KN/m3 is:",
-    "options": {
-      "A": "12",
-      "B": "18",
-      "C": "25",
-      "D": "24"
-    },
+    "options": [
+      "12",
+      "18",
+      "25",
+      "24"
+    ],
     "correctAnswer": "25"
   },
   {
     "question": "Depth of foundations is designed on the basis of:",
-    "options": {
-      "A": "Rankine’s theory",
-      "B": "Dorcey’s theory",
-      "C": "Khosla theory",
-      "D": "Lacey’s theory"
-    },
+    "options": [
+      "Rankine’s theory",
+      "Dorcey’s theory",
+      "Khosla theory",
+      "Lacey’s theory"
+    ],
     "correctAnswer": "Rankine’s theory"
   },
   {
     "question": "In an arch, the resisting forces are developed by:",
-    "options": {
-      "A": "Vertical reaction at supports",
-      "B": "Providing hinged support",
-      "C": "Horizontal thrust at supports",
-      "D": "All the above"
-    },
+    "options": [
+      "Vertical reaction at supports",
+      "Providing hinged support",
+      "Horizontal thrust at supports",
+      "All the above"
+    ],
     "correctAnswer": "All the above"
   },
   {
     "question": "A junction at which two walls meet at an angle other than 90° is called:",
-    "options": {
-      "A": "Oblique junction",
-      "B": "Squint junction",
-      "C": "Irregular junction",
-      "D": "Obtuse junction"
-    },
+    "options": [
+      "Oblique junction",
+      "Squint junction",
+      "Irregular junction",
+      "Obtuse junction"
+    ],
     "correctAnswer": "Squint junction"
   },
   {
     "question": "The red colour of brick is due to the presence on brick earth:",
-    "options": {
-      "A": "Clay",
-      "B": "Sand",
-      "C": "Iron Oxide",
-      "D": "Magnesia"
-    },
+    "options": [
+      "Clay",
+      "Sand",
+      "Iron Oxide",
+      "Magnesia"
+    ],
     "correctAnswer": "Iron Oxide"
   },
   {
     "question": "The strength of brick masonry in compression will depend on:",
-    "options": {
-      "A": "Strength of brick unit",
-      "B": "Strength of mortar used",
-      "C": "Thickness of mortar in the joints",
-      "D": "All the above parameter"
-    },
+    "options": [
+      "Strength of brick unit",
+      "Strength of mortar used",
+      "Thickness of mortar in the joints",
+      "All the above parameter"
+    ],
     "correctAnswer": "All the above parameter"
   },
 {
     "question": "In brick masonry walls the vertical joints are staggered to:",
-    "options": {
-      "A": "Increase strength of the wall",
-      "B": "Home load distribution along the length of the wall",
-      "C": "Both (A) and (B)",
-      "D": "None of the above"
-    },
+    "options": [
+      "Increase strength of the wall",
+      "Home load distribution along the length of the wall",
+      "Both (A) and (B)",
+      "None of the above"
+    ],
     "correctAnswer": "Both (A) and (B)"
   },
   {
     "question": "The process of applying mortar or concrete under pneumatic pressure is known as:",
-    "options": {
-      "A": "Gunnting",
-      "B": "Cementing",
-      "C": "Firing",
-      "D": "Injecting"
-    },
+    "options": [
+      "Gunnting",
+      "Cementing",
+      "Firing",
+      "Injecting"
+    ],
     "correctAnswer": "Gunnting"
   },
   {
     "question": "To treat voids in masonry the holes are drilled at an angle of:",
-    "options": {
-      "A": "90°",
-      "B": "110°",
-      "C": "60°",
-      "D": "45°"
-    },
+    "options": [
+      "90°",
+      "110°",
+      "60°",
+      "45°"
+    ],
     "correctAnswer": "45°"
   },
   {
     "question": "The formwork from the underside of slabs, can be removed only after:",
-    "options": {
-      "A": "1 day",
-      "B": "3 days",
-      "C": "7 days",
-      "D": "14 days"
-    },
+    "options": [
+      "1 day",
+      "3 days",
+      "7 days",
+      "14 days"
+    ],
     "correctAnswer": "7 days"
   },
   {
     "question": "Floors that are cast directly on top of a sub-base is called:",
-    "options": {
-      "A": "Concrete floors",
-      "B": "Suspended floors",
-      "C": "Ground floors",
-      "D": "Mezzanine floors"
-    },
+    "options": [
+      "Concrete floors",
+      "Suspended floors",
+      "Ground floors",
+      "Mezzanine floors"
+    ],
     "correctAnswer": "Ground floors"
   },
   {
     "question": "The nominal thickness of one brick wall in mm is:",
-    "options": {
-      "A": "90 mm",
-      "B": "150 mm",
-      "C": "190 mm",
-      "D": "200 mm"
-    },
+    "options": [
+      "90 mm",
+      "150 mm",
+      "190 mm",
+      "200 mm"
+    ],
     "correctAnswer": "90 mm"
   },
   {
     "question": "In English bond stretcher overlaps up to a certain length over the header course is about:",
-    "options": {
-      "A": "10%",
-      "B": "25%",
-      "C": "50%",
-      "D": "75%"
-    },
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
     "correctAnswer": "25%"
   },
   {
     "question": "Depth of lean concrete bed placed at the bottom of a wall footing is kept:",
-    "options": {
-      "A": "10 cm",
-      "B": "15 cm",
-      "C": "Equal to its projection beyond wall base",
-      "D": "Less than its projection beyond wall base"
-    },
+    "options": [
+      "10 cm",
+      "15 cm",
+      "Equal to its projection beyond wall base",
+      "Less than its projection beyond wall base"
+    ],
     "correctAnswer": "10 cm"
   },
   {
     "question": "Suitable spacing of timber piles is:",
-    "options": {
-      "A": "50 cm",
-      "B": "60 cm",
-      "C": "70 cm",
-      "D": "80 cm"
-    },
+    "options": [
+      "50 cm",
+      "60 cm",
+      "70 cm",
+      "80 cm"
+    ],
     "correctAnswer": "60 cm"
   },
   {
     "question": "Pile foundations are suitable for:",
-    "options": {
-      "A": "Water logged soils",
-      "B": "Soft rocks",
-      "C": "Compact soils",
-      "D": "Multistoreyed buildings"
-    },
+    "options": [
+      "Water logged soils",
+      "Soft rocks",
+      "Compact soils",
+      "Multistoreyed buildings"
+    ],
     "correctAnswer": "Water logged soils"
   },
   {
     "question": "For the construction of flyovers in sandy soil, the type of foundation provided is:",
-    "options": {
-      "A": "Strap footing",
-      "B": "Raft footing",
-      "C": "Combined footing",
-      "D": "Pier footing"
-    },
+    "options": [
+      "Strap footing",
+      "Raft footing",
+      "Combined footing",
+      "Pier footing"
+    ],
     "correctAnswer": "Raft footing"
   },
   {
     "question": "In horizontal D.P.C. thickness of cement concrete (1 : 2 : 4) is:",
-    "options": {
-      "A": "2 cm",
-      "B": "4 cm",
-      "C": "6 cm",
-      "D": "8 cm"
-    },
+    "options": [
+      "2 cm",
+      "4 cm",
+      "6 cm",
+      "8 cm"
+    ],
     "correctAnswer": "4 cm"
   },
   {
     "question": "The inner section of a cavity wall is generally known as:",
-    "options": {
-      "A": "Buttress",
-      "B": "Left wall",
-      "C": "Pilaster",
-      "D": "Pillar"
-    },
+    "options": [
+      "Buttress",
+      "Left wall",
+      "Pilaster",
+      "Pillar"
+    ],
     "correctAnswer": "Pilaster"
   },
   {
     "question": "A temporary rigid structure having platforms to enable masons to work at different stages of building is known as:",
-    "options": {
-      "A": "Scaffolding",
-      "B": "Dead store",
-      "C": "Raking store",
-      "D": "Under pinning"
-    },
+    "options": [
+      "Scaffolding",
+      "Dead store",
+      "Raking store",
+      "Under pinning"
+    ],
     "correctAnswer": "Scaffolding"
   },
   {
     "question": "The dimensions of a half queen closer is:",
-    "options": {
-      "A": "9 cm x 9 cm x 9 cm",
-      "B": "9 cm x 9 cm x 4.5 cm",
-      "C": "9 cm x 4.5 cm x 9 cm",
-      "D": "1.8 cm x 4.5 cm x 9 cm"
-    },
+    "options": [
+      "9 cm x 9 cm x 9 cm",
+      "9 cm x 9 cm x 4.5 cm",
+      "9 cm x 4.5 cm x 9 cm",
+      "1.8 cm x 4.5 cm x 9 cm"
+    ],
     "correctAnswer": "9 cm x 9 cm x 4.5 cm"
   },
   {
     "question": "The piece of a brick cut with its one corner equivalent to half the length and half the width of a full brick is known as:",
-    "options": {
-      "A": "Queen Closer",
-      "B": "Bevelled closer",
-      "C": "King Closer",
-      "D": "Half king closer"
-    },
+    "options": [
+      "Queen Closer",
+      "Bevelled closer",
+      "King Closer",
+      "Half king closer"
+    ],
     "correctAnswer": "King Closer"
   },
   {
     "question": "Exposed portions of vertical surface at right angles to the door or window frame are known as:",
-    "options": {
-      "A": "Jambs",
-      "B": "Lintels",
-      "C": "Reveals",
-      "D": "Soffits"
-    },
+    "options": [
+      "Jambs",
+      "Lintels",
+      "Reveals",
+      "Soffits"
+    ],
     "correctAnswer": "Jambs"
   },
      {
     "question": "The header bond is generally used for:",
-    "options": {
-      "A": "Half brick wall",
-      "B": "Simple brick wall",
-      "C": "1½ brick wall",
-      "D": "Arches"
-    },
+    "options": [
+      "Half brick wall",
+      "Simple brick wall",
+      "1½ brick wall",
+      "Arches"
+    ],
     "correctAnswer": "1½ brick wall"
   },
   {
     "question": "The stretcher bond is generally used for:",
-    "options": {
-      "A": "Half brick wall",
-      "B": "Simple brick wall",
-      "C": "1½ brick wall",
-      "D": "Arches"
-    },
+    "options": [
+      "Half brick wall",
+      "Simple brick wall",
+      "1½ brick wall",
+      "Arches"
+    ],
     "correctAnswer": "Half brick wall"
   },
   {
     "question": "The brick at the exterior angle between outer faces of a wall is known as:",
-    "options": {
-      "A": "Turn",
-      "B": "Junction",
-      "C": "Quion",
-      "D": "All the above"
-    },
+    "options": [
+      "Turn",
+      "Junction",
+      "Quion",
+      "All the above"
+    ],
     "correctAnswer": "Quion"
   },
   {
     "question": "The stone masonry of finely dressed stones laid in cement or lime is:",
-    "options": {
-      "A": "Random Rubble masonry",
-      "B": "Coursed Rubble masonry",
-      "C": "Dry Rubble masonry",
-      "D": "Ashlar masonry"
-    },
+    "options": [
+      "Random Rubble masonry",
+      "Coursed Rubble masonry",
+      "Dry Rubble masonry",
+      "Ashlar masonry"
+    ],
     "correctAnswer": "Ashlar masonry"
   },
   {
     "question": "A wall constructed to resist the pressure of an earth filling is called:",
-    "options": {
-      "A": "Retaining wall",
-      "B": "Breast wall",
-      "C": "Buttress",
-      "D": "Parapet wall"
-    },
+    "options": [
+      "Retaining wall",
+      "Breast wall",
+      "Buttress",
+      "Parapet wall"
+    ],
     "correctAnswer": "Retaining wall"
   },
   {
     "question": "The under surface of an arch is called:",
-    "options": {
-      "A": "Soffit",
-      "B": "Intrados",
-      "C": "Haunch",
-      "D": "Back"
-    },
+    "options": [
+      "Soffit",
+      "Intrados",
+      "Haunch",
+      "Back"
+    ],
     "correctAnswer": "Intrados"
   },
   {
     "question": "An arch constructed with finely dressed stones is known as:",
-    "options": {
-      "A": "Ashlar arch",
-      "B": "Rubber arch",
-      "C": "Gauged arch",
-      "D": "Axied arch"
-    },
+    "options": [
+      "Ashlar arch",
+      "Rubber arch",
+      "Gauged arch",
+      "Axied arch"
+    ],
     "correctAnswer": "Ashlar arch"
   },
   {
     "question": "The angle between skew back of a flat arch and the horizontal is kept approximately equal to:",
-    "options": {
-      "A": "0°",
-      "B": "30°",
-      "C": "60°",
-      "D": "90°"
-    },
+    "options": [
+      "0°",
+      "30°",
+      "60°",
+      "90°"
+    ],
     "correctAnswer": "60°"
   },
   {
     "question": "Arches in the form of masonry arch struck from more than four centres are called:",
-    "options": {
-      "A": "Two curved arches",
-      "B": "Gothic arches",
-      "C": "Ogee arches",
-      "D": "Drop gothic arches"
-    },
+    "options": [
+      "Two curved arches",
+      "Gothic arches",
+      "Ogee arches",
+      "Drop gothic arches"
+    ],
     "correctAnswer": "Ogee arches"
   },
   {
     "question": "The stone blocks approximately triangular in shape used as steps are known:",
-    "options": {
-      "A": "Stone steps",
-      "B": "Built-up steps",
-      "C": "Spandril steps",
-      "D": "None of these"
-    },
+    "options": [
+      "Stone steps",
+      "Built-up steps",
+      "Spandril steps",
+      "None of these"
+    ],
     "correctAnswer": "Built-up steps"
   },
   {
     "question": "The members which support covering material of a sloping roof are:",
-    "options": {
-      "A": "Rafters",
-      "B": "Purlins",
-      "C": "Battens",
-      "D": "Struts"
-    },
+    "options": [
+      "Rafters",
+      "Purlins",
+      "Battens",
+      "Struts"
+    ],
     "correctAnswer": "Rafters"
   },
   {
     "question": "The member which is placed horizontally to support common rafter of a sloping roof is:",
-    "options": {
-      "A": "Purlin",
-      "B": "Cleat",
-      "C": "Batten",
-      "D": "Strut"
-    },
+    "options": [
+      "Purlin",
+      "Cleat",
+      "Batten",
+      "Strut"
+    ],
     "correctAnswer": "Purlin"
   },
   {
     "question": "The size of a floor tile commonly used is:",
-    "options": {
-      "A": "15 cm x 15 cm x 1.8 cm",
-      "B": "20 cm x 20 cm x 2 cm",
-      "C": "22.5 cm x 22.5 cm x 2.2 cm",
-      "D": "All the above"
-    },
+    "options": [
+      "15 cm x 15 cm x 1.8 cm",
+      "20 cm x 20 cm x 2 cm",
+      "22.5 cm x 22.5 cm x 2.2 cm",
+      "All the above"
+    ],
     "correctAnswer": "All the above"
   },
   {
     "question": "In jack arch floor the rise is kept:",
-    "options": {
-      "A": "1/6th of span",
-      "B": "1/8th of the span",
-      "C": "1/10th of span",
-      "D": "1/12th of the span"
-    },
+    "options": [
+      "1/6th of span",
+      "1/8th of the span",
+      "1/10th of span",
+      "1/12th of the span"
+    ],
     "correctAnswer": "1/8th of the span"
   },
   {
     "question": "The type of pointing in which upper side of mortar joints is kept about 12 mm inside the face of the masonry and bottom is kept flushed with face of wall is:",
-    "options": {
-      "A": "Truck pointing",
-      "B": "Recessed pointing",
-      "C": "Struck pointing",
-      "D": "Ground pointing"
-    },
+    "options": [
+      "Truck pointing",
+      "Recessed pointing",
+      "Struck pointing",
+      "Ground pointing"
+    ],
     "correctAnswer": "Recessed pointing"
   },
   {
     "question": "The skirting/dedo in a bathroom should be up to:",
-    "options": {
-      "A": "Ceiling",
-      "B": "15 cm above floor level",
-      "C": "200 cm",
-      "D": "Level of the top"
-    },
+    "options": [
+      "Ceiling",
+      "15 cm above floor level",
+      "200 cm",
+      "Level of the top"
+    ],
     "correctAnswer": "15 cm above floor level"
   },
   {
     "question": "Expansion joints in masonry walls are provided if length exceeds:",
-    "options": {
-      "A": "10 m",
-      "B": "20 m",
-      "C": "30 m",
-      "D": "40 m"
-    },
+    "options": [
+      "10 m",
+      "20 m",
+      "30 m",
+      "40 m"
+    ],
     "correctAnswer": "30 m"
   },
   {
     "question": "For plastering the exposed brick walls, the cement sand mortar should be:",
-    "options": {
-      "A": "1:2",
-      "B": "1:3",
-      "C": "1:4",
-      "D": "1:6"
-    },
+    "options": [
+      "1:2",
+      "1:3",
+      "1:4",
+      "1:6"
+    ],
     "correctAnswer": "1:6"
   },
   {
     "question": "Hoffman’s kiln is used for:",
-    "options": {
-      "A": "Burning of lime",
-      "B": "Burning of brick",
-      "C": "Burning of cement",
-      "D": "Burning of wood"
-    },
+    "options": [
+      "Burning of lime",
+      "Burning of brick",
+      "Burning of cement",
+      "Burning of wood"
+    ],
     "correctAnswer": "Burning of brick (Hoffman’s kiln is primarily used to burn bricks)"
   },
   {
     "question": "If rainwater falls on hot brick then the shape of the brick gets deformed, the defect being known as:",
-    "options": {
-      "A": "Bloating",
-      "B": "Nodules",
-      "C": "Chuffs",
-      "D": "Efflorescence"
-    },
+    "options": [
+      "Bloating",
+      "Nodules",
+      "Chuffs",
+      "Efflorescence"
+    ],
     "correctAnswer": "Chuffs (Deformation due to rainwater falling on hot bricks is called chuffs)"
   },
   {
     "question": "Which one of the following tools is generally not used in blasting and stone work?",
-    "options": {
-      "A": "Mallet",
-      "B": "Trovel",
-      "C": "Chisel",
-      "D": "Sledge Hammer"
-    },
+    "options": [
+      "Mallet",
+      "Trovel",
+      "Chisel",
+      "Sledge Hammer"
+    ],
     "correctAnswer": "Trovel (This tool is not generally used in blasting and stonework)"
   },
   {
     "question": "Efflorescence of bricks is caused by:",
-    "options": {
-      "A": "The high pH content of water used during pugging",
-      "B": "The low pH content of water used during pugging",
-      "C": "The presence of alkaline salts",
-      "D": "Low silica content of the bricks"
-    },
+    "options": [
+      "The high pH content of water used during pugging",
+      "The low pH content of water used during pugging",
+      "The presence of alkaline salts",
+      "Low silica content of the bricks"
+    ],
     "correctAnswer": "The presence of alkaline salts (Efflorescence occurs due to alkaline salts)"
   },
   {
     "question": "The joints in the pointing should be raked out to which depth:",
-    "options": {
-      "A": "10 mm",
-      "B": "12 mm",
-      "C": "15 mm",
-      "D": "18 mm"
-    },
+    "options": [
+      "10 mm",
+      "12 mm",
+      "15 mm",
+      "18 mm"
+    ],
     "correctAnswer": "12 mm (Pointing joints should be raked out to a depth of 12 mm)"
   }  ,
       {
     "question": "For brick construction, the lime sand mortar is:",
-    "options": {
-      "A": "1:1",
-      "B": "1:2",
-      "C": "1:3",
-      "D": "1:4"
-    },
+    "options": [
+      "1:1",
+      "1:2",
+      "1:3",
+      "1:4"
+    ],
     "correctAnswer": "1:3 (Lime-sand mortar ratio for brick construction is 1:3)"
   },
   {
     "question": "The formwork from the sides of beams can be removed only after:",
-    "options": {
-      "A": "1 day",
-      "B": "4 days",
-      "C": "7 days",
-      "D": "14 days"
-    },
+    "options": [
+      "1 day",
+      "4 days",
+      "7 days",
+      "14 days"
+    ],
     "correctAnswer": "7 days (Formwork from the sides of beams should be removed after 7 days)"
   },
   {
     "question": "The formwork from the slabs excluding props, can be removed from beams only after:",
-    "options": {
-      "A": "3 days",
-      "B": "7 days",
-      "C": "14 days",
-      "D": "21 days"
-    },
+    "options": [
+      "3 days",
+      "7 days",
+      "14 days",
+      "21 days"
+    ],
     "correctAnswer": "14 days (Formwork from slabs excluding props can be removed after 14 days)"
   },
   {
     "question": "Which tool is used for cutting soft bricks and dressing cut surfaces?",
-    "options": {
-      "A": "Trowel",
-      "B": "Scutch",
-      "C": "Spirit level",
-      "D": "Brick axe"
-    },
+    "options": [
+      "Trowel",
+      "Scutch",
+      "Spirit level",
+      "Brick axe"
+    ],
     "correctAnswer": "Brick axe (Used for cutting soft bricks and dressing their surfaces)"
   },
   {
     "question": "Hoffman’s kiln is used for:",
-    "options": {
-      "A": "Burning of lime",
-      "B": "Burning of brick",
-      "C": "Burning of cement",
-      "D": "Burning of wood"
-    },
+    "options": [
+      "Burning of lime",
+      "Burning of brick",
+      "Burning of cement",
+      "Burning of wood"
+    ],
     "correctAnswer": "Burning of brick (Hoffman’s kiln is primarily used to burn bricks)"
   },
   {
     "question": "If rainwater falls on hot brick then the shape of the brick gets deformed, the defect being known as:",
-    "options": {
-      "A": "Bloating",
-      "B": "Nodules",
-      "C": "Chuffs",
-      "D": "Efflorescence"
-    },
+    "options": [
+      "Bloating",
+      "Nodules",
+      "Chuffs",
+      "Efflorescence"
+    ],
     "correctAnswer": "Chuffs (Deformation due to rainwater falling on hot bricks is called chuffs)"
   },
   {
     "question": "Which one of the following tools is generally not used in blasting and stonework?",
-    "options": {
-      "A": "Mallet",
-      "B": "Trowel",
-      "C": "Chisel",
-      "D": "Sledge Hammer"
-    },
+    "options": [
+      "Mallet",
+      "Trowel",
+      "Chisel",
+      "Sledge Hammer"
+    ],
     "correctAnswer": "Trowel (Generally not used in blasting and stonework)"
   },
   {
     "question": "Efflorescence of bricks is caused by:",
-    "options": {
-      "A": "The high pH content of water used during pugging",
-      "B": "The low pH content of water used during pugging",
-      "C": "The presence of alkaline salts",
-      "D": "Low silica content of the bricks"
-    },
+    "options": [
+      "The high pH content of water used during pugging",
+      "The low pH content of water used during pugging",
+      "The presence of alkaline salts",
+      "Low silica content of the bricks"
+    ],
     "correctAnswer": "The presence of alkaline salts (Efflorescence occurs due to alkaline salts)"
   },
   {
     "question": "The joints in the pointing should be raked out to which depth:",
-    "options": {
-      "A": "10 mm",
-      "B": "12 mm",
-      "C": "15 mm",
-      "D": "18 mm"
-    },
+    "options": [
+      "10 mm",
+      "12 mm",
+      "15 mm",
+      "18 mm"
+    ],
     "correctAnswer": "12 mm (Pointing joints should be raked out to a depth of 12 mm)"
   },
   {
     "question": "The members which support the covering material of a sloping roof are:",
-    "options": {
-      "A": "Rafters",
-      "B": "Purlins",
-      "C": "Battens",
-      "D": "Struts"
-    },
+    "options": [
+      "Rafters",
+      "Purlins",
+      "Battens",
+      "Struts"
+    ],
     "correctAnswer": "Rafters (Rafters support the covering material of a sloping roof)"
   },
   {
     "question": "The nominal thickness of one brick wall in mm is:",
-    "options": {
-      "A": "90 mm",
-      "B": "150 mm",
-      "C": "190 mm",
-      "D": "200 mm"
-    },
+    "options": [
+      "90 mm",
+      "150 mm",
+      "190 mm",
+      "200 mm"
+    ],
     "correctAnswer": "190 mm (Nominal thickness of a brick wall is 190 mm)"
   },
   {
     "question": "The angle between skew back of a flat arch and the horizontal is kept approximately equal to:",
-    "options": {
-      "A": "0°",
-      "B": "30°",
-      "C": "60°",
-      "D": "90°"
-    },
+    "options": [
+      "0°",
+      "30°",
+      "60°",
+      "90°"
+    ],
     "correctAnswer": "60° (Flat arch skew back angle with horizontal is 60°)"
   },
   {
     "question": "A wall constructed to resist the pressure of an earth filling is called:",
-    "options": {
-      "A": "Retaining wall",
-      "B": "Breast wall",
-      "C": "Buttress",
-      "D": "Parapet wall"
-    },
+    "options": [
+      "Retaining wall",
+      "Breast wall",
+      "Buttress",
+      "Parapet wall"
+    ],
     "correctAnswer": "Retaining wall (Used to resist earth pressure)"
   },
   {
     "question": "The process of applying mortar or concrete under pneumatic pressure is known as:",
-    "options": {
-      "A": "Gunning",
-      "B": "Cementing",
-      "C": "Firing",
-      "D": "Injecting"
-    },
+    "options": [
+      "Gunning",
+      "Cementing",
+      "Firing",
+      "Injecting"
+    ],
     "correctAnswer": "Gunning (Application of mortar under pneumatic pressure is called gunning)"
   },
   {
     "question": "The stone blocks approximately triangular in shape used as steps are known as:",
-    "options": {
-      "A": "Stone steps",
-      "B": "Built-up steps",
-      "C": "Spandril steps",
-      "D": "None of these"
-    },
+    "options": [
+      "Stone steps",
+      "Built-up steps",
+      "Spandril steps",
+      "None of these"
+    ],
     "correctAnswer": "Built-up steps (Triangular stone blocks used as steps)"
   }
 
