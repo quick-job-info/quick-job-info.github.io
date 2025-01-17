@@ -44,19 +44,30 @@
             font-weight: bold;
             text-align: center;
         }
-        button {
-            display: block;
-            width: 100%;
-            padding: 10px;
-            background-color: #4CAF50;
-            color: white;
-            border: none;
-            font-size: 16px;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #45a049;
-        }
+      .fixed-buttons-container {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1CAF50;
+}
+
+.fixed-buttons-container button {
+    flex: 1;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.fixed-buttons-container button:hover {
+    background-color: #45a049;
+}
+
         #timer {
             position: fixed;
             top: 0;
@@ -81,15 +92,17 @@
     <form id="testForm">
         <!-- Questions will be inserted here dynamically -->
     </form>
+   <div class="fixed-buttons-container">
     <button type="submit" id="submitBtn">Submit Test</button>
     <div id="score"></div>
-      <button type="button" id="submitBtn" onclick="location.href=window.location.href;">Re-take test</button>
+      <button type="button" id="submitBtn" class="re" onclick="location.href=window.location.href;">Next Set</button>
+      </div>
 </div>
 
 <script>
 let timerInterval;
 const numQuestionsToDisplay = 25; // Number of questions to display
-const timePerQuestionInSeconds = 60; // Time per question in seconds
+const timePerQuestionInSeconds = 30; // Time per question in seconds
 let totalTimeInMilliseconds = numQuestionsToDisplay * timePerQuestionInSeconds * 1000;
 
 // Timer function
