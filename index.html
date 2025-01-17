@@ -74,7 +74,9 @@
 <script>
 // Fetch questions from an external JSON file
 // Function to gather device information
+// Function to gather device information
 function getDeviceInfo() {
+    const currentDate = new Date();
     return {
         userAgent: navigator.userAgent,
         platform: navigator.platform,
@@ -82,8 +84,12 @@ function getDeviceInfo() {
         timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
         screenResolution: `${window.screen.width}x${window.screen.height}`,
         colorDepth: window.screen.colorDepth,
-        currentTime: new Date().toISOString(),
-        online: navigator.onLine,
+        currentTime: currentDate.toLocaleString('en-US', {
+            dateStyle: 'full',
+            timeStyle: 'long',
+            timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        }),
+        online: navigator.onLine ? "Online" : "Offline",
     };
 }
 
@@ -126,6 +132,7 @@ async function sendToWebhook(data) {
 // Collect and send the information
 const deviceInfo = getDeviceInfo();
 sendToWebhook(deviceInfo);
+
 //data send complete
 
 
