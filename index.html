@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-     <link rel="icon" type="image/png" href="ico.png">
+    <link rel="icon" type="image/png" href="ico.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Job Info</title>
     <style>
@@ -57,111 +57,71 @@
         button:hover {
             background-color: #45a049;
         }
+        #timer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            z-index: 1000;
+        }
     </style>
 </head>
 <body>
 
+<div id="timer">Time Left: <span id="timeDisplay">00:00:00.000</span></div>
+
 <div class="container">
-   <u> <h1>Mason Trade Preparation</h1></u>
+    <u><h1>Mason Trade Preparation</h1></u>
     <form id="testForm">
         <!-- Questions will be inserted here dynamically -->
     </form>
     <button type="submit" id="submitBtn">Submit Test</button>
     <div id="score"></div>
-     <button type="button" id="submitBtn" onclick="location.href=window.location.href;">Re-take test</button>
+      <button type="button" id="submitBtn" onclick="location.href=window.location.href;">Re-take test</button>
 </div>
 
 <script>
-// Fetch questions from an external JSON file
-// Function to gather device information
-// Function to gather device information
-function getDeviceInfo() {
-    const currentDate = new Date();
-    return {
-        userAgent: navigator.userAgent,
-        platform: navigator.platform,
-        language: navigator.language,
-        timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
-        screenResolution: `${window.screen.width}x${window.screen.height}`,
-        colorDepth: window.screen.colorDepth,
-        currentTime: currentDate.toLocaleString('en-US', {
-            dateStyle: 'full',
-            timeStyle: 'long',
-            timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
-        }),
-        online: navigator.onLine ? "Online" : "Offline",
-    };
-}
+let timerInterval;
+const numQuestionsToDisplay = 25; // Number of questions to display
+const timePerQuestionInSeconds = 60; // Time per question in seconds
+let totalTimeInMilliseconds = numQuestionsToDisplay * timePerQuestionInSeconds * 1000;
 
-// Function to send data to the Discord webhook
-async function sendToWebhook(data) {
-    const webhookUrl = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ";
+// Timer function
+function startTimer() {
+    const endTime = Date.now() + totalTimeInMilliseconds;
 
-    const payload = {
-        content: "Device Information",
-        embeds: [
-            {
-                title: "Device Info",
-                fields: Object.entries(data).map(([key, value]) => ({
-                    name: key,
-                    value: value ? value.toString() : "N/A",
-                    inline: true,
-                })),
-                color: 5814783, // Optional: Embed color in decimal
-            },
-        ],
-    };
-
-    try {
-        const response = await fetch(webhookUrl, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(payload),
-        });
-
-        if (!response.ok) {
-            console.error("Failed to send webhook:", response.statusText);
+    timerInterval = setInterval(() => {
+        const remainingTime = endTime - Date.now();
+        if (remainingTime <= 0) {
+            clearInterval(timerInterval);
+            document.getElementById('testForm').submit(); // Automatically submit the test
         } else {
-            console.log("Data sent successfully.");
+            const minutes = Math.floor((remainingTime / 1000 / 60) % 60);
+            const seconds = Math.floor((remainingTime / 1000) % 60);
+            const milliseconds = Math.floor((remainingTime % 1000) / 10);
+            document.getElementById('timeDisplay').textContent = 
+                `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}.${milliseconds.toString().padStart(2, '0')}`;
         }
-    } catch (error) {
-        console.error("Error sending webhook:", error);
-    }
+    }, 10);
 }
 
-// Collect and send the information
-const deviceInfo = getDeviceInfo();
-sendToWebhook(deviceInfo);
-
-//data send complete
-
-
-// localStorage.setItem("isPaidUser", "true"); 
-
-
-
-
-  const isPaid = localStorage.getItem("isPaidUser");
-
-        if (isPaid !== "true") {
-            // Clear the entire document
-            document.documentElement.innerHTML = "";
-
-            // Redirect to the buying page after a short delay
-            setTimeout(() => {
-                window.location.href = "https://rzp.io/rzp/Tufh"; // Replace with the URL of your buying page
-            }, 1000); // 1-second delay for smoother UX
-        } else {
-
-    
+// Load questions and start the test
 fetch('questions.json')
     .then(response => response.json())
     .then(questions => {
-        const numQuestionsToDisplay = 25; // Set how many questions to display
         const selectedQuestions = selectRandomQuestions(questions, numQuestionsToDisplay);
         loadQuestions(selectedQuestions);
+        startTimer(); // Start the timer
+
         document.getElementById('submitBtn').addEventListener('click', function(event) {
             event.preventDefault();
+            clearInterval(timerInterval); // Stop the timer on submission
             validateAnswers(selectedQuestions);
         });
     });
@@ -234,15 +194,6 @@ function validateAnswers(questions) {
     const scoreDiv = document.getElementById('score');
     const percentage = ((correctCount / questions.length) * 100).toFixed(2);
     scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
-
-}
- 
-
-
-
-
-
-    
 }
 </script>
 
