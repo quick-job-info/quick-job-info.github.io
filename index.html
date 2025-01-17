@@ -236,10 +236,7 @@ fetch('questions.json')
             event.preventDefault();
             clearInterval(timerInterval); // Stop the timer on submission
             validateAnswers(selectedQuestions);
-    const scoreDiv = document.getElementById('score');
-    const percentage = ((correctCount / questions.length) * 100).toFixed(2);
-    scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
-            showPopup(`You scored ${percentage}% (${correctCount} out of ${questions.length}).`);
+ 
         });
     });
 
@@ -306,7 +303,10 @@ function validateAnswers(questions) {
             feedbackDiv.textContent = `No answer selected. The correct answer is: ${q.correctAnswer}.`;
         }
     });
-
+   const scoreDiv = document.getElementById('score');
+    const percentage = ((correctCount / questions.length) * 100).toFixed(2);
+    // scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
+            showPopup(`You scored ${percentage}% (${correctCount} out of ${questions.length}).`);
     // Calculate and display the score
 
 }
@@ -344,7 +344,7 @@ function validateAnswers(questions) {
 
         // Example: Show popup with a message
         setTimeout(() => {
-            showPopup('You scored 85% (17 out of 20).');
+            // showPopup('You scored 85% (17 out of 20).');
         }, 1000); // Show after 1 second
 
 
