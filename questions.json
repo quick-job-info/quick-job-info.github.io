@@ -5205,7 +5205,778 @@
       "None of these"
     ],
     "correctAnswer": "Built-up steps (Triangular stone blocks used as steps)"
-  }
+  },
+  {
+    "question": "Which method of site exploration is suitable for a depth of 6 to 8m range?",
+    "category":"Drainage",
+    "options": [
+      "Test pit",
+      "Probing",
+      "Auger boring",
+      "Wash boring"
+    ],
+    "correctAnswer": "Auger boring"
+  },
+  {
+    "question": "What is the name of the trap?",
+    "image": "./mason/Nahani trap.png",
+    "category":"Drainage",
+    "options": [
+      "Nahani trap",
+      "Gully trap",
+      "Multifloor trap",
+      "Intercepting"
+    ],
+    "correctAnswer": "Nahani trap"
+  },
+  {
+    "question": "What is the name of the sewer appurtenance?",
+    "image": "./mason/Drop manhole.png",
+    "category":"Drainage",
+    "options": [
+      "Manhole",
+      "Drop manhole",
+      "Junction of chamber",
+      "Storm regulators"
+    ],
+    "correctAnswer": "Drop manhole"
+  },
+  {
+    "question": "What is the name of the trap?",
+    "image": "./mason/Intercepting trap.png",
+    "category":"Drainage",
+    "options": [
+      "Nahani trap",
+      "Gully trap",
+      "Multifloor trap",
+      "Intercepting trap"
+    ],
+    "correctAnswer": "Intercepting trap"
+  },
+  {
+    "question": "Which windows are provided for the only purpose of admitting light and vision in the room?",
+    "category":"Drainage",
+    "options": [
+      "Gable window",
+      "Bay window",
+      "Fixed window",
+      "Sliding window"
+    ],
+    "correctAnswer": "Fixed window"
+  },
+  {
+    "question": "Which is the lowest part of the building?",
+    "category":"Drainage",
+    "options": [
+      "Super structure",
+      "Wall",
+      "Foundation",
+      "Roof"
+    ],
+    "correctAnswer": "Foundation"
+  },
+  {
+    "question": "Name the wall which prevents the scum from leaving the septic tank with effluent.",
+    "category":"Drainage",
+    "options": [
+      "Parapet wall",
+      "Baffle wall",
+      "Cross wall",
+      "Main wall"
+    ],
+    "correctAnswer": "Baffle wall"
+  },
+  {
+    "question": "Which refuse collection system, having automatic flushing, is provided by water?",
+    "category":"Drainage",
+    "options": [
+      "Separate system of sewerage",
+      "Combined system of sewerage",
+      "Partially combined system of sewerage",
+      "Partially separated system of sewerage"
+    ],
+    "correctAnswer": "Combined system of sewerage"
+  },
+  {
+    "question": "What is the name of the flushing cistern?",
+    "category":"Drainage",
+    "options": [
+      "Flushing cistern-Automatic type",
+      "Flushing cistern-Bell type",
+      "Flushing cistern-curved siphon type",
+      "Flushing cistern-Lowlevel type"
+    ],
+    "correctAnswer": "Flushing cistern-curved siphon type"
+  },
+  {
+    "question": "What is the name of the part labelled as X?",
+    "image": "./mason/Dip.png",
+    "category":"Drainage",
+    "options": [
+      "Water seal",
+      "Dip",
+      "Depth of water",
+      "Curve"
+    ],
+    "correctAnswer": "Dip"
+  },
+  {
+    "question": "Which pattern is suitable for sloping hills in refuse collection?",
+    "category":"Drainage",
+    "options": [
+      "Fan pattern",
+      "Interceptor pattern",
+      "Radial pattern",
+      "Zonal pattern"
+    ],
+    "correctAnswer": "Zonal pattern"
+  },
+  {
+    "question": "What direction does the main reinforcement provide in a two-way slab?",
+    "category":"Drainage",
+    "options": [
+      "Along the length",
+      "Along the breadth",
+      "Both along the breadth and length",
+      "Along the bottom"
+    ],
+    "correctAnswer": "Both along the breadth and length"
+  },
+  {
+    "question": "What is the name of the part marked as 'X'?",
+    "image": "./mason/Valley.png",
+    "category":"Drainage",
+    "options": [
+      "Verge",
+      "Ridge",
+      "Valley",
+      "Gable end"
+    ],
+    "correctAnswer": "Valley"
+  },
+  {
+    "question": "What is the name of the part marked as 'X'?",
+    "image": "./mason/Anti-siphonage pipe.png",
+    "category":"Drainage",
+    "options": [
+      "Waste pipe",
+      "Soil pipe",
+      "Vent pipe",
+      "Anti-siphonage pipe"
+    ],
+    "correctAnswer": "Anti-siphonage pipe"
+  },
+  {
+    "question": "What is the minimum width of a septic tank?",
+    "category":"Drainage",
+    "options": [
+      "550 mm",
+      "650 mm",
+      "750mm",
+      "850 mm"
+    ],
+    "correctAnswer": "750mm"
+  },
+  {
+    "question": "What is the name of the truss?",
+    "image": "./mason/Truncated truss.png",
+    "category":"Drainage",
+    "options": [
+      "Bell-fast truss",
+      "Queen post truss",
+      "Truncated truss",
+      "Steel truss"
+    ],
+    "correctAnswer": "Truncated truss"
+  },
+  {
+    "question": "What thumb rule is used to arrive at the width of a window?",
+    "category":"Drainage",
+    "options": [
+      "1/10 (Width of room + height of room)",
+      "1/8 (Width of room + height of room)",
+      "1/6 (Width of room + height of room)",
+      "1/4 (Width of room + height of room)"
+    ],
+    "correctAnswer": "1/8 (Width of room + height of room)"
+  },
+  {
+    "question": "What is the name of the parts marked as 'X'?",
+    "category":"Drainage",
+    "options": [
+      "Main wall",
+      "Cross wall",
+      "Partition wall",
+      "Baffle wall"
+    ],
+    "correctAnswer": "Baffle wall"
+  },
+  {
+    "question": "What is the name of the part marked as 'X'?",
+    "image": "./mason/Poling board.png",
+    "category":"Drainage",
+    "options": [
+      "Walling",
+      "Strut",
+      "Poling board",
+      "Sheeting"
+    ],
+    "correctAnswer": "Poling board"
+  },
+  {
+    "question": "What material is used to construct a baffle wall in a septic tank?",
+    "category":"Drainage",
+    "options": [
+      "Brick",
+      "Stone",
+      "P.C.C",
+      "R.C.C"
+    ],
+    "correctAnswer": "R.C.C"
+  },
+
+  {
+      "category": "brick",
+      "question": "What is the name of the brick copings?",
+      "image": "./mason/Bull nose coping.png",
+      "options": [
+        "Chamfered coping",
+        "Round coping",
+        "Saddle back coping",
+        "Bull nose coping"
+      ],
+      "correctAnswer": "Bull nose coping"
+    },
+    {
+      "category": "brick",
+      "question": "What is the type of bond?",
+      "image": "./mason/Stretcher bond.png",
+      "options": [
+        "Stretcher bond",
+        "Header bond",
+        "English bond",
+        "Flemish bond"
+      ],
+      "correctAnswer": "Stretcher bond"
+    },
+    {
+      "category": "brick",
+      "question": "What is the name of the vertical joint in brick wall?",
+      "options": [
+        "Perpend",
+        "Expansion",
+        "Base",
+        "Bed"
+      ],
+      "correctAnswer": "Perpend"
+    },
+    {
+      "category": "brick",
+      "question": "What is the term for a brick cut width-wise, the cut-out bricks are called?",
+      "options": [
+        "Queen closer",
+        "King closer",
+        "Bevelled closer",
+        "Bat"
+      ],
+      "correctAnswer": "Bat"
+    },
+    {
+      "category": "brick",
+      "question": "What is the initial setting time for ordinary Portland cement?",
+      "options": [
+        "10 min",
+        "20 min",
+        "25 min",
+        "30 min"
+      ],
+      "correctAnswer": "30 min"
+    },
+    {
+      "category": "brick",
+      "question": "Which windows are provided on sloping roofs of buildings?",
+      "options": [
+        "Lantern window",
+        "Bay window",
+        "Sky window",
+        "Dormer window"
+      ],
+      "correctAnswer": "Dormer window"
+    },
+    {
+      "category": "brick",
+      "question": "What is the name of the foundation?",
+      "image": "./mason/Trapezoidal footing.png",
+      "options": [
+        "Raft foundation",
+        "Strap foundation",
+        "Rectangular foundation",
+        "Trapezoidal footing"
+      ],
+      "correctAnswer": "Trapezoidal footing"
+    },
+    {
+      "category": "brick",
+      "question": "What is called the bottom surface of a brick?",
+      "options": [
+        "Bed",
+        "Frog",
+        "Bat",
+        "Bond"
+      ],
+      "correctAnswer": "Bed"
+    },
+    {
+      "category": "brick",
+      "question": "What are the ingredients of cement mortar?",
+      "options": [
+        "Cement, Sand and Water",
+        "Cement, Sand, Aggregate and Water",
+        "Cement, Aggregate and Water",
+        "Sand, Aggregate and Water"
+      ],
+      "correctAnswer": "Cement, Sand and Water"
+    },
+    {
+      "category": "brick",
+      "question": "What is the effect of a small amount of sulphur in cement?",
+      "options": [
+        "Hardness",
+        "Quick setting",
+        "Colour",
+        "Sound"
+      ],
+      "correctAnswer": "Colour"
+    },
+    {
+      "category": "brick",
+      "question": "What is the weight of one bag of cement?",
+      "options": [
+        "60 kg",
+        "50 kg",
+        "100 kg",
+        "20 kg"
+      ],
+      "correctAnswer": "50 kg"
+    },
+    {
+      "category": "brick",
+      "question": "Which concrete is very strong both in compression and tensile strength?",
+      "options": [
+        "Lime concrete",
+        "Cement concrete",
+        "Plain cement concrete",
+        "Reinforced cement concrete"
+      ],
+      "correctAnswer": "Reinforced cement concrete"
+    },
+    {
+      "category": "brick",
+      "question": "Which bond alternates courses showing headers and stretchers?",
+      "options": [
+        "Header bond",
+        "Stretcher bond",
+        "English bond",
+        "Flemish bond"
+      ],
+      "correctAnswer": "English bond"
+    },
+    {
+      "category": "brick",
+      "question": "What is the thickness of mortar joint in brickwork?",
+      "options": [
+        "12 mm",
+        "10 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "correctAnswer": "10 mm"
+    },
+    {
+      "category": "brick",
+      "question": "What is the proportion of raw material used for manufacturing Portland cement?",
+      "options": [
+        "Lime 63% silica 22% other ingredients 15%",
+        "Lime 22% silica 63% other ingredients 15%",
+        "Silica 40% lime 40% other ingredients 10%",
+        "Silica 70% lime 20% other ingredients 10%"
+      ],
+      "correctAnswer": "Lime 63% silica 22% other ingredients 15%"
+    },
+    {
+      "category": "brick",
+      "question": "Which bond is used for walls constructed entirely with headers?",
+      "options": [
+        "English bond",
+        "Flemish bond",
+        "Stretcher bond",
+        "Header bond"
+      ],
+      "correctAnswer": "Header bond"
+    },
+    {
+      "category": "brick",
+      "question": "Which is a type of pointing among the following?",
+      "options": [
+        "Rough pointing",
+        "Flush pointing",
+        "Stucco pointing",
+        "Dashed pointing"
+      ],
+      "correctAnswer": "Flush pointing"
+    },
+    {
+      "category": "brick",
+      "question": "What is the density of water in kg/m³?",
+      "options": [
+        "900",
+        "1100",
+        "1000",
+        "1200"
+      ],
+      "correctAnswer": "1000"
+    },
+    {
+      "category": "brick",
+      "question": "What is a parallel word for mat foundation?",
+      "options": [
+        "Raft foundation",
+        "Isolated footing",
+        "Combined footing",
+        "Continuous footing"
+      ],
+      "correctAnswer": "Raft foundation"
+    },
+    {
+      "category": "brick",
+      "question": "Which is a non-load bearing wall?",
+      "options": [
+        "Partition wall",
+        "Cavity wall",
+        "Solid wall",
+        "Hollow wall"
+      ],
+      "correctAnswer": "Partition wall"
+    },
+    {
+        "category": "brick",
+        "question": "What is the name of the brick copings?",
+        "image": "./mason/Saddle back coping.png",
+        "options": [
+          "Chamfered coping",
+          "Round coping",
+          "Saddle back coping",
+          "Bull nose coping"
+        ],
+        "correctAnswer": "Saddle back coping"
+      },
+      {
+        "category": "brick",
+        "question": "What does the arrow indicate?",
+        "image": "./mason/Queen closer.png",
+        "options": [
+          "Stretcher",
+          "Queen closer",
+          "Bats",
+          "King closer"
+        ],
+        "correctAnswer": "Queen closer"
+      },
+      {
+        "category": "brick",
+        "question": "How many percentage of first-class bricks are produced in a clamp?",
+        "options": [
+          "About",
+          "About",
+          "About",
+          "About 90%"
+        ],
+        "correctAnswer": "About 90%"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the parts marked as?",
+        "image": "./mason/Wooden joist.png",
+        "options": [
+          "Strut",
+          "Wooden joist",
+          "Ledger",
+          "Planks"
+        ],
+        "correctAnswer": "Wooden joist"
+      },
+      {
+        "category": "finishing works",
+        "question": "Name the term that referred to finishing of the plaster surface shall mean a surface finishing with a wooden float.",
+        "options": [
+          "Even and smooth",
+          "Even and fair",
+          "Thickness of plaster",
+          "Rendering coat"
+        ],
+        "correctAnswer": "Even and fair"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the part marked as 'X'?",
+        "image": "./mason/Hangers.png",
+        "options": [
+          "Wooden post",
+          "Hangers",
+          "Vertical post",
+          "Stringer"
+        ],
+        "correctAnswer": "Hangers"
+      },
+      {
+        "category": "finishing works",
+        "question": "What tool is used in rounding or chamfering corners arises, provision of grooves at junction?",
+        "options": [
+          "Template",
+          "Trowel",
+          "Float",
+          "Wood angle"
+        ],
+        "correctAnswer": "Template"
+      },
+      {
+        "category": "finishing works",
+        "question": "What flooring is relatively more resistant to acids and alkaline than cement concrete flooring?",
+        "options": [
+          "Mosaic flooring",
+          "Terrazzo flooring",
+          "Plain concrete tiles",
+          "Sand stone slab"
+        ],
+        "correctAnswer": "Terrazzo flooring"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the part marked as 'X'?",
+        "image": "./mason/Bituminous paint.png",
+        "options": [
+          "Bituminous paint",
+          "Asphalt",
+          "Bituminous felt",
+          "Keys"
+        ],
+        "correctAnswer": "Bituminous paint"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the projecting part of the tread beyond the face of raiser in a stair?",
+        "options": [
+          "Newel post",
+          "Nosing",
+          "Pitch",
+          "Soffit"
+        ],
+        "correctAnswer": "Nosing"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the stair by materials?",
+        "image": "./mason/Brick masonry stair.png",
+        "options": [
+          "Brick masonry stair",
+          "Stone masonry stair",
+          "Metal stair",
+          "Build up stair"
+        ],
+        "correctAnswer": "Brick masonry stair"
+      },
+      {
+        "category": "finishing works",
+        "question": "Which stair has all steps leading in one direction only?",
+        "options": [
+          "Straight stair",
+          "Quarter-turn stair",
+          "Half-turn stair",
+          "Geometrical stair"
+        ],
+        "correctAnswer": "Straight stair"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the parts marked as 'X'?",
+        "image": "./mason/Stringer.png",
+        "options": [
+          "Stringer",
+          "Joist",
+          "Planks",
+          "Ledgers"
+        ],
+        "correctAnswer": "Stringer"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the minimum number of steps provided continuously in a flight?",
+        "options": [
+          "3",
+          "4",
+          "8",
+          "9"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "category": "finishing works",
+        "question": "Name the term for filling in hollows in the surface of a wall and roughly leveling up the irregular surface.",
+        "options": [
+          "Rendering",
+          "Rendering coat",
+          "Finishing coat",
+          "Dubbing out"
+        ],
+        "correctAnswer": "Dubbing out"
+      },
+      {
+        "category": "finishing works",
+        "question": "When shall curing be started after finishing the plaster?",
+        "options": [
+          "6 hours",
+          "12 hours",
+          "24 hours",
+          "36 hours"
+        ],
+        "correctAnswer": "24 hours"
+      },
+      {
+        "category": "finishing works",
+        "question": "What cement is specified for plastering work?",
+        "options": [
+          "Portland cement",
+          "White cement",
+          "Coloured cement",
+          "Hydraulic cement"
+        ],
+        "correctAnswer": "Portland cement"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the variation of individual dimension from the average value of length/breadth that shall not exceed in glazed tile flooring?",
+        "options": [
+          "±0.2 mm",
+          "±0.3 mm",
+          "±0.4 mm",
+          "±0.5 mm"
+        ],
+        "correctAnswer": "±0.5 mm"
+      },
+      {
+        "category": "finishing works",
+        "question": "What type of stair is constructed only with reinforced cement concrete?",
+        "options": [
+          "Straight stair",
+          "Helical stair",
+          "Quarter-turn stair",
+          "Half-turn stair"
+        ],
+        "correctAnswer": "Helical stair"
+      },
+      {
+        "category": "finishing works",
+        "question": "What type of stairs do not have either the landing space or any intermediate newel post?",
+        "options": [
+          "Spiral stair",
+          "Geometrical stair",
+          "Straight stair",
+          "Turning stair"
+        ],
+        "correctAnswer": "Spiral stair"
+      },
+      {
+        "category": "finishing works",
+        "question": "How to prevent surface cracks appearing between the junction of column/beam and walls?",
+        "options": [
+          "Mesh",
+          "Wire mesh",
+          "Chicken wire mesh",
+          "Clamp"
+        ],
+        "correctAnswer": "Chicken wire mesh"
+      },
+      {
+        "category": "finishing works",
+        "question": "Which is the joint filler in a roof slab?",
+        "options": [
+          "Bitumen felt",
+          "Cement",
+          "Lime",
+          "Concrete"
+        ],
+        "correctAnswer": "Bitumen felt"
+      },
+      {
+        "category": "finishing works",
+        "question": "What type of water is specified for plastering work?",
+        "options": [
+          "Sea water",
+          "Blackish water",
+          "Drinking water",
+          "Rain water"
+        ],
+        "correctAnswer": "Drinking water"
+      },
+      {
+        "category": "finishing works",
+        "question": "What type of floor is suitable for staircase flooring?",
+        "options": [
+          "Agra stone",
+          "Terrazzo tiles",
+          "Brick tiles",
+          "Ceramic tiles"
+        ],
+        "correctAnswer": "Terrazzo tiles"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the thickness of the mortar joint in glazed tile flooring?",
+        "options": [
+          "0.5 mm",
+          "1.0 mm",
+          "1.5 mm",
+          "2.0 mm"
+        ],
+        "correctAnswer": "1.0 mm"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the nominal size of glazed tiles in flooring?",
+        "options": [
+          "150 x 150 mm",
+          "120 x 120 mm",
+          "100 x 110 mm",
+          "90 x 90 mm"
+        ],
+        "correctAnswer": "150 x 150 mm"
+      },
+      {
+        "category": "finishing works",
+        "question": "What type of stair has both sides open and uses wall supports?",
+        "options": [
+          "Quarter-turn stair",
+          "Half-turn stair",
+          "Three quarter-turn stair",
+          "Bifurcate stair"
+        ],
+        "correctAnswer": "Quarter-turn stair"
+      },
+      {
+        "category": "finishing works",
+        "question": "What is the name of the stair by materials?",
+        "image": "./mason/Stone masonry stair.png",
+        "options": [
+          "Brick masonry stair",
+          "Stone masonry stair",
+          "Metal stair",
+          "Build up stair"
+        ],
+        "correctAnswer": "Stone masonry stair"
+      }
+
+
+
 
 
 
