@@ -4,14 +4,7 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/png" href="ico.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BRO Mason Trad Exam Prep</title>
-   <meta property="og:title" content="BRO Mason Trad Exam Prep: Laying the Groundwork for Success">
-    <meta property="og:description" content="Prepare effectively for the BRO Mason Trad Exam with our comprehensive guide. Build a solid foundation for success!">
-    <meta property="og:image" content="https://quick-job-info.github.io/b1.jpg">
-     <meta property="og:url" content="https://quick-job-info.github.io/">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="JobInfo">
-    
+    <title>Job Info</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -280,6 +273,10 @@ function loadQuestions(questions) {
     imageElement.style.objectFit = 'contain';
     questionDiv.appendChild(imageElement);
   }
+
+
+
+
         const answersDiv = document.createElement('div');
         answersDiv.classList.add('answers');
 
@@ -295,6 +292,61 @@ function loadQuestions(questions) {
         feedbackDiv.classList.add('feedback');
         feedbackDiv.id = `feedback${index}`;
         questionDiv.appendChild(feedbackDiv);
+
+
+
+        const buttonElement = document.createElement('button');
+buttonElement.textContent = `Report Question ${index + 1}`;
+buttonElement.style.backgroundColor = 'red'; // Red background
+buttonElement.style.color = 'white'; // White text
+buttonElement.style.border = 'none'; // Remove border
+buttonElement.style.borderRadius = '5px'; // Rounded corners
+buttonElement.style.padding = '10px 20px'; // Padding for the button
+buttonElement.style.cursor = 'pointer'; // Pointer cursor on hover
+buttonElement.style.marginTop = '10px'; // Space from the question
+
+// Set the position to make `left` effective
+buttonElement.style.position = 'relative'; // Can also use 'absolute' or 'fixed'
+
+buttonElement.onclick = () => {
+    event.preventDefault();
+    const message = {
+        content: `${q.question}`,
+    };
+
+    // Your Discord Webhook URL
+    const webhookURL = 'https://discord.com/api/webhooks/1330155710079565837/YB8zeIqwRrCivhsU4epS-r0YIBDypAq8Iz-zgJZ-YKh4u8BEX0pjpyOf08ayQJmQ8Pek';
+
+    // Send the POST request
+    fetch(webhookURL, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(message),
+    });
+
+
+
+    showPopup(`Reporting issue for question ${index + 1} . ${q.question}`);
+    buttonElement.style.backgroundColor = 'green'; // Red background
+    buttonElement.textContent = `Thank you!`;
+
+
+
+
+
+
+
+
+
+}; // Add functionality for reporting
+
+questionDiv.appendChild(buttonElement);
+
+
+
+
 
         form.appendChild(questionDiv);
     });
