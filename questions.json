@@ -4094,7 +4094,7 @@
             "1:6",
             "1:4"
         ],
-        "correctAnswer": "1:100"
+        "correctAnswer": "1:10"
     },
     {
         "question": "Why is it necessary to avoid leakage in formwork?",
@@ -5014,7 +5014,7 @@
       "Burning of cement",
       "Burning of wood"
     ],
-    "correctAnswer": "Burning of brick (Hoffman’s kiln is primarily used to burn bricks)"
+    "correctAnswer": "Burning of brick"
   },
   {
     "question": "If rainwater falls on hot brick then the shape of the brick gets deformed, the defect being known as:",
@@ -5024,17 +5024,17 @@
       "Chuffs",
       "Efflorescence"
     ],
-    "correctAnswer": "Chuffs (Deformation due to rainwater falling on hot bricks is called chuffs)"
+    "correctAnswer": "Chuffs"
   },
   {
     "question": "Which one of the following tools is generally not used in blasting and stone work?",
     "options": [
       "Mallet",
-      "Trovel",
+      "Trowel",
       "Chisel",
       "Sledge Hammer"
     ],
-    "correctAnswer": "Trovel (This tool is not generally used in blasting and stonework)"
+    "correctAnswer": "Trowel"
   },
   {
     "question": "Efflorescence of bricks is caused by:",
@@ -5044,7 +5044,7 @@
       "The presence of alkaline salts",
       "Low silica content of the bricks"
     ],
-    "correctAnswer": "The presence of alkaline salts (Efflorescence occurs due to alkaline salts)"
+    "correctAnswer": "The presence of alkaline salts"
   },
   {
     "question": "The joints in the pointing should be raked out to which depth:",
@@ -5054,7 +5054,7 @@
       "15 mm",
       "18 mm"
     ],
-    "correctAnswer": "12 mm (Pointing joints should be raked out to a depth of 12 mm)"
+    "correctAnswer": "12 mm"
   }  ,
       {
     "question": "For brick construction, the lime sand mortar is:",
@@ -5064,7 +5064,7 @@
       "1:3",
       "1:4"
     ],
-    "correctAnswer": "1:3 (Lime-sand mortar ratio for brick construction is 1:3)"
+    "correctAnswer": "1:3"
   },
   {
     "question": "The formwork from the sides of beams can be removed only after:",
@@ -5074,7 +5074,7 @@
       "7 days",
       "14 days"
     ],
-    "correctAnswer": "7 days (Formwork from the sides of beams should be removed after 7 days)"
+    "correctAnswer": "7 days"
   },
   {
     "question": "The formwork from the slabs excluding props, can be removed from beams only after:",
@@ -5084,7 +5084,7 @@
       "14 days",
       "21 days"
     ],
-    "correctAnswer": "14 days (Formwork from slabs excluding props can be removed after 14 days)"
+    "correctAnswer": "14 days"
   },
   {
     "question": "Which tool is used for cutting soft bricks and dressing cut surfaces?",
@@ -5094,7 +5094,7 @@
       "Spirit level",
       "Brick axe"
     ],
-    "correctAnswer": "Brick axe (Used for cutting soft bricks and dressing their surfaces)"
+    "correctAnswer": "Brick axe"
   },
   {
     "question": "Hoffman’s kiln is used for:",
@@ -5104,7 +5104,7 @@
       "Burning of cement",
       "Burning of wood"
     ],
-    "correctAnswer": "Burning of brick (Hoffman’s kiln is primarily used to burn bricks)"
+    "correctAnswer": "Burning of brick"
   },
   {
     "question": "If rainwater falls on hot brick then the shape of the brick gets deformed, the defect being known as:",
@@ -5114,7 +5114,7 @@
       "Chuffs",
       "Efflorescence"
     ],
-    "correctAnswer": "Chuffs (Deformation due to rainwater falling on hot bricks is called chuffs)"
+    "correctAnswer": "Chuffs"
   },
   {
     "question": "Which one of the following tools is generally not used in blasting and stonework?",
@@ -5124,7 +5124,7 @@
       "Chisel",
       "Sledge Hammer"
     ],
-    "correctAnswer": "Trowel (Generally not used in blasting and stonework)"
+    "correctAnswer": "Trowel"
   },
   {
     "question": "Efflorescence of bricks is caused by:",
@@ -5134,7 +5134,7 @@
       "The presence of alkaline salts",
       "Low silica content of the bricks"
     ],
-    "correctAnswer": "The presence of alkaline salts (Efflorescence occurs due to alkaline salts)"
+    "correctAnswer": "The presence of alkaline salts"
   },
   {
     "question": "The joints in the pointing should be raked out to which depth:",
@@ -5144,7 +5144,7 @@
       "15 mm",
       "18 mm"
     ],
-    "correctAnswer": "12 mm (Pointing joints should be raked out to a depth of 12 mm)"
+    "correctAnswer": "12 mm"
   },
   {
     "question": "The members which support the covering material of a sloping roof are:",
@@ -5154,7 +5154,7 @@
       "Battens",
       "Struts"
     ],
-    "correctAnswer": "Rafters (Rafters support the covering material of a sloping roof)"
+    "correctAnswer": "Rafters"
   },
   {
     "question": "The nominal thickness of one brick wall in mm is:",
@@ -5164,7 +5164,7 @@
       "190 mm",
       "200 mm"
     ],
-    "correctAnswer": "190 mm (Nominal thickness of a brick wall is 190 mm)"
+    "correctAnswer": "190 mm"
   },
   {
     "question": "The angle between skew back of a flat arch and the horizontal is kept approximately equal to:",
@@ -5174,7 +5174,7 @@
       "60°",
       "90°"
     ],
-    "correctAnswer": "60° (Flat arch skew back angle with horizontal is 60°)"
+    "correctAnswer": "60°"
   },
   {
     "question": "A wall constructed to resist the pressure of an earth filling is called:",
@@ -5184,7 +5184,7 @@
       "Buttress",
       "Parapet wall"
     ],
-    "correctAnswer": "Retaining wall (Used to resist earth pressure)"
+    "correctAnswer": "Retaining wall"
   },
   {
     "question": "The process of applying mortar or concrete under pneumatic pressure is known as:",
@@ -5194,7 +5194,7 @@
       "Firing",
       "Injecting"
     ],
-    "correctAnswer": "Gunning (Application of mortar under pneumatic pressure is called gunning)"
+    "correctAnswer": "Gunning"
   },
   {
     "question": "The stone blocks approximately triangular in shape used as steps are known as:",
@@ -5204,7 +5204,7 @@
       "Spandril steps",
       "None of these"
     ],
-    "correctAnswer": "Built-up steps (Triangular stone blocks used as steps)"
+    "correctAnswer": "Built-up steps"
   },
   {
     "question": "Which method of site exploration is suitable for a depth of 6 to 8m range?",
@@ -5403,6 +5403,8 @@
   {
     "question": "What is the name of the parts marked as 'X'?",
     "category":"Drainage",
+    "image": "./mason/Baffle wall.png",
+
     "options": [
       "Main wall",
       "Cross wall",
@@ -5973,7 +5975,1238 @@
           "Build up stair"
         ],
         "correctAnswer": "Stone masonry stair"
+      },
+      {
+        "category": "flooring",
+        "question": "Find the quantity of cement in kg, If the ratio of cement mortar 1:5. Required sand = 0.14 m3 Required cement = 0.028 m3.",
+        "options": [
+          "38.32 kg",
+          "39.32 kg",
+          "40.32 kg",
+          "41.32 kg"
+        ],
+        "correctAnswer": "40.32 kg"
+      },
+      {
+        "category": "flooring",
+        "question": "What structure is to creating more accommodation with in a restricted space?",
+        "options": [
+          "Plinth",
+          "Floor",
+          "Basement",
+          "Superstructure"
+        ],
+        "correctAnswer": "Floor"
+      },
+      {
+        "category": "flooring",
+        "question": "Name the plaster that by throwing coarse aggregate and cement mixed together over the wet plastered surface.",
+        "options": [
+          "Rough coat plaster",
+          "Pebble dash plaster",
+          "Stucco plaster",
+          "Cement plaster"
+        ],
+        "correctAnswer": "Rough coat plaster"
+      },
+      {
+        "category": "flooring",
+        "question": "Which floor, the cow-dung is mixed with earth and a thin layer this mix is spread over the compacted layer?",
+        "options": [
+          "Mud",
+          "Brick floor",
+          "Muram floor",
+          "Flag stone floor"
+        ],
+        "correctAnswer": "Mud"
+      },
+      {
+        "category": "flooring",
+        "question": "Which floor constructed below the ground level?",
+        "options": [
+          "Ground floor",
+          "First floor",
+          "Sub-floor",
+          "Basement floor"
+        ],
+        "correctAnswer": "Basement floor"
+      },
+      {
+        "category": "flooring",
+        "question": "What slab is designed for the ratio of the length and breadth is 2 or more?",
+        "options": [
+          "one way slab",
+          "Two way slab",
+          "Over hanging slab",
+          "Cantilever slab"
+        ],
+        "correctAnswer": "one way slab"
+      },
+      {
+        "category": "flooring",
+        "question": "What type of flooring is suitable for lobby, reception main lounge?",
+        "options": [
+          "Ceramic tiles",
+          "Marble floor",
+          "Cement concrete tiles",
+          "Agra red stone"
+        ],
+        "correctAnswer": "Ceramic tiles"
+      },
+      {
+        "category": "flooring",
+        "question": "What is the thickness of hard base concrete while constructing marble floor?",
+        "options": [
+          "5 to 10 cm",
+          "10 to 12 cm",
+          "10 to 15 cm",
+          "15 to 20 cm"
+        ],
+        "correctAnswer": "10 to 15 cm"
+      },
+      {
+        "category": "flooring",
+        "question": "What is the name of load induced by vibrations below surface of the earth?",
+        "options": [
+          "Live load",
+          "Dead load",
+          "Earthquake load",
+          "Wind load"
+        ],
+        "correctAnswer": "Earthquake load"
+      },
+      {
+        "category": "flooring",
+        "question": "Where the brick floors are generally used?",
+        "options": [
+          "Residential building",
+          "Educational Building",
+          "Assembly building",
+          "Ware houses"
+        ],
+        "correctAnswer": "Ware houses"
+      },
+      {
+        "category": "flooring",
+        "question": "What floor is suitable for kitchen and toilet?",
+        "options": [
+          "Kota stone",
+          "Terrazzo tiles",
+          "Slate stone",
+          "Brick floor"
+        ],
+        "correctAnswer": "Terrazzo tiles"
+      },
+      {
+        "category": "flooring",
+        "question": "What liquid acts as a lubricant for the fine aggregate and coarse aggregate?",
+        "options": [
+          "Coconut oil",
+          "Water",
+          "Engine oil",
+          "Kerosene"
+        ],
+        "correctAnswer": "Water"
+      },
+      {
+        "category": "flooring",
+        "question": "What is the name of the finishing tool?",
+        "image": "./mason/Plastering trowel.png",
+        "options": [
+          "Wooden float",
+          "Plastering trowel",
+          "Steel hawk",
+          "Wooden hawk"
+        ],
+        "correctAnswer": "Plastering trowel"
+      },
+      {
+        "category": "flooring",
+        "question": "What is the name of finishing tools?",
+        "image": "./mason/Wooden float.png",
+        "options": [
+          "Wooden float",
+          "Plastering trowel",
+          "Steel hawk",
+          "Wooden hawk"
+        ],
+        "correctAnswer": "Wooden float"
+      },
+      {
+        "category": "flooring",
+        "question": "Name the architectural elements that sitting below the cornice and above architrave.",
+        "options": [
+          "Cornice",
+          "Frieze",
+          "Entablature",
+          "Dentils"
+        ],
+        "correctAnswer": "Frieze"
+      },
+      {
+        "category": "flooring",
+        "question": "What surface is plastered first?",
+        "options": [
+          "Wall surface",
+          "Ceiling",
+          "Jamb",
+          "Sill"
+        ],
+        "correctAnswer": "Ceiling"
+      },
+      {
+        "category": "flooring",
+        "question": "What is the name of the finishing tool?",
+        "image": "./mason/Jointer.png",
+        "options": [
+          "Trowel",
+          "Jointer",
+          "Bevel trowel",
+          "Angle tool"
+        ],
+        "correctAnswer": "Jointer"
+      },
+      {
+        "category": "flooring",
+        "question": "What type of floor is mostly recommended to use in courtyards, stores, godown etc.?",
+        "options": [
+          "Cement concrete floor",
+          "Brick floor",
+          "Tiled floor",
+          "Muram floor"
+        ],
+        "correctAnswer": "Brick floor"
+      },
+      {
+        "category": "flooring",
+        "question": "What is the name of the finishing tool?",
+        "image": "./mason/External angle tool.png",
+        "options": [
+          "External angle tool",
+          "Internal angle tool",
+          "V'-Shape trowel",
+          "Finishing trowel"
+        ],
+        "correctAnswer": "External angle tool"
+      },
+      {
+        "category": "flooring",
+        "question": "What type of work covers the unsound and porous material of construction?",
+        "options": [
+          "Rendering",
+          "Setting",
+          "Finishing",
+          "Plastering"
+        ],
+        "correctAnswer": "Plastering"
+      },
+      {
+        "category": "flooring",
+        "question": "Which place is the timber floor suitable?",
+        "options": [
+          "Dancing hall",
+          "Dining hall",
+          "Community hall",
+          "Prayer hall"
+        ],
+        "correctAnswer": "Dancing hall"
+      },
+      {
+        "category": "flooring",
+        "question": "What is a horizontal element of a building structure?",
+        "options": [
+          "Floor",
+          "Basement",
+          "Plinth",
+          "Superstructure"
+        ],
+        "correctAnswer": "Floor"
+      },
+      {
+        "category": "flooring",
+        "question": "Where is tamping done in compaction of concrete structure?",
+        "options": [
+          "Slab",
+          "Foundation cement",
+          "Column footing",
+          "Underground floor"
+        ],
+        "correctAnswer": "Slab"
+      },
+      {
+        "category": "flooring",
+        "question": "What type of floor is cheap, hard, and fairly impervious?",
+        "options": [
+          "Muram floor",
+          "Mud floor",
+          "Brick floor",
+          "Flag stone floor"
+        ],
+        "correctAnswer": "Muram floor"
+      },
+      {
+        "category": "flooring",
+        "question": "What direction shall plastering be started?",
+        "options": [
+          "From top to downwards",
+          "From left to right direction",
+          "From right to left direction",
+          "From bottom to upwards"
+        ],
+        "correctAnswer": "From top to downwards"
+      },
+      {
+        "category": "RCC",
+        "question": "What is crown?",
+        "options": [
+          "Start point of arch",
+          "Top point of arch",
+          "Lower part of arch",
+          "Span of arch"
+        ],
+        "correctAnswer": "Top point of arch"
+      },
+      {
+        "category": "RCC",
+        "question": "How are the two leaves of a cavity wall (outer leaf and inner leaf) bonded?",
+        "options": [
+          "By mortar",
+          "Metal ties",
+          "By headers",
+          "By closer"
+        ],
+        "correctAnswer": "Metal ties"
+      },
+      {
+        "category": "RCC",
+        "question": "What is the purpose of lintel?",
+        "options": [
+          "To improve appearance",
+          "To hold door frame",
+          "To hold window frame",
+          "To bear load above openings"
+        ],
+        "correctAnswer": "To bear load above openings"
+      },
+      {
+        "category": "RCC",
+        "question": "What is the span of lintel?",
+        "options": [
+          "Length of lintel",
+          "Distance between two support",
+          "Centre to centre distance between two support",
+          "Width of lintel"
+        ],
+        "correctAnswer": "Distance between two support"
+      },
+      {
+        "category": "RCC",
+        "question": "What material is required for setting out a building?",
+        "options": [
+          "Stone",
+          "Cement",
+          "Clay",
+          "Pebble"
+        ],
+        "correctAnswer": "Cement"
+      },
+      {
+        "category": "RCC",
+        "question": "What tool is required to set right angle in setting out a building?",
+        "options": [
+          "Builders square",
+          "Straight edge",
+          "Spirit level",
+          "Boat level"
+        ],
+        "correctAnswer": "Builders square"
+      },
+      {
+        "category": "RCC",
+        "question": "How to catch mortar dropping while constructing the cavity wall?",
+        "options": [
+          "By wooden strip",
+          "By trowel",
+          "By shovel",
+          "By hand"
+        ],
+        "correctAnswer": "By wooden strip"
+      },
+      {
+        "category": "RCC",
+        "question": "What is the name of wall?",
+        "image": "./mason/Cavity wall.png",
+        "options": [
+          "Solid wall",
+          "Leaf wall",
+          "Cavity wall",
+          "Partition wall"
+        ],
+        "correctAnswer": "Cavity wall"
+      },
+      {
+        "category": "RCC",
+        "question": "What is the purpose of steel in RCC lintel?",
+        "options": [
+          "To take compressive stress",
+          "To take tensile stress",
+          "To take shear stress",
+          "To take lateral stress"
+        ],
+        "correctAnswer": "To take tensile stress"
+      },
+      {
+        "category": "RCC",
+        "question": "What is the inner surface of arch?",
+        "options": [
+          "Haunch",
+          "Extrados",
+          "Intrados",
+          "Crown"
+        ],
+        "correctAnswer": "Intrados"
+      },
+      {
+        "category": "RCC",
+        "question": "Which material is not used for lintel?",
+        "options": [
+          "R.C.C",
+          "P.C.C",
+          "Stone",
+          "Brick"
+        ],
+        "correctAnswer": "P.C.C"
+      },
+      {
+        "category": "RCC",
+        "question": "What is the outer surface of arch?",
+        "options": [
+          "Haunch",
+          "Extrados",
+          "Intrados",
+          "Crown"
+        ],
+        "correctAnswer": "Extrados"
+      },
+      {
+        "category": "RCC",
+        "question": "Name the technical word transferring the details from the paper to the ground.",
+        "options": [
+          "Trenches",
+          "Foundation",
+          "Setting out",
+          "Excavation"
+        ],
+        "correctAnswer": "Setting out"
+      },
+      {
+        "category": "RCC",
+        "question": "What is arcade?",
+        "options": [
+          "A series of arches",
+          "Outer surface of arch",
+          "Inner surface of arch",
+          "Top point of arch"
+        ],
+        "correctAnswer": "A series of arches"
+      },
+       
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the use of saw?",
+        "options": [
+          "Planning",
+          "Chamfering",
+          "Cutting",
+          "Carving"
+        ],
+        "correctAnswer": "Cutting"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the fixture?",
+        "image": "./mason/Cub-board lock.png",
+        "options": [
+          "Mortice lock",
+          "Cub-board lock",
+          "Pad lock",
+          "Rim lock"
+        ],
+        "correctAnswer": "Cub-board lock"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of fixture?",
+        "image": "./mason/Barrel bolt.png",
+        "options": [
+          "Tower bolt",
+          "Flush bolt",
+          "Barrel bolt",
+          "Hasp and Stable bolt"
+        ],
+        "correctAnswer": "Barrel bolt"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the term of operation of making the surface of timber flat and smooth?",
+        "options": [
+          "Cutting",
+          "Marking",
+          "Chiseling",
+          "Planning"
+        ],
+        "correctAnswer": "Planning"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the joint?",
+        "image": "./mason/Dovetailed half lap joint.png",
+        "options": [
+          "Half lap joints",
+          "Dovetailed half lap joint",
+          "Mitre half lap joint",
+          "Cross half lap joint"
+        ],
+        "correctAnswer": "Dovetailed half lap joint"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the fixture?",
+        "image": "./mason/Rim lock.png",
+        "options": [
+          "Rim lock",
+          "Mortice lock",
+          "Pad lock",
+          "Cub-board lock"
+        ],
+        "correctAnswer": "Rim lock"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the joint?",
+        "image": "./mason/Mitre half lap joint.png",
+        "options": [
+          "Half lap joints",
+          "Dovetailed half lap joint",
+          "Mitre half lap joint",
+          "Cross half lap joint"
+        ],
+        "correctAnswer": "Mitre half lap joint"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is used for fastening or loosening of screw?",
+        "options": [
+          "Screw driver",
+          "Marking gauge",
+          "Brace",
+          "Vice"
+        ],
+        "correctAnswer": "Screw driver"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the joint?",
+        "image": "./mason/Half lap joints.png",
+        "options": [
+          "Half lap joints",
+          "Dovetailed half lap joint",
+          "Mitre half lap",
+          "Cross half lap joint"
+        ],
+        "correctAnswer": "Half lap joints"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the fixture?",
+        "image": "./mason/Mortice lock.png",
+        "options": [
+          "Rim lock",
+          "Pad lock",
+          "Cub-board lock",
+          "Mortice lock"
+        ],
+        "correctAnswer": "Mortice lock"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the ABC of first aid?",
+        "options": [
+          "Aid Break, Control",
+          "Airway, Breathing, Circulation",
+          "Avoid, Bleeding Control",
+          "Accident, Bleeding, Circulation"
+        ],
+        "correctAnswer": "Airway, Breathing, Circulation"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "Which joint is used near the ridge of king post roof truss?",
+        "options": [
+          "Mortise and Tenon",
+          "Housed",
+          "Joggle",
+          "Chase mortise and Tenon"
+        ],
+        "correctAnswer": "Joggle"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "Which wood is used in doors and windows in building construction?",
+        "options": [
+          "Babul",
+          "Teak",
+          "Banyan",
+          "Benteak"
+        ],
+        "correctAnswer": "Teak"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is class D fire?",
+        "options": [
+          "Flammable liquids",
+          "Oil and Fats",
+          "Energized electrical equipment",
+          "Combustible metal"
+        ],
+        "correctAnswer": "Combustible metal"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the term for the outermost layer of earth?",
+        "options": [
+          "Atmosphere",
+          "Lithosphere",
+          "Hydrosphere",
+          "Thermosphere"
+        ],
+        "correctAnswer": "Lithosphere"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "Which is a holding device?",
+        "options": [
+          "Machine vice",
+          "Plane",
+          "Drill",
+          "Hammer"
+        ],
+        "correctAnswer": "Machine vice"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the term of saw with thin blade?",
+        "options": [
+          "Mortise saw",
+          "Tenon saw",
+          "Dove tail saw",
+          "Compass saw"
+        ],
+        "correctAnswer": "Compass saw"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of tool used for holding thin delicate parts?",
+        "options": [
+          "Outside caliper",
+          "Inside caliper",
+          "Carpenter's file",
+          "Pincer"
+        ],
+        "correctAnswer": "Pincer"
+      },
+      {
+        "category": "Safety and Carpentry",
+        "question": "What is the name of the joint?",
+        "image": "./mason/Cross half lap joint.png",
+        "options": [
+          "Mitre half lap",
+          "Half lap joint",
+          "Dovetailed half lap joint",
+          "Cross half lap joint"
+        ],
+        "correctAnswer": "Cross half lap joint"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the reduction strength of cement in three months of concrete?",
+        "options": [
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.5"
+        ],
+        "correctAnswer": "0.2"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What grade of concrete is not suitable where sulphate is in the soil or in the ground water?",
+        "options": [
+          "33 grade ordinary portland cement",
+          "43 grade ordinary portland cement",
+          "53 grade ordinary portland cement",
+          "63 grade ordinary portland cement"
+        ],
+        "correctAnswer": "33 grade ordinary portland cement"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "Name the hand compaction in R.C.C slab?",
+        "options": [
+          "Ramming",
+          "Form work vibration",
+          "Table vibrator",
+          "Surface vibrator"
+        ],
+        "correctAnswer": "Ramming"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the form work if the circle work such as arch, domes etc.?",
+        "options": [
+          "Casing",
+          "Shuttering",
+          "Centering",
+          "Moulds"
+        ],
+        "correctAnswer": "Centering"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "Which form work is used several times?",
+        "options": [
+          "Timber form work",
+          "Plywood formwork",
+          "Wooden form work",
+          "Steel form work"
+        ],
+        "correctAnswer": "Plywood formwork"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What does R.C.C stand for?",
+        "options": [
+          "Reinforce Concrete Cement",
+          "Reinforced Cement Concrete",
+          "Retaining Cement Concrete",
+          "Related Cement Concrete"
+        ],
+        "correctAnswer": "Reinforced Cement Concrete"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What should be provided on the top of the gate pillar?",
+        "options": [
+          "Frieze",
+          "Throating",
+          "Coping",
+          "Drip"
+        ],
+        "correctAnswer": "Coping"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the Steel reinforcement for cement?",
+        "image": "./mason/Single square twisted bar.png",
+        "options": [
+          "Deformed bar",
+          "Ribbed bar",
+          "Grip bar",
+          "Single square twisted bar"
+        ],
+        "correctAnswer": "Single square twisted bar"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of compaction method in concrete?",
+        "image": "./mason/Wooden tamping beam.png",
+        "options": [
+          "Wooden tamping beam",
+          "Shuttering plank",
+          "Ramming",
+          "Wooden float"
+        ],
+        "correctAnswer": "Wooden tamping beam"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the structure?",
+        "image": "./mason/Buttress splayed coping.png",
+        "options": [
+          "Buttress",
+          "Buttress splayed coping",
+          "Buttress tumbled in tapping",
+          "Splayed brick pier"
+        ],
+        "correctAnswer": "Buttress splayed coping"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "Which equipment is used for compaction of concrete by mechanical method?",
+        "options": [
+          "Rodding",
+          "Ramming",
+          "Tamping",
+          "Surface vibrator"
+        ],
+        "correctAnswer": "Surface vibrator"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the reinforcement in R.C.C slab marked as 'X'?",
+        "options": [
+          "Main reinforcement",
+          "Distribution reinforcement",
+          "Top reinforcement",
+          "Bottom reinforcement"
+        ],
+        "correctAnswer": "Top reinforcement"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the part marked as 'X'?",
+        "image": "./mason/Prob.png",
+        "options": [
+          "Prob",
+          "Bracing",
+          "Waling",
+          "Studs"
+        ],
+        "correctAnswer": "Prob"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the minimum longitudinal bars required for helical reinforcement in R.C.C column?",
+        "options": [
+          "4 nos",
+          "6 nos",
+          "10 nos"
+        ],
+        "correctAnswer": "6 nos"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "Name the operation of removing the form work.",
+        "options": [
+          "Dismantle",
+          "Stripping",
+          "Striking",
+          "Break"
+        ],
+        "correctAnswer": "Stripping"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "Expand TMT bars.",
+        "options": [
+          "Thermo Mechanically Treated bars",
+          "Thermo Mechanically Tempered bars",
+          "Temperature Mechanical Treated bars",
+          "Tensional Mechanical Treated bars"
+        ],
+        "correctAnswer": "Thermo Mechanically Treated bars"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "When should the probe be removed if the span of the slab is 4.5m?",
+        "options": [
+          "3 days",
+          "7 days",
+          "14 days",
+          "21 days"
+        ],
+        "correctAnswer": "7 days"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the reinforcement marked as 'X'?",
+        "image": "./mason/Main reinforcement.png",
+        "options": [
+          "Main reinforcement",
+          "Stirrup",
+          "Column reinforcement",
+          "Crank reinforcement"
+        ],
+        "correctAnswer": "Main reinforcement"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What type of concrete is too strong in taking compression but too weak in tension?",
+        "options": [
+          "Lime concrete",
+          "Surkhi concrete",
+          "Plain cement concrete",
+          "Reinforced cement concrete"
+        ],
+        "correctAnswer": "Plain cement concrete"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the part marked as 'X'?",
+        "image": "./mason/Chavi.png",
+        "options": [
+          "Prob",
+          "Bracing",
+          "Waling",
+          "Chavi"
+        ],
+        "correctAnswer": "Chavi"
+      },
+    
+     {
+        "category": "RCC Beam and Cloumn",
+        "question": "What type of concrete is too strong in taking compression but too weak in tension?",
+        "options": [
+          "Lime concrete",
+          "Surkhi concrete",
+          "Plain cement concrete",
+          "Reinforced cement concrete"
+        ],
+        "correctAnswer": "Plain cement concrete"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the bar bend?",
+        "image": "./mason/Bend.png",
+        "options": [
+          "Endanchol",
+          "U' type hook",
+          "Bonds",
+          "Bend"
+        ],
+        "correctAnswer": "Bend"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "Which work is called as a temporary structure?",
+        "options": [
+          "Wall",
+          "Beam",
+          "Slab",
+          "Form work"
+        ],
+        "correctAnswer": "Form work"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the steel bar?",
+        "image": "./mason/Twin twisted bar.png",
+        "options": [
+          "Twin twisted bar",
+          "Ribbed",
+          "Grip bar",
+          "Twisted bar"
+        ],
+        "correctAnswer": "Twin twisted bar"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is the name of the reinforcement marked as?",
+        "image": "./mason/Stirrup.png",
+        "options": [
+          "M.S. chair",
+          "Stirrup",
+          "Cover block",
+          "Crank bar"
+        ],
+        "correctAnswer": "Stirrup"
+      },
+      {
+        "category": "RCC Beam and Cloumn",
+        "question": "What is a thumb rule for percentage of reinforcement in beam?",
+        "options": [
+          "0.7 to 0.1%",
+          "0.5 to 0.8%",
+          "1.0% to 2.0%",
+          "2.0 to 30%"
+        ],
+        "correctAnswer": "1.0% to 2.0%"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the flooring which upon a bed of cement mortar, small pieces of china glazed tiles are arranged?",
+        "options": [
+          "Marble flooring",
+          "Tiled flooring",
+          "Mosaic flooring",
+          "Terrazzo flooring"
+        ],
+        "correctAnswer": "Mosaic flooring"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the dressing of stone?",
+        "image": "./mason/Punched dressing.png",
+        "options": [
+          "Hammer dressed stone",
+          "Chisel drafting",
+          "Rough tool dressing",
+          "Punched dressing"
+        ],
+        "correctAnswer": "Punched dressing"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the ashlar masonry?",
+        "image": "./mason/Ashlar rough tooled masonry.png",
+        "options": [
+          "Ashlar masonry (Fine)",
+          "Ashlar chamfered masonry",
+          "Ashlar rough tooled masonry",
+          "Ashlar quarry faced masonry"
+        ],
+        "correctAnswer": "Ashlar rough tooled masonry"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "Which masonry life is greater?",
+        "options": [
+          "Brick masonry",
+          "Composite masonry",
+          "Concrete block masonry",
+          "Stone masonry"
+        ],
+        "correctAnswer": "Stone masonry"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the dressing that the edge of the stone are made level where as superfluous stones is left on the face?",
+        "options": [
+          "Pitched dressing of stone",
+          "Chisel drafting",
+          "Rough tooling",
+          "Punched dressing"
+        ],
+        "correctAnswer": "Pitched dressing of stone"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "Which lintel does not require formwork?",
+        "options": [
+          "R.C.C lintel",
+          "Brick lintel",
+          "Stone lintel",
+          "Precast lintel"
+        ],
+        "correctAnswer": "Precast lintel"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What tool is used dressing the marble stone on all sides on full depth?",
+        "options": [
+          "Hammer",
+          "Chisel",
+          "Trowel",
+          "Mallet"
+        ],
+        "correctAnswer": "Chisel"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "How the mortar joints are formed in circular wall work?",
+        "options": [
+          "Wider at the outer edge than the inner",
+          "Wider at the inner edge than the outer",
+          "Uniform thickness",
+          "Parallel to face of wall"
+        ],
+        "correctAnswer": "Wider at the outer edge than the inner"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the part in stone masonry marked as X?",
+        "image": "./mason/Drip.png",
+        "options": [
+          "Silli",
+          "Stone",
+          "Drip",
+          "Sunshade"
+        ],
+        "correctAnswer": "Drip"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What type of flooring is commonly used for superior type of flooring?",
+        "options": [
+          "Flag stone flooring",
+          "Marble stone flooring",
+          "Cement concrete flooring",
+          "Tiled flooring"
+        ],
+        "correctAnswer": "Marble stone flooring"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the part marked as 'X'?",
+        "image": "./mason/Jamb block.png",
+        "options": [
+          "Plaster block",
+          "Concrete block",
+          "Jamb block",
+          "Hollow block"
+        ],
+        "correctAnswer": "Jamb block"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the hollow block?",
+        "image": "./mason/Partition hollow concrete block.png",
+        "options": [
+          "Scored hollow concrete block",
+          "Standard hollow concrete block",
+          "Jamb hollow concrete block",
+          "Partition hollow concrete block"
+        ],
+        "correctAnswer": "Partition hollow concrete block"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "Which stone masonry well-dressed stones having sharp and straight edges and smooth faces are used?",
+        "options": [
+          "Rubble masonry",
+          "Square rubble coursed",
+          "Random rubble",
+          "Ashlar masonry"
+        ],
+        "correctAnswer": "Ashlar masonry"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What material is used to construct at the end of each center line pillar?",
+        "options": [
+          "Brick",
+          "Stone",
+          "Concrete",
+          "R.C.C"
+        ],
+        "correctAnswer": "Brick"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "Name the stone joint when two stones are held together by placing them side by side.",
+        "options": [
+          "Rebated joint",
+          "Lap joint",
+          "Butt joint",
+          "Table joint"
+        ],
+        "correctAnswer": "Butt joint"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "Which masonry is stronger for same wall thickness?",
+        "options": [
+          "Brick masonry",
+          "Stone masonry",
+          "Concrete block masonry",
+          "Composite masonry"
+        ],
+        "correctAnswer": "Stone masonry"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the hollow block?",
+        "image": "./mason/Stretcher hollow concrete block.png",
+        "options": [
+          "Corner hollow concrete block",
+          "Stretcher hollow concrete block",
+          "Standard hollow concrete block",
+          "Scored hollow concrete block"
+        ],
+        "correctAnswer": "Stretcher hollow concrete block"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "How to improve the bonding of the top two courses of brick are laid in circular wall construction?",
+        "options": [
+          "Headers",
+          "Stretcher",
+          "Brick-on-edge",
+          "Brick-on-end"
+        ],
+        "correctAnswer": "Headers"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the stone joint?",
+        "image": "./mason/Rebated joint.png",
+        "options": [
+          "Rebated joint",
+          "Table",
+          "Butt joint",
+          "Table joint"
+        ],
+        "correctAnswer": "Rebated joint"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What type of tiles are arranged upon a bed of cement concrete in mosaic floor?",
+        "options": [
+          "China clay tiles",
+          "China glazed tiles",
+          "Terrazzo tiles",
+          "Ceramic tiles"
+        ],
+        "correctAnswer": "China glazed tiles"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is facing of wall?",
+        "options": [
+          "Back side of wall",
+          "Front side of wall",
+          "Middle portion of wall",
+          "Joint of wall"
+        ],
+        "correctAnswer": "Front side of wall"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What is the name of the stone joint?",
+        "image": "./mason/Tabled joint.png",
+        "options": [
+          "Rebated joint",
+          "Lap",
+          "Butt joint",
+          "Tabled joint"
+        ],
+        "correctAnswer": "Tabled joint"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What type of floor is suitable for kitchen and toilets?",
+        "options": [
+          "Sand stone flooring",
+          "Plain cement concrete tiles",
+          "Mosaic flooring",
+          "Terrazzo flooring"
+        ],
+        "correctAnswer": "Terrazzo flooring"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What building materials are used in the construction of ancient temples and forts?",
+        "options": [
+          "Brick",
+          "Stone",
+          "Concrete block",
+          "R.C.C"
+        ],
+        "correctAnswer": "Stone"
+      },
+      {
+        "category": "Stone Masonry",
+        "question": "What type of stone is suitable for ornamental work?",
+        "options": [
+          "Laterite",
+          "Marble stone",
+          "Slate",
+          "Granite"
+        ],
+        "correctAnswer": "Marble stone"
       }
+    
 
 
 
