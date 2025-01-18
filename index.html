@@ -263,6 +263,15 @@ function loadQuestions(questions) {
         questionTitle.textContent = `${index + 1}. ${q.question}`;
         questionDiv.appendChild(questionTitle);
 
+        if (q.image) {
+    const imageElement = document.createElement('img');
+    imageElement.src = q.image;
+    imageElement.alt = `Image for question ${index + 1}`;
+    imageElement.style.maxWidth = '200px';  // Set the maximum width
+    imageElement.style.maxHeight = '200px'; // Set the maximum height
+    imageElement.style.objectFit = 'contain';
+    questionDiv.appendChild(imageElement);
+  }
         const answersDiv = document.createElement('div');
         answersDiv.classList.add('answers');
 
