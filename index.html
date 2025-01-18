@@ -177,7 +177,7 @@ align-items: center;
 <script>
 let timerInterval;
 const numQuestionsToDisplay = 25; // Number of questions to display
-const timePerQuestionInSeconds = 30; // Time per question in seconds
+const timePerQuestionInSeconds = 20; // Time per question in seconds
 let totalTimeInMilliseconds = numQuestionsToDisplay * timePerQuestionInSeconds * 1000;
 
 // Timer function
@@ -188,7 +188,8 @@ function startTimer() {
         const remainingTime = endTime - Date.now();
         if (remainingTime <= 0) {
             clearInterval(timerInterval);
-            document.getElementById('testForm').submit(); // Automatically submit the test
+            const submitButton = document.getElementById('submitBtn');
+            submitButton.click();
         } else {
             const minutes = Math.floor((remainingTime / 1000 / 60) % 60);
             const seconds = Math.floor((remainingTime / 1000) % 60);
