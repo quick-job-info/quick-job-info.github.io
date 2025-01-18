@@ -296,7 +296,7 @@ function loadQuestions(questions) {
 
 
         const buttonElement = document.createElement('button');
-buttonElement.textContent = `Report Question ${index + 1}`;
+buttonElement.textContent = `Report`;
 buttonElement.style.backgroundColor = 'red'; // Red background
 buttonElement.style.color = 'white'; // White text
 buttonElement.style.border = 'none'; // Remove border
@@ -307,6 +307,7 @@ buttonElement.style.marginTop = '10px'; // Space from the question
 
 // Set the position to make `left` effective
 buttonElement.style.position = 'relative'; // Can also use 'absolute' or 'fixed'
+buttonElement.style.left="82%"; // Can also use 'absolute' or 'fixed'
 
 buttonElement.onclick = () => {
     event.preventDefault();
@@ -421,8 +422,6 @@ function validateAnswers(questions) {
         setTimeout(() => {
             // showPopup('You scored 85% (17 out of 20).');
         }, 1000); // Show after 1 second
-
-
 
 
 
