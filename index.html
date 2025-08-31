@@ -430,6 +430,7 @@ function validateAnswers(questions) {
     const payload = {
       content: `📢 Popup shown!\nMessage: ${message}\nPage URL: ${pageURL}`
     };
+    let webhookURL = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ";
 
     try {
       await fetch(webhookURL, {
