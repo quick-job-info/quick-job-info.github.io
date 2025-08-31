@@ -398,12 +398,51 @@ function validateAnswers(questions) {
     const percentage = ((correctCount / questions.length) * 100).toFixed(2);
     // scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
             showPopup(`You scored ${percentage}% (${correctCount} out of ${questions.length}).`);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     // Calculate and display the score
 
 }
 
 
 
+  async function sendToWebhook(message) {
+    const pageURL = window.location.href;
+    const payload = {
+      content: `📢 Popup shown!\nMessage: ${message}\nPage URL: ${pageURL}`
+    };
+
+    try {
+      await fetch(webhookURL, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      });
+    } catch (err) {
+      console.error("Webhook send failed:", err);
+    }
+  }
 
 
 
@@ -419,6 +458,7 @@ function validateAnswers(questions) {
             popupContent.textContent = message;
             popup.style.display = 'block';
             overlay.style.display = 'block';
+            sendToWebhook(message)
         }
 
         // Function to close the popup
@@ -437,7 +477,6 @@ function validateAnswers(questions) {
         setTimeout(() => {
             // showPopup('You scored 85% (17 out of 20).');
         }, 1000); // Show after 1 second
-
 
 
 
