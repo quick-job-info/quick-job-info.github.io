@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="ico.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRO Mason Trad Exam Prep</title>
+ <meta property="og:title" content="BRO Mason Trad Exam Prep: Laying the Groundwork for Success">
+    <meta property="og:description" content="Prepare effectively for the BRO Mason Trad Exam with our comprehensive guide. Build a solid foundation for success!">
+    <meta property="og:image" content="./b1.jpg">
+     <meta property="og:url" content="https://quick-job-info.github.io/">
+    <meta property="og:type" content="website">
+
+
+
+
+
+
+
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            user-select: none;
+            padding: 20px;
+        }
+        .container {
+            width: 95%;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        .answers {
+            margin-left: 20px;
+        }
+        .incorrect {
+            color: red;
+        }
+        .correct {
+            color: green;
+        }
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        #score {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
+      .fixed-buttons-container {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1CAF50;
+}
+
+.fixed-buttons-container button {
+    flex: 1;
+background-color: #00c875;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.fixed-buttons-container button:hover {
+    background-color: #02985a;
+}
+
+        #timer {
+         position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+box-shadow: #040704 -10px 5px 11px;
+background-color: #333;
+color: white;
+padding: 10px 20px;
+text-align: center;
+font-size: 18px;
+font-weight: bold;
+z-index: 1000;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+        }
+
+
+
+
+
+
+  .popup-container {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1000;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            padding: 20px;
+            width: 80%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        /* Popup overlay */
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+        }
+
+        /* Close button */
+        .close-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #00C897;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .close-btn:hover {
+            background-color: #45a049;
+        }
+
+
+
+
+
+
+        
+    </style>
+</head>
+<body>
+
+<div id="timer">Time Left: <span id="timeDisplay">00:00:00.000</span></div>
+
+    
+  <div class="overlay" id="overlay"></div>
+    <div class="popup-container" id="popup">
+        <h2 id="popupContent"></h2>
+        <button class="close-btn" id="closePopupBtn">Close</button>
+    </div>
+
+    
+<div class="container">
+    <u><h1>Mason Trade Preparation</h1></u>
+    <form id="testForm">
+        <!-- Questions will be inserted here dynamically -->
+    </form>
+   <div class="fixed-buttons-container">
+    <button type="submit" id="submitBtn">Submit Test</button>
+   
+
+    <div id="score"></div>
+  
+
+      <button type="button" id="submitBtn" class="re" onclick="location.href=window.location.href;">Next Set</button>
+      </div>
+</div>
+
+<script>
+let timerInterval;
+const numQuestionsToDisplay = 90; // Number of questions to display
+const timePerQuestionInSeconds = 30; // Time per question in seconds
+let totalTimeInMilliseconds = numQuestionsToDisplay * timePerQuestionInSeconds * 1000;
+
+// Timer function
+function startTimer() {
+    const endTime = Date.now() + totalTimeInMilliseconds;
+
+    timerInterval = setInterval(() => {
+        const remainingTime = endTime - Date.now();
+        if (remainingTime <= 0) {
+            clearInterval(timerInterval);
+            const submitButton = document.getElementById('submitBtn');
+            submitButton.click();
+        } else {
+            const minutes = Math.floor((remainingTime / 1000 / 60) % 60);
+            const seconds = Math.floor((remainingTime / 1000) % 60);
+            const milliseconds = Math.floor((remainingTime % 1000) / 10);
+            document.getElementById('timeDisplay').textContent = 
+                `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}.${milliseconds.toString().padStart(2, '0')}`;
+        }
+    }, 10);
+}
+
+
+
+
+
+
+
+
+  const isPaid = localStorage.getItem("isPaidUser");
+
+        if (isPaid !== "true") {
+            // Clear the entire document
+            document.documentElement.innerHTML = "";
+
+            // Redirect to the buying page after a short delay
+            setTimeout(() => {
+                window.location.href = "https://rzp.io/rzp/Tufh"; // Replace with the URL of your buying page
+            }, 1000); // 1-second delay for smoother UX
+        } else {
+
+
+
+
+
+
+
+
+
+
+
+
+    
+// Load questions and start the test
+fetch('24_pdf.json')
+    .then(response => response.json())
+    .then(questions => {
+        const selectedQuestions = selectRandomQuestions(questions, numQuestionsToDisplay);
+        loadQuestions(selectedQuestions);
+        startTimer(); // Start the timer
+
+        document.getElementById('submitBtn').addEventListener('click', function(event) {
+            event.preventDefault();
+            clearInterval(timerInterval); // Stop the timer on submission
+            validateAnswers(selectedQuestions);
+ 
+        });
+    });
+
+// Function to select random questions
+function selectRandomQuestions(questions, numToSelect) {
+    const shuffled = questions.sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, numToSelect);
+}
+
+// Function to load questions dynamically
+function loadQuestions(questions) {
+    const form = document.getElementById('testForm');
+    questions.forEach((q, index) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.classList.add('question');
+        
+        const questionTitle = document.createElement('h3');
+        questionTitle.textContent = `${index + 1}. ${q.question}`;
+        questionDiv.appendChild(questionTitle);
+
+        if (q.image) {
+    const imageElement = document.createElement('img');
+    imageElement.src = q.image;
+    imageElement.alt = `Image for question ${index + 1}`;
+    imageElement.style.maxWidth = '200px';  // Set the maximum width
+    imageElement.style.maxHeight = '200px'; // Set the maximum height
+    imageElement.style.objectFit = 'contain';
+    questionDiv.appendChild(imageElement);
+  }
+
+
+
+
+        const answersDiv = document.createElement('div');
+        answersDiv.classList.add('answers');
+
+        q.options.forEach(option => {
+            const label = document.createElement('label');
+            label.innerHTML = `<input type="radio" name="q${index}" value="${option}"> ${option}`;
+            answersDiv.appendChild(label);
+        });
+
+        questionDiv.appendChild(answersDiv);
+
+        const feedbackDiv = document.createElement('div');
+        feedbackDiv.classList.add('feedback');
+        feedbackDiv.id = `feedback${index}`;
+        questionDiv.appendChild(feedbackDiv);
+
+
+
+        const buttonElement = document.createElement('button');
+buttonElement.textContent = `Report`;
+buttonElement.style.backgroundColor = 'red'; // Red background
+buttonElement.style.color = 'white'; // White text
+buttonElement.style.border = 'none'; // Remove border
+buttonElement.style.borderRadius = '5px'; // Rounded corners
+buttonElement.style.padding = '10px 20px'; // Padding for the button
+buttonElement.style.cursor = 'pointer'; // Pointer cursor on hover
+buttonElement.style.marginTop = '10px'; // Space from the question
+
+// Set the position to make `left` effective
+buttonElement.style.position = 'relative'; // Can also use 'absolute' or 'fixed'
+buttonElement.style.left="82%"; // Can also use 'absolute' or 'fixed'
+
+buttonElement.onclick = () => {
+    event.preventDefault();
+    const message = {
+        content: `${q.question}`,
+    };
+
+    // Your Discord Webhook URL
+    const webhookURL = 'https://discord.com/api/webhooks/1330155710079565837/YB8zeIqwRrCivhsU4epS-r0YIBDypAq8Iz-zgJZ-YKh4u8BEX0pjpyOf08ayQJmQ8Pek';
+
+    // Send the POST request
+    fetch(webhookURL, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(message),
+    });
+
+
+
+    showPopup(`Reporting issue for question ${index + 1} . ${q.question}`);
+    buttonElement.style.backgroundColor = 'green'; // Red background
+    buttonElement.textContent = `Thank you!`;
+
+
+
+
+
+
+
+
+
+}; // Add functionality for reporting
+
+questionDiv.appendChild(buttonElement);
+
+
+
+
+
+        form.appendChild(questionDiv);
+    });
+}
+
+// Function to validate answers and display feedback
+function validateAnswers(questions) {
+    let correctCount = 0;
+
+    questions.forEach((q, index) => {
+        const selectedAnswer = document.querySelector(`input[name="q${index}"]:checked`);
+        const feedbackDiv = document.getElementById(`feedback${index}`);
+        feedbackDiv.innerHTML = '';
+
+        if (selectedAnswer) {
+            if (selectedAnswer.value === q.correctAnswer) {
+                feedbackDiv.classList.add('correct');
+                feedbackDiv.classList.remove('incorrect');
+                feedbackDiv.textContent = `Correct!`;
+                correctCount++;
+            } else {
+                feedbackDiv.classList.add('incorrect');
+                feedbackDiv.classList.remove('correct');
+                feedbackDiv.textContent = `Incorrect. The correct answer is: ${q.correctAnswer}.`;
+            }
+        } else {
+            feedbackDiv.classList.add('incorrect');
+            feedbackDiv.classList.remove('correct');
+            feedbackDiv.textContent = `No answer selected. The correct answer is: ${q.correctAnswer}.`;
+        }
+    });
+   const scoreDiv = document.getElementById('score');
+    const percentage = ((correctCount / questions.length) * 100).toFixed(2);
+    // scoreDiv.textContent = `You scored ${percentage}% (${correctCount} out of ${questions.length}).`;
+            showPopup(`You scored ${percentage}% (${correctCount} out of ${questions.length}).`);
+    // Calculate and display the score
+
+}
+
+
+
+
+
+   
+  async function sendToWebhook(message) {
+    const pageURL = window.location.href;
+    const payload = {
+      content: `📢 Popup shown!\nMessage: ${message}\nPage URL: ${pageURL}`
+    };
+    let webhookURL = "https://discord.com/api/webhooks/1329656838291062798/8dGy0f5L0upZt9Ap0td2PDwQ4PEGwLHq_-bOtfru4VFlG6LXFi8El0137jdjKuEn-TNZ";
+
+    try {
+      await fetch(webhookURL, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      });
+    } catch (err) {
+      console.error("Webhook send failed:", err);
+    }
+  }
+
+
+// Example usage after validation
+// Call showPopup(correctCount, questions); at the end of the validateAnswers function.
+
+
+ function showPopup(message) {
+            const popup = document.getElementById('popup');
+            const overlay = document.getElementById('overlay');
+            const popupContent = document.getElementById('popupContent');
+            
+            popupContent.textContent = message;
+            popup.style.display = 'block';
+            overlay.style.display = 'block';
+            sendToWebhook(message)
+        }
+
+        // Function to close the popup
+        function closePopup() {
+            const popup = document.getElementById('popup');
+            const overlay = document.getElementById('overlay');
+            
+            popup.style.display = 'none';
+            overlay.style.display = 'none';
+        }
+
+        // Attach event listener to close button
+        document.getElementById('closePopupBtn').addEventListener('click', closePopup);
+
+        // Example: Show popup with a message
+        setTimeout(() => {
+            // showPopup('You scored 85% (17 out of 20).');
+        }, 1000); // Show after 1 second
+
+
+
+
+
+
+
+
+            
+        }
+</script>
+
+</body>
+</html>
