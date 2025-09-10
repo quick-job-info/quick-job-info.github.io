@@ -3484,7 +3484,3832 @@
         "Methods of test for Pozzolanic materials"
     ],
     "correctAnswer": "Methods of sampling and analysis of concrete"
+},
+{
+    "number": 1,
+    "question": "A wall can be defined as a building component whose length is _____ times its thickness.",
+    "options": [
+        "Two",
+        "Four",
+        "Eight",
+        "Sixteen"
+    ],
+    "correctAnswer": "Four"
+},
+{
+    "number": 2,
+    "question": "A column is a member that is:",
+    "options": [
+        "Vertical load-bearing",
+        "Vertical non-load-bearing",
+        "An isolated load-bearing",
+        "An isolated non-load-bearing"
+    ],
+    "correctAnswer": "An isolated load-bearing"
+},
+{
+    "number": 3,
+    "question": "Load-bearing walls are defined as walls that only carry their own weight, while non-load-bearing walls are defined as walls that, in addition to their own weight, can also carry superimposed loads.",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 4,
+    "question": "Which type of wall is constructed to divide space inside a building?",
+    "options": [
+        "Partition wall",
+        "Cavity wall",
+        "Party wall",
+        "Curtain wall"
+    ],
+    "correctAnswer": "Partition wall"
+},
+{
+    "number": 5,
+    "question": "A panel wall is:",
+    "options": [
+        "An internal non-load-bearing wall",
+        "An external load-bearing wall",
+        "An internal load-bearing wall",
+        "An external non-load-bearing wall"
+    ],
+    "correctAnswer": "An external non-load-bearing wall"
+},
+{
+    "number": 6,
+    "question": "Cross-wall construction consists of internal walls running at _____ angles to the length of the building.",
+    "options": [
+        "Straight",
+        "Acute",
+        "Right",
+        "Obtuse"
+    ],
+    "correctAnswer": "Right"
+},
+{
+    "number": 7,
+    "question": "A wall that separates adjoining buildings belonging to different owners is called:",
+    "options": [
+        "Party wall",
+        "Isolated wall",
+        "Cavity wall",
+        "Partition wall"
+    ],
+    "correctAnswer": "Party wall"
+},
+{
+    "number": 8,
+    "question": "An isolated wall is defined as a wall that separates dwellings that are _____ buildings.",
+    "options": [
+        "Same, same",
+        "Same, different",
+        "Different, different",
+        "Different, same"
+    ],
+    "correctAnswer": "Different, same"
+},
+{
+    "number": 10,
+    "question": "Which of the following is not a type of load-bearing wall?",
+    "options": [
+        "Solid masonry wall",
+        "Panel wall",
+        "Cavity wall",
+        "Faced wall"
+    ],
+    "correctAnswer": "Panel wall"
+},
+{
+    "number": 11,
+    "question": "A curtain wall carries:",
+    "options": [
+        "Only vertical load",
+        "Only lateral load",
+        "Both vertical and lateral load",
+        "Only its self-weight"
+    ],
+    "correctAnswer": "Only lateral load"
+},
+{
+    "number": 12,
+    "question": "A cavity wall is a wall consisting of _____ leaves.",
+    "options": [
+        "One",
+        "Two",
+        "Four",
+        "None"
+    ],
+    "correctAnswer": "Two"
+},
+{
+    "number": 13,
+    "question": "A faced wall is a type of load-bearing wall in which facing and backing are of the same material.",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 14,
+    "question": "In which type of load-bearing wall is the facing attached to the backing but not bonded?",
+    "options": [
+        "Veneered wall",
+        "Cavity wall",
+        "Faced wall",
+        "Panel wall"
+    ],
+    "correctAnswer": "Faced wall"
+},
+{
+    "number": 15,
+    "question": "In a cavity wall, the space between leaves should be filled with:",
+    "options": [
+        "Waterproof material",
+        "Load-bearing material",
+        "Non-load-bearing material",
+        "Insulating material"
+    ],
+    "correctAnswer": "Load-bearing material"
+},
+{
+    "number": 16,
+    "question": "Which of the following is not a type of load acting on wall structures?",
+    "options": [
+        "Dead load",
+        "Black load",
+        "Live load",
+        "Earthquake load"
+    ],
+    "correctAnswer": "Black load"
+},
+{
+    "number": 17,
+    "question": "Which of the following is not responsible for causing stress in a wall?",
+    "options": [
+        "Self-weight",
+        "Weight of superimposed load",
+        "Cement",
+        "Lateral pressure"
+    ],
+    "correctAnswer": "Cement"
+},
+{
+    "number": 18,
+    "question": "Live loads and dead loads act in a horizontal direction.",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 19,
+    "question": "In a masonry wall, the strength of mortar should be _____ than that of the masonry unit.",
+    "options": [
+        "Less",
+        "More",
+        "Equal",
+        "Greater than or equal"
+    ],
+    "correctAnswer": "Less"
+},
+{
+    "number": 20,
+    "question": "In mortar mix, strength increases when it contains:",
+    "options": [
+        "Only lime",
+        "Only cement",
+        "More cement and less lime",
+        "More lime and less cement"
+    ],
+    "correctAnswer": "More lime and less cement"
+},
+{
+    "number": 21,
+    "question": "Slenderness ratio of a wall does not depend on:",
+    "options": [
+        "Wall height",
+        "Wall length",
+        "Wall mass",
+        "Wall thickness"
+    ],
+    "correctAnswer": "Wall mass"
+},
+{
+    "number": 22,
+    "question": "Stability problem arises when the slenderness ratio is more than:",
+    "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+    ],
+    "correctAnswer": "30"
+},
+{
+    "number": 23,
+    "question": "In the case of modular bricks, the actual thickness of a brick wall is:",
+    "options": [
+        "18 cm",
+        "19 cm",
+        "20 cm",
+        "21 cm"
+    ],
+    "correctAnswer": "19 cm"
+},
+{
+    "number": 24,
+    "question": "Slenderness ratio is inversely proportional to:",
+    "options": [
+        "Effective height",
+        "Effective thickness",
+        "Effective length",
+        "Effective height and effective thickness"
+    ],
+    "correctAnswer": "Effective height and effective thickness"
+},
+{
+    "number": 1,
+    "question": "The vertical side member of a shutter frame is called –",
+    "options": [
+        "Style",
+        "Reveal",
+        "Mullion",
+        "Post"
+    ],
+    "correctAnswer": "Style"
+},
+{
+    "number": 2,
+    "question": "The type of foundation generally used to support a heavy structure in sandy soil is –",
+    "options": [
+        "Combined footing",
+        "Raft footing",
+        "Pier footing",
+        "Strap footing"
+    ],
+    "correctAnswer": "Pier footing"
+},
+{
+    "number": 3,
+    "question": "The bond in which every course consists of both headers and stretchers is –",
+    "options": [
+        "English bond",
+        "Flemish bond",
+        "Russian bond",
+        "Mixed bond"
+    ],
+    "correctAnswer": "Flemish bond"
+},
+{
+    "number": 4,
+    "question": "A portion of a brick cut to width is called –",
+    "options": [
+        "Closer",
+        "Half-brick",
+        "Bed",
+        "Bat"
+    ],
+    "correctAnswer": "Bat"
+},
+{
+    "number": 5,
+    "question": "The stone having the least crushing strength is –",
+    "options": [
+        "Granite",
+        "Chalk",
+        "Marble",
+        "Slate"
+    ],
+    "correctAnswer": "Chalk"
+},
+{
+    "number": 6,
+    "question": "Expansion joints in masonry walls are provided if length exceeds –",
+    "options": [
+        "10 m",
+        "20 m",
+        "30 m",
+        "40 m"
+    ],
+    "correctAnswer": "40 m"
+},
+{
+    "number": 7,
+    "question": "Local swelling on the surface of finished plaster is called –",
+    "options": [
+        "Cracking",
+        "Dubbing",
+        "Blistering",
+        "Hacking"
+    ],
+    "correctAnswer": "Blistering"
+},
+{
+    "number": 8,
+    "question": "A floor made with 3 mm marble chips is called –",
+    "options": [
+        "Mosaic floor",
+        "Terrazzo floor",
+        "Chips floor",
+        "Marble floor"
+    ],
+    "correctAnswer": "Terrazzo floor"
+},
+{
+    "number": 9,
+    "question": "A temporary rigid structure having platforms to enable masons to work at various stages of a building is called –",
+    "options": [
+        "Scaffolding",
+        "Dead shore",
+        "Raking shore",
+        "Pinning"
+    ],
+    "correctAnswer": "Scaffolding"
+},
+{
+    "number": 10,
+    "question": "Black cotton soil is unsuitable for foundations because of –",
+    "options": [
+        "Low bearing capacity",
+        "Uncertain permeability",
+        "Homogeneous particles",
+        "Large variation due to changes in moisture content"
+    ],
+    "correctAnswer": "Large variation due to changes in moisture content"
+},
+{
+    "number": 11,
+    "question": "The method in which each brick is laid with slight horizontal movement before being pressed into position with the brick hammer is called –",
+    "options": [
+        "Trowelling",
+        "Laying",
+        "Grouting",
+        "Placing"
+    ],
+    "correctAnswer": "Laying"
+},
+{
+    "number": 12,
+    "question": "In Jack Arch flooring, the rise is –",
+    "options": [
+        "1/6th of span",
+        "1/8th of span",
+        "1/10th of span",
+        "1/12th of span"
+    ],
+    "correctAnswer": "1/12th of span"
+},
+{
+    "number": 13,
+    "question": "The outward slope of a verandah (corridor) is –",
+    "options": [
+        "1 in 40",
+        "1 in 50",
+        "1 in 60",
+        "1 in 70"
+    ],
+    "correctAnswer": "1 in 60"
+},
+{
+    "number": 14,
+    "question": "For a factory truss spanning 6 to 9 meters, the suitable type is –",
+    "options": [
+        "Mansard truss",
+        "Queen post truss",
+        "King post truss",
+        "Collar truss"
+    ],
+    "correctAnswer": "King post truss"
+},
+{
+    "number": 15,
+    "question": "A brick laid lengthwise along the wall face is called –",
+    "options": [
+        "Header",
+        "Stretcher",
+        "Closer",
+        "None"
+    ],
+    "correctAnswer": "Stretcher"
+},
+{
+    "number": 16,
+    "question": "The under-surface of an arch is called –",
+    "options": [
+        "Soffit",
+        "Intrados",
+        "Haunch",
+        "Back"
+    ],
+    "correctAnswer": "Soffit"
+},
+{
+    "number": 17,
+    "question": "The crown is –",
+    "options": [
+        "The highest point on the extrados of an arch",
+        "The highest point on the intrados of an arch",
+        "The back of the arch",
+        "None of these"
+    ],
+    "correctAnswer": "The highest point on the extrados of an arch"
+},
+{
+    "number": 18,
+    "question": "A soft pile with low resistance to flow of concrete is –",
+    "options": [
+        "Vibro pile",
+        "Pressure pile",
+        "Franki pile",
+        "Pedestal pile"
+    ],
+    "correctAnswer": "Vibro pile"
+},
+{
+    "number": 19,
+    "question": "The voussoir placed at the crown of an arch is called –",
+    "options": [
+        "Key",
+        "Soffit",
+        "Springer",
+        "Haunch"
+    ],
+    "correctAnswer": "Key"
+},
+{
+    "number": 20,
+    "question": "A brick laid widthwise along the wall face is called –",
+    "options": [
+        "Header",
+        "Stretcher",
+        "Closer",
+        "None"
+    ],
+    "correctAnswer": "Header"
+},
+{
+    "number": 21,
+    "question": "The inclined support at the ends of a stair string is called –",
+    "options": [
+        "Buster",
+        "Header",
+        "String",
+        "Beam"
+    ],
+    "correctAnswer": "String"
+},
+{
+    "number": 22,
+    "question": "Choose the correct statement –",
+    "options": [
+        "Inclined borings are made to collect samples under existing structures",
+        "Inclined borings are sometimes used instead of vertical holes",
+        "The difference between inclined and vertical borings is maintained",
+        "Inclined boring is vertically above the adjacent borehole"
+    ],
+    "correctAnswer": "Inclined boring is vertically above the adjacent borehole"
+},
+{
+    "number": 23,
+    "question": "Pile foundations are suitable for –",
+    "options": [
+        "Water-logged soils",
+        "Soft rocks",
+        "Compact soils",
+        "Multi-storeyed buildings"
+    ],
+    "correctAnswer": "Water-logged soils"
+},
+{
+    "number": 24,
+    "question": "In drilled pile holes, concrete compaction is done by compressed air in case of –",
+    "options": [
+        "Simplex pile",
+        "Franki pile",
+        "Pressure pile",
+        "Vibro pile"
+    ],
+    "correctAnswer": "Franki pile"
+},
+{
+    "number": 25,
+    "question": "The triangular portion between crowns of two adjacent arches is called –",
+    "options": [
+        "Haunch",
+        "Spandril",
+        "Soffit",
+        "Rise"
+    ],
+    "correctAnswer": "Spandril"
+},
+{
+    "number": 26,
+    "question": "In horizontal DPC, thickness of cement concrete (1:2:4) is –",
+    "options": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "8 cm"
+    ],
+    "correctAnswer": "4 cm"
+},
+{
+    "number": 27,
+    "question": "Borma boring is –",
+    "options": [
+        "The most primitive method of boring holes in the ground",
+        "Usually used above water table in cohesive soils",
+        "Used up to 5 m depth",
+        "Most economical up to 5 m depth"
+    ],
+    "correctAnswer": "Most economical up to 5 m depth"
+},
+{
+    "number": 28,
+    "question": "The foundation in which a strap beam connects two footings is called –",
+    "options": [
+        "Strip footing",
+        "Strap footing",
+        "Combined footing",
+        "Raft footing"
+    ],
+    "correctAnswer": "Strap footing"
+},
+{
+    "number": 29,
+    "question": "The offset from the base of wall to the edge of brickwork foundation is limited to –",
+    "options": [
+        "½ horizontal : 1 vertical",
+        "⅔ horizontal : 1 vertical",
+        "1 horizontal : 1 vertical",
+        "2 horizontal : 1 vertical"
+    ],
+    "correctAnswer": "2 horizontal : 1 vertical"
+},
+{
+    "number": 30,
+    "question": "A brick face measuring 9 cm × 9 cm as seen in wall face is generally called –",
+    "options": [
+        "Stretcher",
+        "Face",
+        "Front",
+        "Header"
+    ],
+    "correctAnswer": "Header"
+},
+{
+    "number": 1,
+    "question": "Quicklime reacts rapidly with water to form?",
+    "options": [
+        "Hydraulic Lime",
+        "Slaked Lime",
+        "Hydrated Lime",
+        "Poor Lime"
+    ],
+    "correctAnswer": "Slaked Lime"
+},
+{
+    "number": 2,
+    "question": "The component in lime that retards slaking action and increases hardness of setting is?",
+    "options": [
+        "Sulphate",
+        "Alkalis",
+        "Alumina"
+    ],
+    "correctAnswer": "Sulphate"
+},
+{
+    "number": 3,
+    "question": "For underwater construction, which lime is used?",
+    "options": [
+        "Fat Lime",
+        "Quick Lime",
+        "Slaked Lime",
+        "Hydraulic Lime"
+    ],
+    "correctAnswer": "Hydraulic Lime"
+},
+{
+    "number": 4,
+    "question": "Lime containing almost pure calcium oxide is called?",
+    "options": [
+        "Poor Lime",
+        "Rich Lime",
+        "Hydraulic Lime",
+        "Limestone"
+    ],
+    "correctAnswer": "Rich Lime"
+},
+{
+    "number": 5,
+    "question": "Eminent hydraulic lime contains silica, alumina and iron oxide in what percentage?",
+    "options": [
+        "5–10%",
+        "10–25%",
+        "25–30%",
+        "30–40%"
+    ],
+    "correctAnswer": "25–30%"
+},
+{
+    "number": 6,
+    "question": "Fat lime is—",
+    "options": [
+        "Slakes rapidly with high heat release",
+        "Takes long time to develop strength",
+        "Has high plasticity",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 7,
+    "question": "Fuel commonly used for burning limestone is?",
+    "options": [
+        "Coal",
+        "Charcoal",
+        "Firewood",
+        "Any of the above"
+    ],
+    "correctAnswer": "Any of the above"
+},
+{
+    "number": 8,
+    "question": "Process of adding water to quicklime to convert it into hydrated lime is called?",
+    "options": [
+        "Calcination",
+        "Hydration",
+        "Slaking",
+        "Burning"
+    ],
+    "correctAnswer": "Slaking"
+},
+{
+    "number": 9,
+    "question": "Adding Pozzolana (Surkhi) to lime helps in—",
+    "options": [
+        "Reducing shrinkage",
+        "Increasing resistance to cracking",
+        "Increasing resistance to moisture",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 10,
+    "question": "Lime mortar is prepared from—",
+    "options": [
+        "Quick Lime",
+        "Fat Lime",
+        "Lean Lime",
+        "Hydraulic Lime"
+    ],
+    "correctAnswer": "Hydraulic Lime"
+},
+{
+    "number": 11,
+    "question": "Which is caustic lime?",
+    "options": [
+        "Quick Lime",
+        "Fat Lime",
+        "Milk of Lime",
+        "Hydraulic Lime"
+    ],
+    "correctAnswer": "Quick Lime"
+},
+{
+    "number": 12,
+    "question": "Quicklime obtained directly from kiln is called?",
+    "options": [
+        "Hydrated Lime",
+        "Lump Lime",
+        "Fat Lime",
+        "Raw Limestone"
+    ],
+    "correctAnswer": "Lump Lime"
+},
+{
+    "number": 13,
+    "question": "Which of the following is not used for production of fat lime?",
+    "options": [
+        "Oolitic Limestone",
+        "Calcareous Tuff",
+        "Marble",
+        "Raw Limestone"
+    ],
+    "correctAnswer": "Raw Limestone"
+},
+{
+    "number": 14,
+    "question": "Lime that absorbs CO₂ from atmosphere is—",
+    "options": [
+        "Lean Lime",
+        "Feebly Hydraulic Lime",
+        "Rich Lime",
+        "Fat Lime"
+    ],
+    "correctAnswer": "Lean Lime"
+},
+{
+    "number": 15,
+    "question": "Lime used for finishing plaster is—",
+    "options": [
+        "Semi-hydraulic Lime",
+        "Kankar Lime",
+        "Magnesian Lime",
+        "Eminently Hydraulic Lime"
+    ],
+    "correctAnswer": "Magnesian Lime"
+},
+{
+    "number": 16,
+    "question": "Hydraulic lime is obtained by burning—",
+    "options": [
+        "Oolitic Limestone",
+        "Kankar",
+        "Marble"
+    ],
+    "correctAnswer": "Kankar"
+},
+{
+    "number": 17,
+    "question": "Quicklime is—",
+    "options": [
+        "Calcium Carbonate",
+        "Calcium Oxide",
+        "Pure product immediately after burning",
+        "Lime quickly treated with water"
+    ],
+    "correctAnswer": "Calcium Oxide"
+},
+{
+    "number": 18,
+    "question": "Lime commonly used in whitewashing is—",
+    "options": [
+        "Quick Lime",
+        "Fat Lime",
+        "Lean Lime",
+        "Hydraulic Lime"
+    ],
+    "correctAnswer": "Fat Lime"
+},
+{
+    "number": 19,
+    "question": "Pozzolana in Portland cement provides advantages except—",
+    "options": [
+        "Low heat of hydration",
+        "Increased shrinkage",
+        "Reduced permeability",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 20,
+    "question": "Rate of hydration and hydrolysis of cement depends on—",
+    "options": [
+        "Soundness",
+        "Fineness",
+        "Setting time",
+        "Tensile Strength"
+    ],
+    "correctAnswer": "Fineness"
+},
+{
+    "number": 21,
+    "question": "Expansion of Portland cement is tested by—",
+    "options": [
+        "Fineness Test",
+        "Soundness Test",
+        "Setting Time Test",
+        "Normal Consistency Test"
+    ],
+    "correctAnswer": "Soundness Test"
+},
+{
+    "number": 22,
+    "question": "Specific surface of good Portland cement should not be less than (cm²/gm)?",
+    "options": [
+        "500",
+        "1100",
+        "2250",
+        "3200"
+    ],
+    "correctAnswer": "2250"
+},
+{
+    "number": 23,
+    "question": "Expansion of Portland cement occurs due to—",
+    "options": [
+        "Free Lime",
+        "Magnesia",
+        "Silica",
+        "Both (b) & (c)"
+    ],
+    "correctAnswer": "Magnesia"
+},
+{
+    "number": 24,
+    "question": "Hydrated lime for mortar is prepared for—",
+    "options": [
+        "1 day",
+        "3 days",
+        "7 days",
+        "14 days"
+    ],
+    "correctAnswer": "1 day"
+},
+{
+    "number": 25,
+    "question": "Interval between two coats of lime is—",
+    "options": [
+        "2–3 hours",
+        "24 hours",
+        "3 days",
+        "7 days"
+    ],
+    "correctAnswer": "2–3 hours"
+},
+{
+    "number": 26,
+    "question": "Cementing property of cement is due to—",
+    "options": [
+        "Lime",
+        "Silica",
+        "Iron Oxide",
+        "Alumina"
+    ],
+    "correctAnswer": "Lime"
+},
+{
+    "number": 27,
+    "question": "In good quality cement, the percentage of which compound should be higher?",
+    "options": [
+        "Silica",
+        "Dicalcium Silicate",
+        "Tricalcium Silicate",
+        "Lime"
+    ],
+    "correctAnswer": "Tricalcium Silicate"
+},
+{
+    "number": 28,
+    "question": "Initial setting of cement is due to—",
+    "options": [
+        "Dicalcium Silicate",
+        "Tricalcium Silicate",
+        "Tricalcium Aluminate",
+        "Tetracalcium Aluminoferrite"
+    ],
+    "correctAnswer": "Tricalcium Aluminate"
+},
+{
+    "number": 29,
+    "question": "Fineness of cement is tested by—",
+    "options": [
+        "Air Permeability Method",
+        "Le Chatelier Method",
+        "Vicat Apparatus",
+        "All of the above"
+    ],
+    "correctAnswer": "Air Permeability Method"
+},
+{
+    "number": 30,
+    "question": "Vicat apparatus is used to determine—",
+    "options": [
+        "Initial setting time",
+        "Final setting time",
+        "Normal consistency",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 31,
+    "question": "Expansion joint in Portland cement should not exceed—",
+    "options": [
+        "5 mm",
+        "10 mm",
+        "15 mm",
+        "20 mm"
+    ],
+    "correctAnswer": "10 mm"
+},
+{
+    "number": 32,
+    "question": "Normal consistency of Portland cement is approximately—",
+    "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+    ],
+    "correctAnswer": "25%"
+},
+{
+    "number": 33,
+    "question": "Final setting time of ordinary cement should not be more than—",
+    "options": [
+        "2 hours",
+        "4 hours",
+        "8 hours",
+        "10 hours"
+    ],
+    "correctAnswer": "10 hours"
+},
+{
+    "number": 1,
+    "question": "Dicalcium Silicate (C₂S):",
+    "options": [
+        "Hydrates rapidly",
+        "Produces low heat of hydration",
+        "Hardens quickly",
+        "Has low resistance to sulphate attack"
+    ],
+    "correctAnswer": "Produces low heat of hydration"
+},
+{
+    "number": 2,
+    "question": "Fineness of cement can be determined by sieve analysis using IS sieve No.?",
+    "options": [
+        "20",
+        "10",
+        "9",
+        "6"
+    ],
+    "correctAnswer": "9"
+},
+{
+    "number": 3,
+    "question": "As cement sets and hardens, heat is produced. This is called—",
+    "options": [
+        "Heat of Hydration",
+        "Latent Heat",
+        "Heat of Evaporation",
+        "Sensible Heat"
+    ],
+    "correctAnswer": "Heat of Hydration"
+},
+{
+    "number": 4,
+    "question": "Type of cement used in large dam construction?",
+    "options": [
+        "Blast Furnace Slag Cement",
+        "Low Heat Cement",
+        "Rapid Hardening Cement",
+        "Ordinary Portland Cement"
+    ],
+    "correctAnswer": "Low Heat Cement"
+},
+{
+    "number": 5,
+    "question": "Most important compounds of cement are—",
+    "options": [
+        "C₃A and C₂S",
+        "C₃S and C₃A",
+        "C₃S and C₂S",
+        "C₃A and C₄AF"
+    ],
+    "correctAnswer": "C₃A and C₄AF"
+},
+{
+    "number": 6,
+    "question": "Fineness test of cement helps to estimate—",
+    "options": [
+        "Workability of mortar",
+        "Heat of hydration",
+        "Rate of hydration",
+        "Durability of concrete"
+    ],
+    "correctAnswer": "Rate of hydration"
+},
+{
+    "number": 7,
+    "question": "Percentage of gypsum added in cement manufacture is—",
+    "options": [
+        "0.1–0.5%",
+        "0.5–1%",
+        "1–3%",
+        "3–5%"
+    ],
+    "correctAnswer": "1–3%"
+},
+{
+    "number": 8,
+    "question": "In manufacture of Portland cement, gypsum is added—",
+    "options": [
+        "During mixing",
+        "During burning in rotary kiln",
+        "At beginning of grinding clinker",
+        "At the end of grinding clinker"
+    ],
+    "correctAnswer": "At the end of grinding clinker"
+},
+{
+    "number": 9,
+    "question": "Gypsum used in cement manufacturing acts as—",
+    "options": [
+        "Accelerator",
+        "Air-entraining agent",
+        "Plasticizer",
+        "Retarder"
+    ],
+    "correctAnswer": "Retarder"
+},
+{
+    "number": 10,
+    "question": "Cement type recommended for mass concrete work (like dams)?",
+    "options": [
+        "Ordinary Portland Cement",
+        "Rapid Hardening Portland Cement",
+        "Low Heat Cement",
+        "Blast Furnace Slag Cement"
+    ],
+    "correctAnswer": "Low Heat Cement"
+},
+{
+    "number": 11,
+    "question": "Cement used for repair of large structures (like dams) requiring early strength is—",
+    "options": [
+        "OPC",
+        "Low Heat Cement",
+        "Rapid Hardening Cement",
+        "Sulphate Resisting Cement"
+    ],
+    "correctAnswer": "Rapid Hardening Cement"
+},
+{
+    "number": 12,
+    "question": "Gypsum (Plaster of Paris) is added during cement manufacture to—",
+    "options": [
+        "Increase strength",
+        "Modify colour",
+        "Reduce heat of hydration",
+        "Control setting time"
+    ],
+    "correctAnswer": "Control setting time"
+},
+{
+    "number": 13,
+    "question": "To produce quick setting cement, which is added?",
+    "options": [
+        "Gypsum",
+        "Alum",
+        "Zinc Sulphate",
+        "Aluminium Sulphate"
+    ],
+    "correctAnswer": "Aluminium Sulphate"
+},
+{
+    "number": 14,
+    "question": "High early strength of rapid hardening cement is due to—",
+    "options": [
+        "Higher gypsum content",
+        "Burning at high temperature",
+        "Finer grinding",
+        "Higher C₃S (Tricalcium Silicate) content"
+    ],
+    "correctAnswer": "Higher C₃S (Tricalcium Silicate) content"
+},
+{
+    "number": 15,
+    "question": "High Alumina Cement is manufactured by fusing together—",
+    "options": [
+        "Limestone, Bauxite & Gypsum",
+        "Limestone, Gypsum & Clay",
+        "Limestone, Bauxite, Gypsum & Clay"
+    ],
+    "correctAnswer": "Limestone, Bauxite & Gypsum"
+},
+{
+    "number": 16,
+    "question": "Cement most suitable for marine works?",
+    "options": [
+        "Low Heat Portland Cement",
+        "Rapid Hardening Cement",
+        "OPC",
+        "Blast Furnace Slag Cement"
+    ],
+    "correctAnswer": "Blast Furnace Slag Cement"
+},
+{
+    "number": 17,
+    "question": "Initial setting time of OPC is—",
+    "options": [
+        "10 min",
+        "45 min",
+        "30 min",
+        "60 min"
+    ],
+    "correctAnswer": "30 min"
+},
+{
+    "number": 18,
+    "question": "28-day compressive strength of cement is tested on 70.7 mm mortar cubes with ratio—",
+    "options": [
+        "1:6",
+        "1:3",
+        "1:4"
+    ],
+    "correctAnswer": "1:4"
+},
+{
+    "number": 19,
+    "question": "For 43 grade OPC, the 28-day compressive strength should be—",
+    "options": [
+        "43 MPa",
+        "53 MPa",
+        "43.5 MPa",
+        "33 MPa"
+    ],
+    "correctAnswer": "43 MPa"
+},
+{
+    "number": 20,
+    "question": "Le-Chatelier method is used to test—",
+    "options": [
+        "Aggregates",
+        "Aggregate fineness",
+        "Soundness of Cement",
+        "Compressive strength"
+    ],
+    "correctAnswer": "Soundness of Cement"
+},
+{
+    "number": 21,
+    "question": "Normal consistency test of cement is conducted using—",
+    "options": [
+        "Blaine Apparatus",
+        "Le-Chatelier Apparatus",
+        "Vane Apparatus",
+        "Vicat Apparatus"
+    ],
+    "correctAnswer": "Vicat Apparatus"
+},
+{
+    "number": 22,
+    "question": "If standard consistency of cement is P, the water used for setting time test is—",
+    "options": [
+        "0.65 P",
+        "0.85 P",
+        "0.60 P",
+        "0.78 P"
+    ],
+    "correctAnswer": "0.85 P"
+},
+{
+    "number": 23,
+    "question": "First compound to react (set) in cement is—",
+    "options": [
+        "C₃S",
+        "C₄AF",
+        "C₃A",
+        "C₂S"
+    ],
+    "correctAnswer": "C₃A"
+},
+{
+    "number": 24,
+    "question": "Compound of cement that liberates maximum heat—",
+    "options": [
+        "C₃S",
+        "C₄AF",
+        "C₃A",
+        "C₂S"
+    ],
+    "correctAnswer": "C₃A"
+},
+{
+    "number": 25,
+    "question": "Bulk density of cement (1 bag) is about—",
+    "options": [
+        "1000 kg/m³",
+        "1250 kg/m³",
+        "1440 kg/m³",
+        "1800 kg/m³"
+    ],
+    "correctAnswer": "1440 kg/m³"
+},
+{
+    "number": 26,
+    "question": "To produce low heat cement, which compound is reduced?",
+    "options": [
+        "C₂S",
+        "C₃A",
+        "C₄AF"
+    ],
+    "correctAnswer": "C₃A"
+},
+{
+    "number": 27,
+    "question": "Before setting test, cement must be tested for—",
+    "options": [
+        "Soundness",
+        "Strength",
+        "Fineness",
+        "Consistency"
+    ],
+    "correctAnswer": "Consistency"
+},
+{
+    "number": 28,
+    "question": "Temperature range in cement kiln is—",
+    "options": [
+        "1000–1200 °C",
+        "800–1000 °C",
+        "1200–1500 °C",
+        "1200–1300 °C"
+    ],
+    "correctAnswer": "1200–1300 °C"
+},
+{
+    "number": 29,
+    "question": "Percentage of combined water required for full hydration of cement is about—",
+    "options": [
+        "15%",
+        "23%",
+        "38%",
+        "40%"
+    ],
+    "correctAnswer": "23%"
+},
+{
+    "number": 30,
+    "question": "Percentage of water required to fill voids in cement is about—",
+    "options": [
+        "13%",
+        "15%",
+        "18%",
+        "23%"
+    ],
+    "correctAnswer": "15%"
+},
+{
+    "number": 31,
+    "question": "For full hydration of cement, required w/c ratio is—",
+    "options": [
+        "< 0.25",
+        "0.25–0.35",
+        "0.35–0.45",
+        "0.45–0.65"
+    ],
+    "correctAnswer": "0.35–0.45"
+},
+{
+    "number": 32,
+    "question": "Volume of one bag of cement is—",
+    "options": [
+        "0.0214 m³",
+        "0.0434 m³",
+        "0.0609 m³",
+        "0.0347 m³"
+    ],
+    "correctAnswer": "0.0347 m³"
+},
+{
+    "number": 1,
+    "question": "For an RCC slab, the concrete slump should be:",
+    "options": [
+        "0–25 mm",
+        "25–50 mm",
+        "75–100 mm",
+        "50–125 mm"
+    ],
+    "correctAnswer": "75–100 mm"
+},
+{
+    "number": 2,
+    "question": "Heaviest metal is:",
+    "options": [
+        "Steel",
+        "Lead",
+        "Tin",
+        "Pig Iron"
+    ],
+    "correctAnswer": "Lead"
+},
+{
+    "number": 3,
+    "question": "Which of the following does not react with concrete?",
+    "options": [
+        "Sewage water",
+        "Sulphuric acid",
+        "Vegetable oil",
+        "Alcohol"
+    ],
+    "correctAnswer": "Alcohol"
+},
+{
+    "number": 4,
+    "question": "Correct statement about lime types:",
+    "options": [
+        "Fat lime contains hardly 5% clay",
+        "Hydraulic lime contains 5–30% clay",
+        "Poor lime contains more than 30% clay",
+        "All of the above"
+    ],
+    "correctAnswer": "Fat lime contains hardly 5% clay"
+},
+{
+    "number": 5,
+    "question": "Initial temperature of concrete:",
+    "options": [
+        "–100°C",
+        "–40°C",
+        "100°C",
+        "40°C"
+    ],
+    "correctAnswer": "100°C"
+},
+{
+    "number": 6,
+    "question": "Fuel commonly used to burn lime stone:",
+    "options": [
+        "Firewood",
+        "Coal",
+        "Charcoal",
+        "Any of the above"
+    ],
+    "correctAnswer": "Firewood"
+},
+{
+    "number": 7,
+    "question": "Compound responsible for initial setting of cement:",
+    "options": [
+        "Tricalcium Aluminate",
+        "Tricalcium Silicate",
+        "Dicalcium Silicate",
+        "Tetracalcium Aluminoferrite"
+    ],
+    "correctAnswer": "Tricalcium Aluminate"
+},
+{
+    "number": 8,
+    "question": "Approximate dry cement mortar required for brickwork:",
+    "options": [
+        "60%",
+        "45%",
+        "30%",
+        "1%"
+    ],
+    "correctAnswer": "30%"
+},
+{
+    "number": 9,
+    "question": "Lime-cement mortar is also called:",
+    "options": [
+        "Mortar",
+        "Gar-gated mortar",
+        "Both (a) & (b)",
+        "Lime mortar",
+        "None"
+    ],
+    "correctAnswer": "Both (a) & (b)"
+},
+{
+    "number": 10,
+    "question": "Type of cement used:",
+    "options": [
+        "Ordinary Portland Cement",
+        "Rapid Hardening Cement",
+        "Sulphate Resisting Portland Cement",
+        "Low Heat Cement"
+    ],
+    "correctAnswer": "Sulphate Resisting Portland Cement"
+},
+{
+    "number": 11,
+    "question": "Why lime is added in cement mortar:",
+    "options": [
+        "To increase setting time",
+        "To increase workability",
+        "To make it economical",
+        "All of these"
+    ],
+    "correctAnswer": "To increase workability"
+},
+{
+    "number": 12,
+    "question": "Major disadvantage of using lime mortar:",
+    "options": [
+        "Sets slowly",
+        "Fragrant",
+        "Uneven",
+        "Unsound"
+    ],
+    "correctAnswer": "Sets slowly"
+},
+{
+    "number": 13,
+    "question": "Lime mortar is usually made of:",
+    "options": [
+        "Pure lime",
+        "Slaked lime",
+        "Hydraulic lime",
+        "Air-hardening lime",
+        "Both (c) & (d)"
+    ],
+    "correctAnswer": "Both (c) & (d)"
+},
+{
+    "number": 14,
+    "question": "Mortar after gauging should be used within:",
+    "options": [
+        "15 min",
+        "30–60 min",
+        "1–2 hours",
+        "3–6 hours"
+    ],
+    "correctAnswer": "1–2 hours"
+},
+{
+    "number": 15,
+    "question": "Composition of gauged mortar:",
+    "options": [
+        "Stone dust, sand, lime",
+        "Lime, cement, sand",
+        "Surkhi, lime, cement",
+        "Sand, fly ash, cement"
+    ],
+    "correctAnswer": "Lime, cement, sand"
+},
+{
+    "number": 16,
+    "question": "Lime mortar mixture:",
+    "options": [
+        "Lime, cement, water",
+        "Cement, sand, water",
+        "Hydraulic lime, sand, water",
+        "Air-hardening lime, sand, turpentine"
+    ],
+    "correctAnswer": "Hydraulic lime, sand, water"
+},
+{
+    "number": 17,
+    "question": "Building mortars are classified into grades based on compressive strength:",
+    "options": [
+        "4 grade",
+        "6 grade",
+        "7 grade",
+        "9 grade"
+    ],
+    "correctAnswer": "9 grade"
+},
+{
+    "number": 18,
+    "question": "Mortar for damp-proof courses and cement concrete roads:",
+    "options": [
+        "Lime mortar (1:2)",
+        "Lime mortar (1:3)",
+        "Cement mortar (1:2)",
+        "Lime-cinder mortar (1:4)"
+    ],
+    "correctAnswer": "Cement mortar (1:2)"
+},
+{
+    "number": 19,
+    "question": "Consumption of lime mortar after preparation:",
+    "options": [
+        "2 days",
+        "14 days",
+        "36 days",
+        "36 hours"
+    ],
+    "correctAnswer": "36 hours"
+},
+{
+    "number": 20,
+    "question": "X-ray protection mortar is a light mortar with bulk density less than 1500 kg/m³:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 21,
+    "question": "Small quantity of lime mortar is prepared by:",
+    "options": [
+        "Grinding",
+        "Grilling",
+        "Pounding",
+        "Excavation"
+    ],
+    "correctAnswer": "Pounding"
+},
+{
+    "number": 22,
+    "question": "Property not required for packing mortar used in oil wells:",
+    "options": [
+        "Must be water resistant",
+        "Must have low uniformity",
+        "Must resist water pressure",
+        "Must form solid waterproof plug in rock voids"
+    ],
+    "correctAnswer": "Must have low uniformity"
+},
+{
+    "number": 23,
+    "question": "Refractory mortar is obtained by addition of:",
+    "options": [
+        "Silica",
+        "Sodium silicate",
+        "Aluminium cement",
+        "Caustic soda"
+    ],
+    "correctAnswer": "Aluminium cement"
+},
+{
+    "number": 24,
+    "question": "Process of adding cement to improve quality of lime mortar is called:",
+    "options": [
+        "Gaging",
+        "Piling",
+        "Slagging",
+        "Re-bonding"
+    ],
+    "correctAnswer": "Gaging"
+},
+{
+    "number": 25,
+    "question": "Bulk density of heavy mortar is more than:",
+    "options": [
+        "500 kg/m³",
+        "1000 kg/m³",
+        "1500 kg/m³",
+        "2500 kg/m³"
+    ],
+    "correctAnswer": "1500 kg/m³"
+},
+{
+    "number": 26,
+    "question": "Colour of sea sand:",
+    "options": [
+        "Blue",
+        "Light brown",
+        "Black",
+        "Red"
+    ],
+    "correctAnswer": "Light brown"
+},
+{
+    "number": 27,
+    "question": "Based on grain size, sand is classified into coarse, fine, and gravelly:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "True"
+},
+{
+    "number": 28,
+    "question": "Increase in sand volume due to moisture is called:",
+    "options": [
+        "Bulking",
+        "Normalization",
+        "Shrinkage",
+        "Titrating"
+    ],
+    "correctAnswer": "Bulking"
+},
+{
+    "number": 29,
+    "question": "Colour of river sand:",
+    "options": [
+        "Black",
+        "Brown",
+        "Grey",
+        "White"
+    ],
+    "correctAnswer": "White"
+},
+{
+    "number": 1,
+    "question": "Lime mortar should be used after how long of its preparation?",
+    "options": [
+        "2 days",
+        "14 days",
+        "36 days",
+        "36 hours"
+    ],
+    "correctAnswer": "36 hours"
+},
+{
+    "number": 2,
+    "question": "How many types of brick masonry are possible?",
+    "options": [
+        "4",
+        "2",
+        "5",
+        "6"
+    ],
+    "correctAnswer": "4"
+},
+{
+    "number": 3,
+    "question": "Which of the following should NOT be followed in stone masonry construction?",
+    "options": [
+        "Header stones are dumbbell-shaped.",
+        "Proper curing for 2–3 weeks.",
+        "Construction should be raised evenly.",
+        "Wet stones are used."
+    ],
+    "correctAnswer": "Header stones are dumbbell-shaped."
+},
+{
+    "number": 4,
+    "question": "Laying which type of masonry requires great skill and efficient labor?",
+    "options": [
+        "Rubble masonry",
+        "Ashlar fine masonry",
+        "Ashlar masonry",
+        "Dry rubble masonry"
+    ],
+    "correctAnswer": "Dry rubble masonry"
+},
+{
+    "number": 5,
+    "question": "Masonry lies in an intermediate position between rubble and ashlar masonry. Which of the following describes it?",
+    "options": [
+        "Course with rubble sections",
+        "Course with ashlar rubble",
+        "Course with ashlar blocks",
+        "Course with definite rubble columns"
+    ],
+    "correctAnswer": "Course with ashlar blocks"
+},
+{
+    "number": 6,
+    "question": "Ashlar masonry uses:",
+    "options": [
+        "Dimension stones",
+        "Polygonal stones",
+        "Quarry-dressed stones",
+        "Square stones"
+    ],
+    "correctAnswer": "Dimension stones"
+},
+{
+    "number": 7,
+    "question": "What cement mortar ratio is used for stone masonry?",
+    "options": [
+        "1:6",
+        "1:3",
+        "1:8",
+        "1:4"
+    ],
+    "correctAnswer": "1:3"
+},
+{
+    "number": 8,
+    "question": "Which type of joint is used in arch masonry?",
+    "options": [
+        "Butt joint",
+        "Table joint",
+        "Rebate joint",
+        "Dowel joint"
+    ],
+    "correctAnswer": "Rebate joint"
+},
+{
+    "number": 9,
+    "question": "Nodules of which material are found in flint stone rubble?",
+    "options": [
+        "Fly ash nodules",
+        "Feldspar nodules",
+        "Mica nodules",
+        "Silica nodules"
+    ],
+    "correctAnswer": "Silica nodules"
+},
+{
+    "number": 10,
+    "question": "In random rubble masonry, the face stones are:",
+    "options": [
+        "Chisel-dressed",
+        "Hammer-dressed",
+        "Axe-dressed",
+        "Plain"
+    ],
+    "correctAnswer": "Chisel-dressed"
+},
+{
+    "number": 11,
+    "question": "Rubble masonry is divided into how many types?",
+    "options": [
+        "4",
+        "2",
+        "6",
+        "10"
+    ],
+    "correctAnswer": "6"
+},
+{
+    "number": 12,
+    "question": "Which stone is used in buildings located in industrial towns?",
+    "options": [
+        "Marble slab",
+        "Compact sandstone",
+        "Gneiss",
+        "Slate"
+    ],
+    "correctAnswer": "Compact sandstone"
+},
+{
+    "number": 13,
+    "question": "Which mortar can be used underwater?",
+    "options": [
+        "Hydraulic",
+        "Pozzolana",
+        "Lime",
+        "Fly ash"
+    ],
+    "correctAnswer": "Pozzolana"
+},
+{
+    "number": 14,
+    "question": "Which material increases the setting speed of mortar?",
+    "options": [
+        "Lime",
+        "Sulphur",
+        "Pozzolana",
+        "Gypsum"
+    ],
+    "correctAnswer": "Lime"
+},
+{
+    "number": 15,
+    "question": "Which is added to mortar to make it fireproof?",
+    "options": [
+        "Gypsum",
+        "Asbestos cement",
+        "Powdered glass",
+        "Alumina cement"
+    ],
+    "correctAnswer": "Alumina cement"
+},
+{
+    "number": 16,
+    "question": "Bulk density of X-ray protective mortar is:",
+    "options": [
+        "6–12 kN/m³",
+        "5 kN/m³ and above",
+        "22 kN/m³ and above",
+        "10–20 kN/m³"
+    ],
+    "correctAnswer": "22 kN/m³ and above"
+},
+{
+    "number": 17,
+    "question": "Packing mortar is used for:",
+    "options": [
+        "Oil wells",
+        "Retaining walls",
+        "Bricks",
+        "Cracks in masonry"
+    ],
+    "correctAnswer": "Oil wells"
+},
+{
+    "number": 18,
+    "question": "Lightweight mortar is prepared using:",
+    "options": [
+        "Lime",
+        "Surkhi",
+        "Wood chips",
+        "Fly ash"
+    ],
+    "correctAnswer": "Wood chips"
+},
+{
+    "number": 19,
+    "question": "IS standard followed for mortar preparation is:",
+    "options": [
+        "IS 4455",
+        "IS 2250-1981",
+        "IS 3350-1981",
+        "IS 5567"
+    ],
+    "correctAnswer": "IS 2250-1981"
+},
+{
+    "number": 20,
+    "question": "Mortar ratio used for works is:",
+    "options": [
+        "1:3–1:4",
+        "1:2–1:3",
+        "1:7–1:8",
+        "1:5–1:6"
+    ],
+    "correctAnswer": "1:2–1:3"
+},
+{
+    "number": 21,
+    "question": "MM 1.5 means:",
+    "options": [
+        "1.5 bags of cement in masonry mortar",
+        "1.5 bags of cement in light mortar",
+        "Compressive strength of 1.5 N/mm² in masonry mortar",
+        "Compressive strength of 1.5 N/mm² in light mortar"
+    ],
+    "correctAnswer": "Compressive strength of 1.5 N/mm² in masonry mortar"
+},
+{
+    "number": 22,
+    "question": "Primary use of cement mortar (PCM) is:",
+    "options": [
+        "Repairing concrete structures",
+        "Stone masonry",
+        "Tile masonry",
+        "Brick masonry"
+    ],
+    "correctAnswer": "Repairing concrete structures"
+},
+{
+    "number": 23,
+    "question": "The first used mortar was:",
+    "options": [
+        "Lime mortar",
+        "Mud mortar",
+        "Cement",
+        "Organic mortar"
+    ],
+    "correctAnswer": "Mud mortar"
+},
+{
+    "number": 24,
+    "question": "The word “mortar” is derived from Latin:",
+    "options": [
+        "Mortarium",
+        "Mortar",
+        "Mortorium",
+        "Mortorim"
+    ],
+    "correctAnswer": "Mortorim"
+},
+{
+    "number": 1,
+    "question": "Which of the following is a tool used in masonry?",
+    "options": [
+        "Plumb bob",
+        "Saw",
+        "Bending lever",
+        "Bonding hook"
+    ],
+    "correctAnswer": "Plumb bob"
+},
+{
+    "number": 2,
+    "question": "Identify the tool:",
+    "options": [
+        "Straight edge",
+        "Spirit level",
+        "Spade",
+        "Plumb bob"
+    ],
+    "correctAnswer": "Straight edge"
+},
+{
+    "number": 3,
+    "question": "Before masonry, the surface is wetted for better quality with:",
+    "options": [
+        "Potable water",
+        "Mortar",
+        "Lime water",
+        "None of these"
+    ],
+    "correctAnswer": "Lime water"
+},
+{
+    "number": 4,
+    "question": "Why is the surface wetted before brickwork?",
+    "options": [
+        "To prevent absorption of water from mortar by the ground",
+        "To clean the surface",
+        "To spread mortar easily",
+        "To gain strength"
+    ],
+    "correctAnswer": "To prevent absorption of water from mortar by the ground"
+},
+{
+    "number": 5,
+    "question": "How do you prepare the surface before masonry?",
+    "options": [
+        "Remove debris",
+        "Clean with wire brush",
+        "Remove loose concrete",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 6,
+    "question": "Level transfer is done with the help of:",
+    "options": [
+        "Water level pipe",
+        "Plumb bob",
+        "Spirit level",
+        "Straight edge"
+    ],
+    "correctAnswer": "Water level pipe"
+},
+{
+    "number": 7,
+    "question": "Identify the level-checking tool:",
+    "options": [
+        "Spirit level",
+        "Straight edge",
+        "Water level pipe",
+        "All of the above"
+    ],
+    "correctAnswer": "Spirit level"
+},
+{
+    "number": 8,
+    "question": "Why should the brick level be checked in each course?",
+    "options": [
+        "For proper thickness of masonry",
+        "For proper level",
+        "For proper vertical alignment",
+        "For good appearance"
+    ],
+    "correctAnswer": "For proper level"
+},
+{
+    "number": 9,
+    "question": "Which quality of sand should be used in brick masonry?",
+    "options": [
+        "Well-graded",
+        "Coarse sand",
+        "Fine sand",
+        "Any of these"
+    ],
+    "correctAnswer": "Fine sand"
+},
+{
+    "number": 10,
+    "question": "Why are bricks soaked in water before laying?",
+    "options": [
+        "So they do not absorb water from mortar",
+        "To gain more strength",
+        "To improve durability",
+        "To look better"
+    ],
+    "correctAnswer": "So they do not absorb water from mortar"
+},
+{
+    "number": 11,
+    "question": "In which condition should a brick be cut using a mason’s trowel?",
+    "options": [
+        "When the brick is soft",
+        "When the brick is hard",
+        "When the brick is large"
+    ],
+    "correctAnswer": "When the brick is large"
+},
+{
+    "number": 12,
+    "question": "Horizontal alignment in masonry is checked by:",
+    "options": [
+        "Mason’s line",
+        "Straight edge",
+        "Plumb bob",
+        "Spirit level"
+    ],
+    "correctAnswer": "Spirit level"
+},
+{
+    "number": 13,
+    "question": "Vertical alignment in masonry is checked with:",
+    "options": [
+        "Plumb bob",
+        "Mason’s line",
+        "Spirit level",
+        "Straight edge"
+    ],
+    "correctAnswer": "Plumb bob"
+},
+{
+    "number": 14,
+    "question": "Identify the working action shown in the picture:",
+    "options": [
+        "Checking vertical alignment",
+        "Checking level",
+        "Checking horizontal alignment",
+        "None of these"
+    ],
+    "correctAnswer": "Checking level"
+},
+{
+    "number": 15,
+    "question": "Why is curing important for brick masonry?",
+    "options": [
+        "To maintain water–cement ratio",
+        "To maintain strength",
+        "To maintain cement bonding",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 16,
+    "question": "When should curing be done in masonry?",
+    "options": [
+        "At each stage where cement is used",
+        "After masonry dries",
+        "After work completion",
+        "After 3 days"
+    ],
+    "correctAnswer": "At each stage where cement is used"
+},
+{
+    "number": 17,
+    "question": "Masonry levels are checked with:",
+    "options": [
+        "Spirit level in every course",
+        "Plumb bob in every course",
+        "Mason’s line in every course",
+        "All of the above"
+    ],
+    "correctAnswer": "Spirit level in every course"
+},
+{
+    "number": 18,
+    "question": "Vertical alignment in masonry is checked with the help of:",
+    "options": [
+        "Plumb bob",
+        "Spirit level",
+        "Thread",
+        "Straight edge"
+    ],
+    "correctAnswer": "Plumb bob"
+},
+{
+    "number": 19,
+    "question": "Horizontal lines are checked with:",
+    "options": [
+        "Mason’s line",
+        "Spirit level",
+        "Plumb bob",
+        "None of these"
+    ],
+    "correctAnswer": "Mason’s line"
+},
+{
+    "number": 20,
+    "question": "A straight edge is also used for checking:",
+    "options": [
+        "Line alignment",
+        "Roughness",
+        "Wall length",
+        "None of these"
+    ],
+    "correctAnswer": "Roughness"
+},
+{
+    "number": 21,
+    "question": "A straight edge is generally made of:",
+    "options": [
+        "Aluminium",
+        "Copper",
+        "Steel",
+        "Steel–aluminium alloy"
+    ],
+    "correctAnswer": "Aluminium"
+},
+{
+    "number": 22,
+    "question": "Identify the tool in the picture:",
+    "options": [
+        "Tri-square",
+        "Right angle",
+        "90° angle",
+        "All of the above"
+    ],
+    "correctAnswer": "Tri-square"
+},
+{
+    "number": 23,
+    "question": "The main use of a tri-square is:",
+    "options": [
+        "To check right angles at corners",
+        "To mark 45° angles",
+        "To mark 180° lines",
+        "To mark 30° angles"
+    ],
+    "correctAnswer": "To check right angles at corners"
+},
+{
+    "number": 24,
+    "question": "Why is proper alignment important in masonry for stairs?",
+    "options": [
+        "To avoid problems during railing fixing",
+        "To avoid problems during steel fixing",
+        "To avoid problems during concreting",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 25,
+    "question": "What is dampness in masonry?",
+    "options": [
+        "Groundwater at base",
+        "Water seepage",
+        "Swelling",
+        "None of these"
+    ],
+    "correctAnswer": "Water seepage"
+},
+{
+    "number": 26,
+    "question": "How do you reinstall a brick/block piece into masonry?",
+    "options": [
+        "Clean the part, wet it with water, and fix with rich cement mortar",
+        "Clean the part, wet with water, and fix with rich lime mortar",
+        "Both A & B",
+        "None of these"
+    ],
+    "correctAnswer": "Clean the part, wet it with water, and fix with rich cement mortar"
+},
+{
+    "number": 27,
+    "question": "What precaution should be taken while repairing an old surface?",
+    "options": [
+        "Loose particles and dust should be cleaned",
+        "Surface should be properly dry",
+        "Only loose particles should be cleaned",
+        "None of these"
+    ],
+    "correctAnswer": "Loose particles and dust should be cleaned"
+},
+{
+    "number": 28,
+    "question": "What is the first step before plastering?",
+    "options": [
+        "Read the drawing",
+        "Arrange labour",
+        "Repair brick masonry",
+        "Take work permit"
+    ],
+    "correctAnswer": "Repair brick masonry"
+},
+{
+    "number": 29,
+    "question": "Tools used in plastering include:",
+    "options": [
+        "Spirit level",
+        "Jointer",
+        "Mason’s trowel",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 30,
+    "question": "Tri-square is used in plastering to check:",
+    "options": [
+        "Right angle at corners",
+        "Thickness of plaster",
+        "Sand particles",
+        "None of these"
+    ],
+    "correctAnswer": "Right angle at corners"
+},
+{
+    "number": 1,
+    "question": "Ordinary concrete can be made waterproof by adding:",
+    "options": [
+        "Pudlo",
+        "Impermo",
+        "Snosem",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 2,
+    "question": "The opening given parallel to the roof surface in a sloping roof is called:",
+    "options": [
+        "Dormer window",
+        "Skylight window",
+        "Lantern window",
+        "Louvered window"
+    ],
+    "correctAnswer": "Skylight window"
+},
+{
+    "number": 3,
+    "question": "Mortar in which both cement and lime are used as binding materials is called:",
+    "options": [
+        "Cement mortar",
+        "Lime mortar",
+        "Fire-resistant mortar",
+        "Grounded mortar"
+    ],
+    "correctAnswer": "Grounded mortar"
+},
+{
+    "number": 4,
+    "question": "To stagger vertical joints in consecutive courses of a wall, a piece of brick used at the end of a course is called:",
+    "options": [
+        "Bat",
+        "Header",
+        "Stretcher",
+        "Closer"
+    ],
+    "correctAnswer": "Closer"
+},
+{
+    "number": 5,
+    "question": "Vertical sides of a door or window opening in a wall are called:",
+    "options": [
+        "Work area",
+        "Reveal",
+        "Jamb",
+        "None of these"
+    ],
+    "correctAnswer": "Jamb"
+},
+{
+    "number": 6,
+    "question": "Type of ashlar masonry with finely chiselled stones and joint thickness not exceeding 3 mm:",
+    "options": [
+        "Chamfered ashlar masonry",
+        "Facing ashlar masonry",
+        "Random polygonal ashlar masonry",
+        "Ashlar masonry"
+    ],
+    "correctAnswer": "Ashlar masonry"
+},
+{
+    "number": 7,
+    "question": "Height of a building is measured:",
+    "options": [
+        "Between roof and ground level",
+        "Between roof and floor level",
+        "Roof above ground level",
+        "Ground to roof"
+    ],
+    "correctAnswer": "Between roof and floor level"
+},
+{
+    "number": 8,
+    "question": "Highest line of a sloping roof where two opposite slopes meet is called:",
+    "options": [
+        "Hip",
+        "Ridge",
+        "Crown",
+        "Eave"
+    ],
+    "correctAnswer": "Ridge"
+},
+{
+    "number": 9,
+    "question": "Recommended slope for a flat RCC roof is:",
+    "options": [
+        "Zero",
+        "Few degrees",
+        "10°",
+        "20°"
+    ],
+    "correctAnswer": "Few degrees"
+},
+{
+    "number": 10,
+    "question": "Lower edge of a pitched roof from where rainwater falls off is called:",
+    "options": [
+        "Hip",
+        "Gable",
+        "Ridge",
+        "Eaves"
+    ],
+    "correctAnswer": "Eaves"
+},
+{
+    "number": 11,
+    "question": "Arches with more than four centers in masonry are called:",
+    "options": [
+        "Two-centered arches",
+        "Gothic arches",
+        "Ogee arches",
+        "Drop Gothic arches"
+    ],
+    "correctAnswer": "Ogee arches"
+},
+{
+    "number": 12,
+    "question": "Line of intersection of two surfaces of a sloping roof forming an internal angle less than 180° is called:",
+    "options": [
+        "Ridge",
+        "Hip",
+        "Valley",
+        "None of these"
+    ],
+    "correctAnswer": "Valley"
+},
+{
+    "number": 13,
+    "question": "Stone with maximum crushing strength is:",
+    "options": [
+        "Granite",
+        "Chalk",
+        "Slate",
+        "Sandstone"
+    ],
+    "correctAnswer": "Granite"
+},
+{
+    "number": 14,
+    "question": "Brick-nogging type partition wall is constructed by:",
+    "options": [
+        "Laying bricks as stretchers in cement mortar",
+        "Laying bricks as headers in cement mortar",
+        "Reinforcing brick wall with iron strips",
+        "Brickwork within a wooden framework"
+    ],
+    "correctAnswer": "Brickwork within a wooden framework"
+},
+{
+    "number": 15,
+    "question": "Depth of lean concrete bed at the base of a wall is:",
+    "options": [
+        "10 cm",
+        "15 cm",
+        "Equal to the projection of the wall foundation",
+        "Less than the projection of the wall foundation"
+    ],
+    "correctAnswer": "Equal to the projection of the wall foundation"
+},
+{
+    "number": 16,
+    "question": "Construction joints in buildings are generally provided after:",
+    "options": [
+        "10 m",
+        "15 m",
+        "20 m",
+        "40 m"
+    ],
+    "correctAnswer": "40 m"
+},
+{
+    "number": 17,
+    "question": "A piece of brick cut at the width’s center to match the full length of a brick is called:",
+    "options": [
+        "Half brick",
+        "Queen closer",
+        "King closer",
+        "Bevelled closer"
+    ],
+    "correctAnswer": "Queen closer"
+},
+{
+    "number": 18,
+    "question": "Type of arch used in high-class buildings where appearance is important is called:",
+    "options": [
+        "Ashlar arch",
+        "Rubble arch",
+        "Gauged brick arch",
+        "Excised brick arch"
+    ],
+    "correctAnswer": "Ashlar arch"
+},
+{
+    "number": 19,
+    "question": "A 19 cm × 9 cm side of a brick as seen in a wall face is called:",
+    "options": [
+        "Stretcher",
+        "Face",
+        "Front",
+        "Header"
+    ],
+    "correctAnswer": "Stretcher"
+},
+{
+    "number": 20,
+    "question": "Typical thickness of a reinforced brick partition wall is:",
+    "options": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
+    ],
+    "correctAnswer": "10 cm"
+},
+{
+    "number": 21,
+    "question": "Stone masonry laid in fine stones in cement or lime is:",
+    "options": [
+        "Random rubble masonry",
+        "Coursed rubble masonry",
+        "Dry rubble masonry",
+        "Ashlar masonry"
+    ],
+    "correctAnswer": "Ashlar masonry"
+},
+{
+    "number": 22,
+    "question": "Cement-sand mortar ratio for plastering exposed brick walls should be:",
+    "options": [
+        "1:2",
+        "1:3",
+        "1:4",
+        "1:6"
+    ],
+    "correctAnswer": "1:4"
+},
+{
+    "number": 23,
+    "question": "Steps used to change the direction of stairs are called:",
+    "options": [
+        "Round steps",
+        "Angular steps",
+        "Winders",
+        "Radial steps"
+    ],
+    "correctAnswer": "Winders"
+},
+{
+    "number": 24,
+    "question": "In arch construction, the sand-box method is used for:",
+    "options": [
+        "Centering",
+        "Actual laying of arch work",
+        "Striking the centering",
+        "None of the above"
+    ],
+    "correctAnswer": "Striking the centering"
+},
+{
+    "number": 25,
+    "question": "Foundation is placed below ground level for:",
+    "options": [
+        "Strength",
+        "Workability",
+        "Structural stability",
+        "All of the above"
+    ],
+    "correctAnswer": "Structural stability"
+},
+{
+    "number": 26,
+    "question": "Bond type in brickwork where alternate courses of stretcher and header are used:",
+    "options": [
+        "Flemish bond",
+        "English bond",
+        "Stretcher bond",
+        "Header bond"
+    ],
+    "correctAnswer": "English bond"
+},
+{
+    "number": 27,
+    "question": "Width of hollow space between two walls of cavity wall should not exceed:",
+    "options": [
+        "5 cm",
+        "7.5 cm",
+        "10 cm",
+        "15 cm"
+    ],
+    "correctAnswer": "10 cm"
+},
+{
+    "number": 28,
+    "question": "Type of stone masonry in which stones of uniform height are laid in courses is:",
+    "options": [
+        "Random rubble masonry",
+        "Coursed rubble masonry",
+        "Uncoursed masonry",
+        "Ashlar masonry"
+    ],
+    "correctAnswer": "Coursed rubble masonry"
+},
+{
+    "number": 29,
+    "question": "Concrete is used for constructing walls and roofs for:",
+    "options": [
+        "Heat-proof",
+        "Sound-proof",
+        "Neither (a) nor (b)",
+        "Both (a) and (b)"
+    ],
+    "correctAnswer": "Both (a) and (b)"
+},
+{
+    "number": 30,
+    "question": "Depth of concrete bed of foundation depends on:",
+    "options": [
+        "Projection of concrete block above it",
+        "Soil pressure above it",
+        "Concrete mix",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 1,
+    "question": "The depth of excavation is usually measured using:",
+    "options": [
+        "Ranging rod",
+        "Steel tape",
+        "Leveling staff",
+        "Boning rod"
+    ],
+    "correctAnswer": "Boning rod"
+},
+{
+    "number": 2,
+    "question": "A 9 cm × 9 cm side of a brick as seen on the wall face is called:",
+    "options": [
+        "Stretcher",
+        "Face",
+        "Front",
+        "Header"
+    ],
+    "correctAnswer": "Header"
+},
+{
+    "number": 3,
+    "question": "The projection limit from the foundation wall to the outer end for brickwork is:",
+    "options": [
+        "1/2 horizontal to 1 vertical",
+        "2/3 horizontal to 1 vertical",
+        "1 horizontal to 1 vertical",
+        "2 horizontal to 1 vertical"
+    ],
+    "correctAnswer": "1 horizontal to 1 vertical"
+},
+{
+    "number": 4,
+    "question": "Exposed vertical parts at right angles on a door or window frame are called:",
+    "options": [
+        "Jamb",
+        "Lintels",
+        "Reveal",
+        "Soffits"
+    ],
+    "correctAnswer": "Reveal"
+},
+{
+    "number": 5,
+    "question": "Projections at the head of a door or window frame are called:",
+    "options": [
+        "Transoms",
+        "Horns",
+        "Stops",
+        "Choke"
+    ],
+    "correctAnswer": "Horns"
+},
+{
+    "number": 6,
+    "question": "The line of intersection of sloping roof surfaces with an external angle greater than 180° is called:",
+    "options": [
+        "Ridge",
+        "Hip",
+        "Valley",
+        "None of these"
+    ],
+    "correctAnswer": "Ridge"
+},
+{
+    "number": 7,
+    "question": "Distance between the depth of an arch:",
+    "options": [
+        "Ground level and springing line",
+        "Crown and springing line",
+        "Crown and ground level",
+        "Intrados and extrados"
+    ],
+    "correctAnswer": "Intrados and extrados"
+},
+{
+    "number": 8,
+    "question": "In brick walls, expansion joints are made greater than nominal thickness by:",
+    "options": [
+        "5 mm",
+        "10 mm",
+        "15 mm",
+        "20 mm"
+    ],
+    "correctAnswer": "20 mm"
+},
+{
+    "number": 9,
+    "question": "Precast concrete beams should not exceed:",
+    "options": [
+        "1 cm per meter length",
+        "2 cm per meter length",
+        "4 cm per meter length",
+        "5 cm per meter length"
+    ],
+    "correctAnswer": "2 cm per meter length"
+},
+{
+    "number": 10,
+    "question": "In multistorey buildings, the first forms removed are those of:",
+    "options": [
+        "Beams and girders",
+        "Column forms",
+        "Bottom beams and girders",
+        "All above simultaneously"
+    ],
+    "correctAnswer": "Beams and girders"
+},
+{
+    "number": 11,
+    "question": "If a building’s first-floor height is 3.2 m and riser is 13 cm, the required number of steps is:",
+    "options": [
+        "12",
+        "18",
+        "24",
+        "25"
+    ],
+    "correctAnswer": "24"
+},
+{
+    "number": 12,
+    "question": "Dado is generally provided in:",
+    "options": [
+        "Dining hall",
+        "Bathroom",
+        "Living room",
+        "Verandah"
+    ],
+    "correctAnswer": "Bathroom"
+},
+{
+    "number": 13,
+    "question": "A roof sloping in four directions is called:",
+    "options": [
+        "Shed roof",
+        "Gable end roof",
+        "Hipped roof",
+        "Gambrel roof"
+    ],
+    "correctAnswer": "Hipped roof"
+},
+{
+    "number": 14,
+    "question": "External angle between outer faces of a wall is called:",
+    "options": [
+        "Turn",
+        "Junction",
+        "Quoin",
+        "All of the above"
+    ],
+    "correctAnswer": "Quoin"
+},
+{
+    "number": 15,
+    "question": "Minimum thickness of walls in a single-storey building constructed with 1:6 cement mortar:",
+    "options": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "25 cm"
+    ],
+    "correctAnswer": "20 cm"
+},
+{
+    "number": 16,
+    "question": "Lower half of the area between the crown and the sloping back of an arch is called:",
+    "options": [
+        "Spandrel",
+        "Hunch",
+        "Springing",
+        "Soffit"
+    ],
+    "correctAnswer": "Hunch"
+},
+{
+    "number": 17,
+    "question": "Couple roof is used for span:",
+    "options": [
+        "3.5 m or less",
+        "3.5–5 m",
+        "5–6.5 m",
+        "6.5–8 m"
+    ],
+    "correctAnswer": "3.5 m or less"
+},
+{
+    "number": 18,
+    "question": "Recommended solid slope for beams and slabs:",
+    "options": [
+        "25–50 mm",
+        "25–75 mm",
+        "30–125 mm",
+        "50–100 mm"
+    ],
+    "correctAnswer": "30–125 mm"
+},
+{
+    "number": 19,
+    "question": "Pile foundation is generally provided if soil is:",
+    "options": [
+        "Compacted",
+        "Water-logged",
+        "Man-made",
+        "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+},
+{
+    "number": 20,
+    "question": "Pile with a bulb filled with concrete at its lower end is called:",
+    "options": [
+        "Simplex pile",
+        "Mac-Arthur pile",
+        "Raymond pile",
+        "Franki pile"
+    ],
+    "correctAnswer": "Mac-Arthur pile"
+},
+{
+    "number": 21,
+    "question": "Decorative sloped course placed on top of a wall is called:",
+    "options": [
+        "Corbelling",
+        "Coping",
+        "Frieze",
+        "Lintel"
+    ],
+    "correctAnswer": "Corbelling"
+},
+{
+    "number": 22,
+    "question": "Cut in a door frame to receive a shutter is called:",
+    "options": [
+        "Louver",
+        "Stop",
+        "Horn",
+        "Rebate"
+    ],
+    "correctAnswer": "Rebate"
+},
+{
+    "number": 23,
+    "question": "Lime-sand mortar ratio used for brickwork:",
+    "options": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:4"
+    ],
+    "correctAnswer": "1:2"
+},
+{
+    "number": 24,
+    "question": "For a 10 cm thick partition wall, preferred bond is:",
+    "options": [
+        "English bond",
+        "Flemish bond",
+        "Header bond",
+        "Stretcher bond"
+    ],
+    "correctAnswer": "Stretcher bond"
+},
+{
+    "number": 25,
+    "question": "Strength of brick masonry in 1:6 cement mortar:",
+    "options": [
+        "20 ton/m²",
+        "40 ton/m²",
+        "50 ton/m²",
+        "60 ton/m²"
+    ],
+    "correctAnswer": "50 ton/m²"
+},
+{
+    "number": 26,
+    "question": "When designing stairs, the product of rise and run is approximately:",
+    "options": [
+        "350",
+        "420",
+        "450",
+        "500"
+    ],
+    "correctAnswer": "420"
+},
+{
+    "number": 27,
+    "question": "Process of roughening the backing surface before plastering:",
+    "options": [
+        "Dubbing",
+        "Hacking",
+        "Blistering",
+        "Peeling"
+    ],
+    "correctAnswer": "Hacking"
+},
+{
+    "number": 28,
+    "question": "Window provided on a sloping roof is called:",
+    "options": [
+        "Lantern window",
+        "Dormer window",
+        "Louver window",
+        "Rash window"
+    ],
+    "correctAnswer": "Dormer window"
+},
+{
+    "number": 29,
+    "question": "Nominal thickness of a brick wall in mm:",
+    "options": [
+        "90 mm",
+        "150 mm",
+        "190 mm",
+        "200 mm"
+    ],
+    "correctAnswer": "200 mm"
+},
+{
+    "number": 1,
+    "question": "Mud plaster does not require curing.",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "True"
+},
+{
+    "number": 2,
+    "question": "Which of the following is not a type of plaster finish?",
+    "options": [
+        "Rough-cast",
+        "Pebble-dash",
+        "Sand-faced",
+        "Wood"
+    ],
+    "correctAnswer": "Wood"
+},
+{
+    "number": 3,
+    "question": "In a lime-cement plaster with a ratio of 1:1:6, the composition is:",
+    "options": [
+        "Lime : Cement : Sand",
+        "Cement : Lime : Sand",
+        "Lime : Sand : Gravel",
+        "Cement : Sand : Gravel"
+    ],
+    "correctAnswer": "Cement : Lime : Sand"
+},
+{
+    "number": 4,
+    "question": "A wooden surface requires how many plaster coats?",
+    "options": [
+        "2",
+        "3",
+        "1",
+        "None"
+    ],
+    "correctAnswer": "3"
+},
+{
+    "number": 5,
+    "question": "Tool used to press and evenly spread mortar:",
+    "options": [
+        "Trowel",
+        "Aluminium rod",
+        "Floats",
+        "Brush"
+    ],
+    "correctAnswer": "Floats"
+},
+{
+    "number": 6,
+    "question": "In plastering, the first coat is called, with thickness in mm:",
+    "options": [
+        "Undercoat, 6-9",
+        "Floating coat, 6-9",
+        "Floating coat, 10-15",
+        "Undercoat, 10-15"
+    ],
+    "correctAnswer": "Undercoat, 10-15"
+},
+{
+    "number": 7,
+    "question": "Based on materials, which is not a type of plaster?",
+    "options": [
+        "Cement",
+        "Gypsum",
+        "Pozzolana",
+        "Lime"
+    ],
+    "correctAnswer": "Pozzolana"
+},
+{
+    "number": 8,
+    "question": "Which IS code specifies the requirements for cement plaster?",
+    "options": [
+        "IS 1500",
+        "IS 1221",
+        "IS 1400",
+        "IS 1661"
+    ],
+    "correctAnswer": "IS 1661"
+},
+{
+    "number": 9,
+    "question": "Before plastering, the surface must be:",
+    "options": [
+        "Rough",
+        "Smooth",
+        "Cemented",
+        "Wet"
+    ],
+    "correctAnswer": "Rough"
+},
+{
+    "number": 10,
+    "question": "Ensures uniform thickness of plaster:",
+    "options": [
+        "Bull point",
+        "Pivot point",
+        "Bull mark",
+        "Bench mark"
+    ],
+    "correctAnswer": "Bull mark"
+},
+{
+    "number": 11,
+    "question": "Plaster is also called:",
+    "options": [
+        "Pre-casting",
+        "Parging",
+        "Porting",
+        "Polishing"
+    ],
+    "correctAnswer": "Parging"
+},
+{
+    "number": 12,
+    "question": "For supporting a heavy structure on sandy soil, the commonly used foundation type is:",
+    "options": [
+        "Combined footing",
+        "R.F. footing",
+        "Pier footing",
+        "Strap footing"
+    ],
+    "correctAnswer": "Pier footing"
+},
+{
+    "number": 13,
+    "question": "Stone with the lowest crushing strength:",
+    "options": [
+        "Granite",
+        "Chalk",
+        "Marble",
+        "Sandstone"
+    ],
+    "correctAnswer": "Chalk"
+},
+{
+    "number": 14,
+    "question": "Brick laid across the width is called:",
+    "options": [
+        "Closer",
+        "Half brick",
+        "Bed",
+        "Bat"
+    ],
+    "correctAnswer": "Bat"
+},
+{
+    "number": 15,
+    "question": "Floor made with 3mm marble chips is called:",
+    "options": [
+        "Mosaic floor",
+        "Terrazzo floor",
+        "Chip floor",
+        "Marble floor"
+    ],
+    "correctAnswer": "Terrazzo floor"
+},
+{
+    "number": 16,
+    "question": "Local swelling in finished plaster is called:",
+    "options": [
+        "Cracking",
+        "Dubbing",
+        "Blistering",
+        "Hacking"
+    ],
+    "correctAnswer": "Blistering"
+},
+{
+    "number": 17,
+    "question": "Expansion joints are provided in masonry walls if length exceeds:",
+    "options": [
+        "10 m",
+        "20 m",
+        "30 m",
+        "40 m"
+    ],
+    "correctAnswer": "40 m"
+},
+{
+    "number": 18,
+    "question": "Method of placing each brick with a small horizontal gap before pressing it with a brick hammer:",
+    "options": [
+        "Trolling",
+        "Laying",
+        "Retaining",
+        "None"
+    ],
+    "correctAnswer": "Laying"
+},
+{
+    "number": 19,
+    "question": "Unsuitable due to large variations in properties caused by moisture content:",
+    "options": [
+        "Low impact strength",
+        "Uncertain permeability",
+        "Particle uniformity",
+        "Large property change due to moisture"
+    ],
+    "correctAnswer": "Large property change due to moisture"
+},
+{
+    "number": 20,
+    "question": "Brick laid parallel to the wall face along its length is called:",
+    "options": [
+        "Header",
+        "Stretcher",
+        "Closer",
+        "None of these"
+    ],
+    "correctAnswer": "Stretcher"
+},
+{
+    "number": 21,
+    "question": "Type of truss for a factory with span 6–9 m:",
+    "options": [
+        "Mansard truss",
+        "Queen post truss",
+        "King post truss",
+        "Collar truss"
+    ],
+    "correctAnswer": "Not provided"
+},
+{
+    "number": 22,
+    "question": "Slope:",
+    "options": [
+        "1 in 40",
+        "1 in 50",
+        "1 in 60",
+        "1 in 70"
+    ],
+    "correctAnswer": "1 in 60"
+},
+{
+    "number": 23,
+    "question": "Inclined support at stair edges and rising ends is called:",
+    "options": [
+        "Buster",
+        "Header",
+        "String",
+        "Beam"
+    ],
+    "correctAnswer": "String"
+},
+{
+    "number": 24,
+    "question": "Brick laid parallel to the wall face along its width is called:",
+    "options": [
+        "Header",
+        "Stretcher",
+        "Closer",
+        "None"
+    ],
+    "correctAnswer": "Header"
+},
+{
+    "number": 25,
+    "question": "Stone placed on the crown of an arch is called:",
+    "options": [
+        "Keystone",
+        "Soffit",
+        "Springer",
+        "Corbel"
+    ],
+    "correctAnswer": "Keystone"
+},
+{
+    "number": 26,
+    "question": "Triangular portion between two adjacent arches and their crowns is called:",
+    "options": [
+        "Hunch",
+        "Spandrel",
+        "Soffit",
+        "Rise"
+    ],
+    "correctAnswer": "Spandrel"
+},
+{
+    "number": 27,
+    "question": "In drilled pile holes, concrete compaction is done by compressed air in case of:",
+    "options": [
+        "Simplex pile",
+        "Franki pile",
+        "Pressure pile",
+        "Vibro pile"
+    ],
+    "correctAnswer": "Pressure pile"
+},
+{
+    "number": 28,
+    "question": "Pile foundations are suitable for:",
+    "options": [
+        "Water-logged soil",
+        "Soft rocks",
+        "Compact soil",
+        "Multistorey buildings"
+    ],
+    "correctAnswer": "Water-logged soil"
+},
+{
+    "number": 29,
+    "question": "Foundation with a cantilever beam joining two footings is called:",
+    "options": [
+        "Strip footing",
+        "Strap footing",
+        "Combined footing",
+        "Raft footing"
+    ],
+    "correctAnswer": "Strap footing"
+},
+{
+    "number": 30,
+    "question": "Thickness of horizontal D.P.C. using cement concrete:",
+    "options": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "8 cm"
+    ],
+    "correctAnswer": "4 cm"
+},
+{
+    "number": 1,
+    "question": "Parian cement plaster is obtained when POP is calcined with:",
+    "options": [
+        "Pearl ash",
+        "Alum",
+        "Borax",
+        "Petroleum"
+    ],
+    "correctAnswer": "Borax"
+},
+{
+    "number": 2,
+    "question": "The detachment of plaster from the background is called:",
+    "options": [
+        "Peeling",
+        "Plastering",
+        "Distempering",
+        "Graining"
+    ],
+    "correctAnswer": "Peeling"
+},
+{
+    "number": 3,
+    "question": "The white crystalline substance that appears on the surface of plaster due to salts in the material is called:",
+    "options": [
+        "Cracking",
+        "Crystallization",
+        "Efflorescence",
+        "Crazing"
+    ],
+    "correctAnswer": "Efflorescence"
+},
+{
+    "number": 4,
+    "question": "The first coat of applied plaster is the undercoat:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 5,
+    "question": "A thin layer of cement particles formed due to excessive flow is called:",
+    "options": [
+        "Undercoat",
+        "Peel",
+        "Latence",
+        "Latch"
+    ],
+    "correctAnswer": "Latence"
+},
+{
+    "number": 6,
+    "question": "The process of roughening the background is called:",
+    "options": [
+        "Hacking",
+        "Plastering",
+        "Painting",
+        "Soaking"
+    ],
+    "correctAnswer": "Hacking"
+},
+{
+    "number": 7,
+    "question": "Wooden strips fixed on the surface for applying the first coat of plaster are called:",
+    "options": [
+        "Hooks",
+        "Grounds",
+        "Pins",
+        "Bars"
+    ],
+    "correctAnswer": "Grounds"
+},
+{
+    "number": 8,
+    "question": "The term for mixing various plaster components is called:",
+    "options": [
+        "Flaking",
+        "Blooming",
+        "Gaging",
+        "Hacking"
+    ],
+    "correctAnswer": "Gaging"
+},
+{
+    "number": 9,
+    "question": "Distant patches on the previous coat of plaster are called scaling:",
+    "options": [
+        "Flaking",
+        "Disturbing",
+        "Painting",
+        "Smiling"
+    ],
+    "correctAnswer": "Flaking"
+},
+{
+    "number": 10,
+    "question": "The final coat of plaster is called:",
+    "options": [
+        "Background",
+        "Finishing coat",
+        "Undercoat",
+        "Plastered coat"
+    ],
+    "correctAnswer": "Finishing coat"
+},
+{
+    "number": 11,
+    "question": "Filling hollow spaces left in solid backgrounds is called:",
+    "options": [
+        "Dubbing",
+        "Hugging",
+        "Smiling",
+        "Painting"
+    ],
+    "correctAnswer": "Dubbing"
+},
+{
+    "number": 12,
+    "question": "Small plaster markers placed on the background to set levels are called:",
+    "options": [
+        "Patches",
+        "Balls",
+        "Dots",
+        "Points"
+    ],
+    "correctAnswer": "Dots"
+},
+{
+    "number": 13,
+    "question": "The top part of a dead plastered wall:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 14,
+    "question": "Development of hairline cracks is called:",
+    "options": [
+        "Cracking",
+        "Dubbing",
+        "Crazing",
+        "Abrasion"
+    ],
+    "correctAnswer": "Crazing"
+},
+{
+    "number": 15,
+    "question": "Development of fissures in plaster due to background movement is called:",
+    "options": [
+        "Cracking",
+        "Peeling",
+        "Hacking",
+        "Smiling"
+    ],
+    "correctAnswer": "Cracking"
+},
+{
+    "number": 16,
+    "question": "Swelling on a finished plaster surface is called:",
+    "options": [
+        "Dots",
+        "Blistering",
+        "Dubbing",
+        "Smiling"
+    ],
+    "correctAnswer": "Blistering"
+},
+{
+    "number": 17,
+    "question": "The surface on which the first coat of plaster is applied is called:",
+    "options": [
+        "Dado",
+        "Dot",
+        "Background",
+        "Face"
+    ],
+    "correctAnswer": "Background"
+},
+{
+    "number": 18,
+    "question": "Keene’s cement is obtained by slaking cement with pigment in glue:",
+    "options": [
+        "Siripet",
+        "Scagliola",
+        "Snowcrete",
+        "Colorecret"
+    ],
+    "correctAnswer": "Scagliola"
+},
+{
+    "number": 19,
+    "question": "Cement obtained by slaking alum with Plaster of Paris is:",
+    "options": [
+        "Parian cement",
+        "Martin cement",
+        "Keene cement",
+        "Colorecat cement"
+    ],
+    "correctAnswer": "Keene cement"
+},
+{
+    "number": 20,
+    "question": "Used as a final coat for X-ray rooms:",
+    "options": [
+        "Gypsum plaster",
+        "Barium plaster",
+        "Granite plaster",
+        "Marble plaster"
+    ],
+    "correctAnswer": "Barium plaster"
+},
+{
+    "number": 21,
+    "question": "A mixture of finely crushed marble, mica, and cement is called:",
+    "options": [
+        "Granite silicon plaster",
+        "Barium plaster",
+        "Asbestos marble plaster",
+        "Acoustic plaster"
+    ],
+    "correctAnswer": "Asbestos marble plaster"
+},
+{
+    "number": 22,
+    "question": "Surface prepared for acoustic treatment of hall or room:",
+    "options": [
+        "Acoustic plaster",
+        "Marble plaster",
+        "Barium plaster",
+        "Gypsum plaster"
+    ],
+    "correctAnswer": "Acoustic plaster"
+},
+{
+    "number": 23,
+    "question": "Sometimes observed on plastered surfaces, especially when plaster is applied on metal rods:",
+    "options": [
+        "Rust stains",
+        "Uneven surface",
+        "Popping",
+        "Peeling"
+    ],
+    "correctAnswer": "Uneven surface"
+},
+{
+    "number": 24,
+    "question": "Conical holes on plastered surfaces are caused by:",
+    "options": [
+        "Popping",
+        "Rust stains",
+        "Softness",
+        "Uneven surface"
+    ],
+    "correctAnswer": "Popping"
+},
+{
+    "number": 25,
+    "question": "Plaster peeling off some parts of the surface forming patches is called:",
+    "options": [
+        "Popping",
+        "Flaking",
+        "Peeling",
+        "Softness"
+    ],
+    "correctAnswer": "Peeling"
+},
+{
+    "number": 26,
+    "question": "Very small flakes on plastered surfaces are called:",
+    "options": [
+        "Peeling",
+        "Flaking",
+        "Popping",
+        "Uneven surface"
+    ],
+    "correctAnswer": "Flaking"
+},
+{
+    "number": 27,
+    "question": "Efflorescence on plaster occurs due to soluble salts in plastering and building materials:",
+    "options": [
+        "Flaking",
+        "Efflorescence",
+        "Peeling",
+        "Popping"
+    ],
+    "correctAnswer": "Efflorescence"
+},
+{
+    "number": 28,
+    "question": "A plaster defect observed mainly on interior plastered surfaces is:",
+    "options": [
+        "Softness",
+        "Cracks",
+        "Peeling",
+        "Blistering"
+    ],
+    "correctAnswer": "Blistering"
+},
+{
+    "number": 29,
+    "question": "Wooden strips used for plastering purposes are made from well-seasoned wood:",
+    "options": [
+        "Metal laths",
+        "Latex laths",
+        "Rubber laths",
+        "Wooden laths"
+    ],
+    "correctAnswer": "Wooden laths"
+},
+{
+    "number": 1,
+    "question": "The process of filling hollow spaces in walls before plastering is called:",
+    "options": [
+        "Hacking",
+        "Dubbing",
+        "Blistering",
+        "Peeling"
+    ],
+    "correctAnswer": "Dubbing"
+},
+{
+    "number": 2,
+    "question": "The height of a building’s roof is measured between:",
+    "options": [
+        "Roof and ground level",
+        "Roof and floor level",
+        "Above ground level to roof",
+        "Roof to ground level"
+    ],
+    "correctAnswer": "Roof and floor level"
+},
+{
+    "number": 3,
+    "question": "The type of pointing in which a V-shaped projection is provided outside the wall surface is called:",
+    "options": [
+        "Recessed pointing",
+        "Weather pointing",
+        "V-pointing",
+        "Tuck pointing"
+    ],
+    "correctAnswer": "Weather pointing"
+},
+{
+    "number": 4,
+    "question": "Minimum slope of a prepared roof surface should be:",
+    "options": [
+        "1:200",
+        "1:50",
+        "1:1",
+        "1:5"
+    ],
+    "correctAnswer": "1:200"
+},
+{
+    "number": 5,
+    "question": "In brickwork, the spread of the foundation wall from the base to the outer edge does not exceed:",
+    "options": [
+        "1/2 horizontal to 1 vertical",
+        "2/3 horizontal to 1 vertical",
+        "1 horizontal to 1 vertical",
+        "2 horizontal to 1 vertical"
+    ],
+    "correctAnswer": "1 horizontal to 1 vertical"
+},
+{
+    "number": 6,
+    "question": "Minimum strength of mortar used in load-bearing brickwork:",
+    "options": [
+        "50 N/cm²",
+        "100 N/cm²",
+        "150 N/cm²",
+        "200 N/cm²"
+    ],
+    "correctAnswer": "100 N/cm²"
+},
+{
+    "number": 7,
+    "question": "For exposed brick walls plastering, cement-sand mortar ratio should be:",
+    "options": [
+        "1:2",
+        "1:3",
+        "1:4",
+        "1:6"
+    ],
+    "correctAnswer": "1:4"
+},
+{
+    "number": 8,
+    "question": "For brickwork using lime-sand mortar, the ratio is:",
+    "options": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:4"
+    ],
+    "correctAnswer": "1:2"
+},
+{
+    "number": 9,
+    "question": "Nominal thickness of a brick wall in mm is:",
+    "options": [
+        "90 mm",
+        "150 mm",
+        "190 mm",
+        "200 mm"
+    ],
+    "correctAnswer": "200 mm"
+},
+{
+    "number": 10,
+    "question": "In pebble dash (splash) finish, the commonly used size of pebbles is:",
+    "options": [
+        "2–5 mm",
+        "10–20 mm",
+        "20–35 mm",
+        "30–50 mm"
+    ],
+    "correctAnswer": "10–20 mm"
+},
+{
+    "number": 11,
+    "question": "Pebble dash finish is also known as:",
+    "options": [
+        "Dry dash finish",
+        "Rough cast finish",
+        "Wet dash finish",
+        "Splash dash finish"
+    ],
+    "correctAnswer": "Dry dash finish"
+},
+{
+    "number": 12,
+    "question": "Which type of plaster finish is used for plaster finishing?",
+    "options": [
+        "Smooth cast finish",
+        "Pebble dash",
+        "Scraped finish",
+        "Textured finish"
+    ],
+    "correctAnswer": "Textured finish"
+},
+{
+    "number": 13,
+    "question": "Mortar ratio for the final coat in finishing is:",
+    "options": [
+        "1:3 / 2:3",
+        "3/2 :1:3",
+        "1:3 / 2:4",
+        "1:1 / 2:3"
+    ],
+    "correctAnswer": "1:3 / 2:3"
+},
+{
+    "number": 14,
+    "question": "Rough cast finish is also known as:",
+    "options": [
+        "Dry dash finish",
+        "Pebble dash",
+        "Spatter dash finish",
+        "Textured finish"
+    ],
+    "correctAnswer": "Spatter dash finish"
+},
+{
+    "number": 15,
+    "question": "Thickness of second coat in sand-faced finish:",
+    "options": [
+        "4 mm",
+        "8 mm",
+        "12 mm",
+        "15 mm"
+    ],
+    "correctAnswer": "8 mm"
+},
+{
+    "number": 16,
+    "question": "First coat in sand-faced finish is applied using cement-sand mortar ratio:",
+    "options": [
+        "1:2",
+        "1:3",
+        "1:1",
+        "1:4"
+    ],
+    "correctAnswer": "1:4"
+},
+{
+    "number": 17,
+    "question": "In smooth cast finish, steel trowels are not recommended for external rendering:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "True"
+},
+{
+    "number": 18,
+    "question": "In sand-faced finish, second coat of plaster is applied after curing the first coat for:",
+    "options": [
+        "7 days",
+        "15 days",
+        "21 days",
+        "27 days"
+    ],
+    "correctAnswer": "7 days"
+},
+{
+    "number": 19,
+    "question": "Mortar ratio for smooth cast finish is:",
+    "options": [
+        "1:2",
+        "2:3",
+        "1:3",
+        "1:4"
+    ],
+    "correctAnswer": "1:3"
+},
+{
+    "number": 20,
+    "question": "In three-coat plastering, the first coat is called:",
+    "options": [
+        "Rendering coat",
+        "Floating coat",
+        "Setting coat",
+        "Finishing coat"
+    ],
+    "correctAnswer": "Rendering coat"
+},
+{
+    "number": 21,
+    "question": "In devil float finish, the projection from the surface is approximately:",
+    "options": [
+        "3 mm",
+        "5 cm",
+        "7 mm",
+        "10 mm"
+    ],
+    "correctAnswer": "3 mm"
+},
+{
+    "number": 22,
+    "question": "The “knee” is also called:",
+    "options": [
+        "Gauging trowel",
+        "Floating rule",
+        "Floating float",
+        "Laying trowel"
+    ],
+    "correctAnswer": "Floating float"
+},
+{
+    "number": 23,
+    "question": "Five types of metal floats are usually used for good workmanship:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 24,
+    "question": "Blade size of a metal float is:",
+    "options": [
+        "10 cm × 20 cm",
+        "20 cm × 40 cm",
+        "10 cm × 30 cm",
+        "30 cm × 50 cm"
+    ],
+    "correctAnswer": "10 cm × 30 cm"
+},
+{
+    "number": 25,
+    "question": "Trowel is made of wood:",
+    "options": [
+        "True",
+        "False"
+    ],
+    "correctAnswer": "False"
+},
+{
+    "number": 26,
+    "question": "Metal float is also known as:",
+    "options": [
+        "Gauging trowel",
+        "Laying trowel",
+        "Reducing trowel",
+        "Floating rule"
+    ],
+    "correctAnswer": "Laying trowel"
+},
+{
+    "number": 27,
+    "question": "Which tool is used for finishing small areas or less quantity of material?",
+    "options": [
+        "Gauging trowel",
+        "Gauging float",
+        "Metal float",
+        "Skimming float"
+    ],
+    "correctAnswer": "Gauging trowel"
+},
+{
+    "number": 28,
+    "question": "Parian cement plaster is obtained when POP is calcined with:",
+    "options": [
+        "Pearl ash",
+        "Alum",
+        "Borax",
+        "Petroleum"
+    ],
+    "correctAnswer": "Borax"
+},
+{
+    "number": 29,
+    "question": "Martin cement plaster is obtained when POP is calcined with:",
+    "options": [
+        "Pearl ash",
+        "Alum",
+        "Borax",
+        "Boren"
+    ],
+    "correctAnswer": "Pearl ash"
+},
+{
+    "number": 30,
+    "question": "The hole formed in the surface of popping plaster is:",
+    "options": [
+        "Circular",
+        "Conical",
+        "Cylindrical",
+        "Rectangular"
+    ],
+    "correctAnswer": "Conical"
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
